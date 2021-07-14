@@ -1722,6 +1722,10 @@ code {
     color: rgba(0, 0, 0, .05)
 }
 
+.title-purple {
+    color: rgb(92, 53, 102)
+}
+
 .white-90 {
     color: hsla(0, 0%, 100%, .9)
 }
@@ -1944,6 +1948,10 @@ code {
 
 .bg-black-05 {
     background-color: rgba(0, 0, 0, .05)
+}
+
+.bg-title-pink {
+    background-color: rgba(248, 222, 255, 0.7);
 }
 
 .bg-white-90 {
