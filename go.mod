@@ -1,3 +1,3 @@
-module github.com/theNewDynamic/gohugo-theme-ananke
+module github.com/owen9825/website-ananke
 
-go 1.12
+go 1.16

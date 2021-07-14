@@ -86,6 +86,10 @@ my pay, you shall receive yours.”
 Then he beat a retreat, with drooping head, but the last in the field,
 like a general who has fought well.
 
+## The next section 
+```python
+some code
+```
 And as he descended the winding stairs of the courts: “A fine rabble of
 asses and dolts these Parisians!” he muttered between his teeth; “they
 come to hear a mystery and don’t listen to it at all! They are engrossed
