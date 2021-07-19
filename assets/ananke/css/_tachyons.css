@@ -3497,7 +3497,8 @@ code {
 }
 
 .v-mid {
-    vertical-align: middle
+    vertical-align: middle;
+    align-items: center
 }
 
 .v-top {
@@ -5538,7 +5539,8 @@ code {
     }
 
     .v-mid-ns {
-        vertical-align: middle
+        vertical-align: middle;
+        align-items: center
     }
 
     .v-top-ns {
