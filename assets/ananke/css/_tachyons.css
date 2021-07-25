@@ -9130,4 +9130,52 @@ code {
     .v-btm-l {
         vertical-align: bottom
     }
+
+    .selector {
+        position: relative;
+        display: block;
+        text-align: left;
+    }
+
+    .selector_toggle {
+        display: block;
+        color: white;
+        text-decoration: none;
+        box-shadow: 0 0px 0px rgba(0,0,0,0.3);
+        -webkit-transition: all 0.2s linear;
+        -moz-transition: all 0.2s linear;
+        -o-transition: all 0.2s linear;
+        transition: all 0.2s linear;
+    }
+
+    .selector_list {
+        display: none;
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        right: 0;
+      }
+      .open .selector_list {
+        display: block;
+      }
+      .selector_list li a {
+        display: block;
+        color: white;
+        text-decoration: none;
+        padding: 1em;
+        border-top: 1px solid;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        -webkit-transition: all 0.2s linear;
+        -moz-transition: all 0.2s linear;
+        -o-transition: all 0.2s linear;
+        transition: all 0.2s linear;
+      }
+
+      .selector_list li:hover a, .selector_list li:focus a, .selector_list li.selected a {
+        background-color: #56c022;
+      }
 }
