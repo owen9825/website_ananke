@@ -55,6 +55,12 @@ a {
     background-color: transparent
 }
 
+/* https://stackoverflow.com/a/52058198/1495729 */
+a[target="_blank"]::after {
+    content: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAQElEQVR42qXKwQkAIAxDUUdxtO6/RBQkQZvSi8I/pL4BoGw/XPkh4XigPmsUgh0626AjRsgxHTkUThsG2T/sIlzdTsp52kSS1wAAAABJRU5ErkJggg==);
+    margin: 0 3px 0 5px;
+}
+
 abbr[title] {
     border-bottom: none;
     text-decoration: underline;
@@ -1176,6 +1182,10 @@ img {
 
 .system-serif {
     font-family: serif
+}
+
+.bird-quote {
+    font-family: 'Sedgwick Ave', cursive;
 }
 
 .code,

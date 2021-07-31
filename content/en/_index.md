@@ -8,6 +8,5 @@ Welcome to my blog with some of my work in progress. I've been working on this b
 ## Something else
 Here!
 
-todo: Owen, copy the _Recent Articles_ format to get the cockatoo here
 
 

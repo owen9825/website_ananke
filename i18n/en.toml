@@ -42,3 +42,12 @@ other = "A drag queen"
 
 [kangaroo]
 other = "kangaroo"
+
+[cockatoo_image_alt]
+other = "A cockatoo"
+
+[cockatoo_oppression_heading]
+other = "Help, I'm being repressed"
+
+[cockatoo_oppression_explanation]
+other = "The existence of cockatoos is not monitored or optimised. Preferential existence is granted to outsiders and intruders."
