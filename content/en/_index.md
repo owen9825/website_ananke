@@ -3,10 +3,6 @@ title: "Non-Human Party"
 featured_image: '/images/purple dogs.jpg'
 description: "Creating a harmonious civilisation of intelligent agents"
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+Our world is inhabited by a multitude of intelligent actors, yet full rights and autonomy are only granted to adult humans; corporations; and governments.
 
-## Something else
-Here!
-
-
-
+There are loveable actors who could be more explicitly welcomed into participating in our civilisation, plus theoretical actors who we could create, for the purpose of advancing us further forward.
