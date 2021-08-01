@@ -32,7 +32,7 @@ html {
 }
 
 body {
-    margin: 0
+    margin: 0;
 }
 
 h1 {
@@ -966,7 +966,7 @@ img {
 }
 
 .flex {
-    display: flex
+    display: flex;
 }
 
 .inline-flex {
@@ -1169,7 +1169,7 @@ img {
 }
 
 .sans-serif {
-    font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, helvetica neue, helvetica, ubuntu, roboto, noto, segoe ui, arial, sans-serif
+    font-family: "Gowun Dodum", avenir next, avenir, ubuntu, noto, segoe ui, arial, sans-serif
 }
 
 .serif {
@@ -1205,6 +1205,14 @@ code {
     font-family: avenir next, avenir, sans-serif
 }
 
+.gowun {
+    font-family: 'Gowun Dodum', sans-serif;
+}
+
+.baloo {
+    font-family: 'Baloo Chettan 2', cursive;
+}
+
 .athelas {
     font-family: athelas, georgia, serif
 }
@@ -1231,6 +1239,15 @@ code {
 
 .baskerville {
     font-family: baskerville, serif
+}
+
+@font-face {
+    font-family: "UniNeueHeavy-Italic";
+    src: url('/fonts/UniNeueHeavyItalic/font.woff2') format('woff2'), url('/fonts/UniNeueHeavyItalic/font.woff') format('woff');
+  }
+
+.uni-neue {
+    font-family: UniNeueHeavy-Italic;
 }
 
 .i {
