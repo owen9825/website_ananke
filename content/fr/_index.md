@@ -1,8 +1,8 @@
 ---
 title: "Parti Non-Humain"
 featured_image: '/images/gohugo-default-sample-hero-image.jpg'
-description: "Le dernier thème dont vous aurez besoin. Peut-être"
+description: "Créons une civilisation harmonieuse d'agents intelligents"
 ---
-Bienvenu sur mon blog!
+Notre monde est habité par une multitude des d'acteurs intelligents, mais les les pleins droits et l'autonomie ne sont accordés qu'aux humains adultes; sociétés; et les gouvernements.
 
-Vous pouvez lire mes idées de publication plus bas.
+Il y a des acteurs adorables qui pourraient être plus explicitement accueillis pour participer à notre civilisation, ainsi que des acteurs théoriques que nous pourrions créer, dans le but de nous fair avancer davantage.

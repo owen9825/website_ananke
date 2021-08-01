@@ -13,11 +13,11 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    title = "My blog"
+    title = "🤖💃🦘"
     weight = 1
     contentDir = "content/en"
   [languages.fr]
-    title = "Mon blogue"
+    title = "🤖💃🐸"
     weight = 2
     contentDir = "content/fr"
 
