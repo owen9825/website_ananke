@@ -11,17 +11,23 @@
  *
  *    TABLE OF CONTENTS
  *
- *    1. External Library Includes
+ *    1. Color definitions
+ *    2. External Library Includes
  *       - Normalize.css | http://normalize.css.github.io
- *    2. Tachyons Modules
- *    3. Variables
+ *    3. Tachyons Modules
+ *    4. Variables
  *       - Media Queries
  *       - Colors
- *    4. Debugging
+ *    5. Debugging
  *       - Debug all
  *       - Debug children
  *
  */
+
+/*** Color definitions ***/
+:root {
+    --backing-pink: rgba(248, 222, 255, 0.6);
+}
 
 
 /*! TACHYONS v4.12.0 | http://tachyons.io */
@@ -33,6 +39,12 @@ html {
 
 body {
     margin: 0;
+    background-color:#efefef;
+    background:url("/images/vaporwave_blue_mountains.jpg") center fixed;
+  background-size:cover;
+  -webkit-background-size:cover;
+  -moz-background-size:cover;
+  -o-background-size:cover;
 }
 
 h1 {
@@ -969,6 +981,7 @@ img {
 
 .flex {
     display: flex;
+    background-color: var(--backing-pink);
 }
 
 .inline-flex {
