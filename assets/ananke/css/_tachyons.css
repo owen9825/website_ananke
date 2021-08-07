@@ -980,10 +980,6 @@ img {
     width: 100%
 }
 
-.pink-bg {
-    background-color: var(--backing-pink);
-}
-
 .flex {
     display: flex;
     background-color: var(--backing-pink);
@@ -2130,7 +2126,7 @@ code {
 }
 
 .bg-pink {
-    background-color: #ff80cc
+    background-color: var(--backing-pink);
 }
 
 .bg-light-pink {
