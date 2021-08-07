@@ -5,6 +5,7 @@ theme = "website-ananke"
 themesDir = ".."
 resourceDir = "resources"
 
+Copyright = "Non-Human Party"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
@@ -45,7 +46,7 @@ DisqusShortname = "nonhuman"
   stackoverflow = ""
   rss = ""
   # Color classes are defined in /assets/ananke/css/_tachyons.css
-  background_color_class = "bg-solarized-light"
+  background_color_class = "bg-pink"
   cover_dimming_class = "dimming"
   featured_image = "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number = 2
