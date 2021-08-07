@@ -41,10 +41,11 @@ body {
     margin: 0;
     background-color:#efefef;
     background:url("/images/vaporwave_blue_mountains.jpg") center fixed;
-  background-size:cover;
-  -webkit-background-size:cover;
-  -moz-background-size:cover;
-  -o-background-size:cover;
+    background-size:cover;
+    background-position-y: 35%;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
 }
 
 h1 {
@@ -977,6 +978,10 @@ img {
 .dt--fixed {
     table-layout: fixed;
     width: 100%
+}
+
+.pink-bg {
+    background-color: var(--backing-pink);
 }
 
 .flex {
