@@ -387,7 +387,7 @@ img {
 
 .bb {
     border-bottom-style: solid;
-    border-bottom-width: 1px
+    border-bottom-width: 0.05rem;
 }
 
 .bl {
