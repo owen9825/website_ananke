@@ -27,6 +27,7 @@
 /*** Color definitions ***/
 :root {
     --backing-pink: rgba(248, 222, 255, 0.6);
+    --backing-solarized-light: #fdf6e3d9;
 }
 
 
@@ -1995,6 +1996,10 @@ code {
 
 .bg-title-pink {
     background-color: rgba(248, 222, 255, 0.7);
+}
+
+.bg-solarized-light {
+    background-color: var(--backing-solarized-light);
 }
 
 .bg-white-90 {
