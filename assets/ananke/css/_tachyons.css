@@ -62,6 +62,10 @@ hr {
     overflow: visible
 }
 
+main.bg-solarized-light {
+    min-height: 65vh;
+}
+
 pre {
     font-family: monospace, monospace;
     font-size: 1em

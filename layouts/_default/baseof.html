@@ -42,9 +42,7 @@
   <body class="ma0 {{ $.Param "body_classes"  | default "sans-serif bg-near-white"}}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
 
     {{ block "header" . }}{{ partial "site-header.html" .}}{{ end }}
-    <main class="pb5" role="main">
-      {{ block "main" . }}{{ end }}
-    </main>
+    {{ block "main" . }}{{ end }}
     {{ block "footer" . }}{{ partialCached "site-footer.html" . }}{{ end }}
   </body>
 </html>

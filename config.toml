@@ -46,7 +46,8 @@ DisqusShortname = "nonhuman"
   stackoverflow = ""
   rss = ""
   # Color classes are defined in /assets/ananke/css/_tachyons.css
-  background_color_class = "bg-pink"
+  background_decorative_class = "bg-pink"
+  background_reading_class = "bg-solarized-light"
   cover_dimming_class = "dimming"
   featured_image = "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number = 2

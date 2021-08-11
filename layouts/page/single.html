@@ -1,9 +1,10 @@
 {{ define "header" }}{{ partial "page-header.html" . }}{{ end }}
 {{ define "main" }}
-  <div class="flex-l mt2 mw8 center">
+<main class="pb5 {{ .Site.Params.background_reading_class | default "bg-white" }}" role="main">
+  <div class="flex-l pt2 mw8 center">
     <article class="center cf pv5 ph3 ph4-ns mw7">
       <header>
-        <p class="f6 b helvetica tracked">
+        <p class="f6 b gowun tracked">
           {{ humanize .Section | upper  }}
         </p>
         <h1 class="f1">
@@ -15,4 +16,5 @@
       </div>
     </article>
   </div>
+</main>
 {{ end }}
