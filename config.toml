@@ -1,5 +1,5 @@
 title = "Notre-Dame de Paris"
-baseURL = "https://example.com"
+baseURL = "http://localhost:1313"
 languageCode = "en-us"
 theme = "website-ananke"
 themesDir = ".."
@@ -52,3 +52,10 @@ DisqusShortname = "nonhuman"
   cover_dimming_class = "dimming"
   featured_image = "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number = 2
+
+# I tried this below, but it got rid of the /static mount, so instead, I've had to copy the contents to /static
+# https://discourse.gohugo.io/t/importing-js-from-node-packages/23545/3
+#[module]
+#  [[module.mounts]]  
+#  source="node_modules/intl-tel-input/build"
+#  target="static/intl-tel-input"

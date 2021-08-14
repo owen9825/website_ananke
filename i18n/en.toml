@@ -17,16 +17,25 @@ other = "What's in this {{ .Type }}"
 other = "Related"
 
 [yourName]
-other = "Your Name"
+other = "Full name *"
+
+[namePlaceholder]
+other = "Your name"
 
 [emailAddress]
-other = "Email Address"
-
-[message]
-other = "Message"
+other = "Email address *"
 
 [emailRequiredNote]
-other = "An email address is required."
+other = "How will we be able to respond?"
+
+[phoneNumber]
+other = "Phone number"
+
+[message]
+other = "Message *"
+
+[messagePlaceholder]
+other = "Hi Owen, I'd love to become more involved as a fan! Thank you for supporting the voiceless."
 
 [send]
 other = "Send"

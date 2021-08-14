@@ -18,3 +18,10 @@
 .nested-links a{
   overflow-wrap: break-word;
 }
+
+/* https://www.npmjs.com/package/intl-tel-input */
+.iti__flag {background-image: url("/intl-tel-input/img/flags.png");}
+
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+  .iti__flag {background-image: url("/intl-tel-input/img/flags@2x.png");}
+}

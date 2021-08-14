@@ -1,5 +1,6 @@
 ---
 date: 2021-08-07T21:09:00+04:00
+author: "Owen Miller"
 description: "Ducklings walk around in our civilisation, but our stairs are difficult for these members."
 featured_image: "https://media.giphy.com/media/WiTFa9I5AfrEY/giphy.gif"
 tags: ["duck", "bird"]

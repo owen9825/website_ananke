@@ -17,16 +17,25 @@ other = "Ce qui est dans {{ .Type }}"
 other = "Lié"
 
 [yourName]
+other = "Nom complet"
+
+[namePlaceholder]
 other = "Votre nom"
 
 [emailAddress]
 other = "Adresse e-mail"
 
+[emailRequiredNote]
+other = "Une adresse e-mail est requise."
+
+[phoneNumber]
+other = "Numéro de téléphone"
+
 [message]
 other = "Message"
 
-[emailRequiredNote]
-other = "Une adresse e-mail est requise."
+[messagePlaceholder]
+other = "Salut Owen, j'adorerais m'impliquer davantage en tant que fan ! Merci de soutenir tous sans voix."
 
 [send]
 other = "Envoyer"
