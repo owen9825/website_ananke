@@ -46,6 +46,7 @@ DisqusShortname = "nonhuman"
   stackoverflow = ""
   rss = ""
   # Color classes are defined in /assets/ananke/css/_tachyons.css
+  body_classes = "sans-serif dark-gray"
   background_decorative_class = "bg-pink"
   background_reading_class = "bg-solarized-light"
   cover_dimming_class = "dimming"
