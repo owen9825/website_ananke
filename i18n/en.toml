@@ -31,6 +31,9 @@ other = "How will we be able to respond?"
 [phoneNumber]
 other = "Phone number"
 
+[favoriteAnimal]
+other = "What's an animal you like?"
+
 [message]
 other = "Message *"
 

@@ -31,6 +31,9 @@ other = "Une adresse e-mail est requise."
 [phoneNumber]
 other = "Numéro de téléphone"
 
+[favoriteAnimal]
+other = "Quel est un animal que vous aimez?"
+
 [message]
 other = "Message"
 

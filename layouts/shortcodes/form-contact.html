@@ -20,12 +20,14 @@
     <input type="tel" id="phone" name="phone" class="form-control {{ $.Scratch.Get "inputClasses" }}" 
       aria-labelledby="phone"/>
     
+    <label class="{{ $.Scratch.Get "labelClasses" }}"  for="phone">{{ i18n "favoriteAnimal" }}</label>
+    <input type="text" id="animal" name="animal" class="form-control {{ $.Scratch.Get "inputClasses" }}" 
+      aria-labelledby="animal" placeholder="🐙"/>
 
     <label class="{{ $.Scratch.Get "labelClasses" }}" for="message">{{ i18n "message" }}</label>
     {{ $message_placeholder := i18n "messagePlaceholder" }}
     <textarea id="message" name="message" class="{{ $.Scratch.Get "inputClasses" }} h4"
-      aria-labelledby="message" placeholder="{{ $message_placeholder }}" rules="required">
-    </textarea>
+      aria-labelledby="message" placeholder="{{ $message_placeholder }}" rules="required"></textarea>
 
     <input class="db w-100 mv2 white pa3 bn hover-shadow hover-bg-black bg-animate bg-black" type="submit" value="{{ i18n "send" }}" />
 
