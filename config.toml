@@ -31,7 +31,6 @@ DisqusShortname = "nonhuman"
   filename = "sitemap.xml"
 
 [params]
-  favicon = ""
   site_logo = ""
   description = "The last theme you'll ever need. Maybe."
   facebook = ""

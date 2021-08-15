@@ -117,11 +117,13 @@ example: `background_color_class = "bg-blue"` or `background_color_class = "bg-g
 
 ### Activate the contact form
 
-This theme includes a shortcode for a contact form that you can add to any page (there is an example on the contact page in the exampleSite folder). One option is to use [formspree.io](//formspree.io/) as proxy to send the actual email. Each month, visitors can send you up to one thousand emails without incurring extra charges. Visit the Formspree site to get the "action" link and add it to your shortcode like this:
+This theme includes a shortcode for a contact form that can be added to any page:
 
 ```
-{{< form-contact action="https://formspree.io/your@email.com" >}}
+{{< form-contact >}}
 ```
+
+We're using [KwesForms](https://kwesforms.com/).
 
 ### Update font or body classes
 
@@ -225,3 +227,7 @@ If you find a bug or have an idea for a feature, feel free to use the [issue tra
 TODO:
 
 - fix hard-coded link to [section](https://github.com/theNewDynamic/gohugo-theme-ananke/blob/master/layouts/index.html#L32)
+
+
+## Deployment
+<https://gohugo.io/hosting-and-deployment/hugo-deploy/>
