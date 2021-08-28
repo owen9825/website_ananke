@@ -25,9 +25,6 @@ other = "Your name"
 [emailAddress]
 other = "Email address *"
 
-[emailRequiredNote]
-other = "How will we be able to respond?"
-
 [phoneNumber]
 other = "Phone number"
 

@@ -25,9 +25,6 @@ other = "Votre nom"
 [emailAddress]
 other = "Adresse e-mail"
 
-[emailRequiredNote]
-other = "Une adresse e-mail est requise."
-
 [phoneNumber]
 other = "Numéro de téléphone"
 
