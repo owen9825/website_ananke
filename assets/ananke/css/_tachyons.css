@@ -1216,6 +1216,15 @@ code {
     font-family: Consolas, monaco, monospace
 }
 
+blockquote {
+    background-color: var(--backing-pink);
+}
+
+blockquote p {
+    padding: 1rem;
+    font-size: 1.35rem;
+}
+
 .courier {
     font-family: Courier Next, courier, monospace
 }
