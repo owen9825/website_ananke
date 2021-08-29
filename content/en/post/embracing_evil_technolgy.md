@@ -1,7 +1,7 @@
 ---
 date: 2021-03-21T11:00:59-04:00
 description: "Embracing Evil Technology"
-featured_image: "images/evil_tech_article/Mr_Burns_hands.gif"
+featured_image: "/images/evil_tech_article/Mr_Burns_hands.gif"
 tags: ["cameras"]
 title: "Embracing Evil Technology"
 ---

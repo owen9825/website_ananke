@@ -1,7 +1,7 @@
   <div class="mb3 pa4 mid-gray overflow-hidden">
     {{ if .Date }}
       <div class="f6">
-        {{ .Date.Format "January 2, 2006" }}
+        {{ .Date.Format "2 January 2006" }}
       </div>
     {{ end }}
     <h1 class="f3 near-black">
@@ -9,7 +9,12 @@
         {{ .Title }}
       </a>
     </h1>
+    {{ $featured_image := partial "func/GetFeaturedImage.html" . }}
+    {{ if $featured_image }}
+      <img src="{{ $featured_image }}" class="db" alt="image from {{ .Title }}">
+    {{ else }}
     <div class="nested-links f5 lh-copy nested-copy-line-height pr1-ns">
       {{ .Summary  }}
     </div>
+    {{ end}}
   </div>
