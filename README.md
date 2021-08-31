@@ -230,4 +230,14 @@ TODO:
 
 
 ## Deployment
-<https://gohugo.io/hosting-and-deployment/hugo-deploy/>
+```shell
+hugo deploy
+```
+
+* <https://gohugo.io/hosting-and-deployment/hugo-deploy/>
+* <https://aws.amazon.com/premiumsupport/knowledge-center/cloudfront-serve-static-website/>
+* I had to use the static website URL and [not click their autocompletion S3 link](https://www.reddit.com/r/aws/comments/aay6xt/how_to_serve_up_indexhtml_files_in_subfolders/)
+
+## Analysis
+* [Google Search Console](https://search.google.com/u/1/search-console?resource_id=sc-domain%3Anonhuman.party)
+* [Google Analytics](https://analytics.google.com/analytics)
