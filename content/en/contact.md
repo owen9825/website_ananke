@@ -1,6 +1,6 @@
 ---
 title: Contact
-featured_image: "images/cockatoo_telephone.gif"
+featured_image: "/images/cockatoo_telephone.gif"
 omit_header_text: true
 description: We'd love to hear from you
 type: page

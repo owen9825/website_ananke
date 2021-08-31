@@ -1,5 +1,5 @@
 title = "Notre-Dame de Paris"
-baseURL = "http://localhost:1313"
+baseURL = ""
 languageCode = "en-us"
 theme = "website-ananke"
 themesDir = ".."
@@ -58,3 +58,20 @@ DisqusShortname = "nonhuman"
 #  [[module.mounts]]  
 #  source="node_modules/intl-tel-input/build"
 #  target="static/intl-tel-input"
+
+[deployment]
+
+[[deployment.targets]]
+name="s3"
+URL = "s3://non-human-website?region=ap-southeast-2"
+cloudFrontDistributionID = "E1RKWLIN7W8OEP"
+
+[[deployment.matchers]]
+# Cache static assets for 1 year.
+pattern = "^.+\\.(js|css|svg|ttf|png|jpg|gif|mp4)$"
+cacheControl = "max-age=31536000, no-transform, public"
+gzip = true
+
+[[deployment.matchers]]
+pattern = "^.+\\.(html|xml|json)$"
+gzip = true

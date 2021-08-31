@@ -1,6 +1,6 @@
 {{ $.Scratch.Add "labelClasses" "f6 b db mb1 mt3 sans-serif mid-gray" }}
 {{ $.Scratch.Add "inputClasses" "w-100 f5 pv3 ph3 bg-light-gray bn" }}
-<link rel="stylesheet" href="{{ .Site.BaseURL}}intl-tel-input/css/intlTelInput.css">
+<link rel="stylesheet" href="/intl-tel-input/css/intlTelInput.css">
 <script src="https://kwesforms.com/v2/kwes-script.js" defer></script>
 <form class="black-80 sans-serif kwes-form" accept-charset="UTF-8" action="https://kwesforms.com/api/foreign/forms/wQg0seUvOCIKteoMSRbZ" method="POST" role="form">
 
@@ -28,10 +28,10 @@
     <input class="db w-100 mv2 white pa3 bn hover-shadow hover-bg-green bg-animate bg-green f2 uni-neue" type="submit" value="{{ i18n "send" }}" />
 
 </form>
-<script src="{{ .Site.BaseURL }}intl-tel-input/js/intlTelInput.min.js"></script>
+<script src="/intl-tel-input/js/intlTelInput.min.js"></script>
 <script>
   var input = document.querySelector("#phone");
   window.intlTelInput(input, {
-    "preferredCountries":["au"], "utilsScript":"{{ .Site.BaseURL }}intl-tel-input/js/utils.js"
+    "preferredCountries":["au"], "utilsScript":"/intl-tel-input/js/utils.js"
   });
 </script>
