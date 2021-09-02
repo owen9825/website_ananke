@@ -9,9 +9,9 @@ title: "Ducklings can't scale stairs"
 
 Ducklings are often seen walking through our civilisation, eagerly following a leader who might not have sufficient understanding of their followers, but they might also be following their mother duck.
 
-Ducks play a part in our ecosystem and maybe waterways would become overwhelmed with algae and lose all their Oxygen without the ducks, but either way, this isn't a discussion of how ducks affect an ecosystem; and the point of this article isn't to decide whether ducks are desirable − let's skip past "should ducks be desired" and say that ducks are ostensibly desired in our society:
+Ducks play a part in our ecosystem and maybe [waterways would become overwhelmed with weeds and lose biodiversity if ducks didn't carry animal eggs around on their feet](https://www.ducks.ca/stories/conservator/waterfowl-at-your-service-how-ducks-and-geese-help-our-environment/), but either way, this isn't a discussion of how ducks affect an ecosystem; and the point of this article isn't to decide whether ducks are desirable − let's skip past "should ducks be desired" and say that ducks are ostensibly desired in our society:
 
-* ![Dawn laundry detergent advertising that it saves wildlife](/images/duck_article/Dawn_ducks.jpeg) The poster child for "wildlife" worth saving!
+* ![Dawn laundry detergent advertising that it saves wildlife](/images/duck_article/Dawn_ducks.jpeg) The poster child for "wildlife" that's worth saving!
 * ![A large rubber duck at Darling Harbour](/images/duck_article/duck_at_Darling_Harbour.jpg) So popular they get an oversized version
 * ![A hunting magazine about ducks](/images/duck_article/hunting_ducks.jpg) Even people shooting them still like them!
 
