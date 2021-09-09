@@ -92,14 +92,23 @@ Moving beyond the sophisticated technology of _databases_, the laws are lacklust
 > ![A child being lifted into the air with a car boot, as it opens](/images/car_fashion_article/child_boot.gif)
 > An automated car with a child who might be committing an act of burglary? Does this earn 6 months' imprisonment?
 
-As cars become more autonomous, they need to learn with camera footage; and people are already installing such cameras en masse, yet there is no effort made to collect this useful data and put it to work in training robots.
+As cars become more autonomous, they need to learn with camera footage; and people are already installing such cameras en masse, yet there is no effort made to collect this useful data and put it to work in training robots. Imagine if the footage went into creating shared data sets and pre-trained neural networks that could then be used by private companies wanting to enter into the autonomous-vehicle space? Such facilitation would help prevent monopolies from forming around exclusive data access.
 
-From the existing camera footage, we could be spotting other cars colliding and automatically make the footage available to them; we could be spotting dead animals and keeping track of it; and we could even be spotting living animals and keeping track of their population. All of this valuable information being completely wasted.
+From the existing camera footage, we could even be spotting other people's collisions in real-time and could automatically make the footage available to them, seeming as we just saw their licence plate.
+
+We could be spotting animals and feeding this data to nation-wide models of animal population, including their death tolls. All of this valuable information being completely wasted.
 
 GPS data is also being wasted − moving vehicles will now regularly have access to maps and live traffic information, so we always know what's around the corner, yet speed limits have remained the same, as though we need to slowly drive into a mystery.
 
-With enough camera footage and machine-learning insight, we might even be able to have blame for crashes to be something that's decided by democratically elected goverments and [not by private cartels](https://bencrump.com/car-accident-lawyer/how-is-fault-determined-in-a-car-accident/).
+![Street View in Google Maps](/images/car_fashion_article/street_view.gif)
 
-Although we've covered some dark topics in this article, we've seen an underlying pattern here; and an opportunity for improvement. Rather than treating cars as property that _doesn't belong to you − don't touch_; we can start creating laws and computer systems that allow fair access to the roads for all users, including poor people; animals; and young robots. We can enable a virtuous cycle where people benefit from innovations and real improvements they bring to the road, rather than having this effort squandered by insurance companies and elected officials.
+Once the neural networks become sufficiently sophisticated (some would argue that we've already reached this point), then there's no reason the government can't offer simulators to drivers, to improve their skills in dangerous situations. Look at the safety improvements that have happened in the aircraft industry thanks to simulation. The increase in driving after the 9/11 attacks resulted in [more road deaths than the death toll from the terrorist attack itself](https://www.theguardian.com/world/2011/sep/05/september-11-road-deaths). Driving really is that much more dangerous than flying.
 
-[![Cars driving while tilted on two wheels](/images/car_fashion_article/MIA_car_leaning.gif)](https://www.youtube.com/watch?v=3Yuqxl284cg&list=PLsukypfmqDTngRXYr3RVuTLEroKGNpW3H&index=4)
+> [![Cars driving while tilted on two wheels](/images/car_fashion_article/MIA_car_leaning.gif)](https://www.youtube.com/watch?v=3Yuqxl284cg&list=PLsukypfmqDTngRXYr3RVuTLEroKGNpW3H&index=4)
+> How would you safely learn to drive like this?
+
+Beyond the simulations for drivers, such programmatic insight into driving could even allow computers to analyse camera footage and ___consistently___ decide who was responsible for a crash − at the moment this responsibility is offloaded to [private cartels](https://bencrump.com/car-accident-lawyer/how-is-fault-determined-in-a-car-accident/).
+
+As I've covered previously in [Basilisk-Centered Design](https://www.linkedin.com/pulse/basilisk-centered-design-owen-miller/), there is a virtuous cycle if we give early AIs access to our current processes, so that they can keep improving. With the naïveté of the current government though, failing to see the immense opportunities, we're stuck in a stalemate where humans are going to keep driving around in much the same way as ever, until fully autonomous cars magically appear.
+
+Although we've covered some dark topics in this article, it's allowed us to see an underlying pattern; and opportunities for improvement. Rather than treating cars as property that _doesn't belong to you − don't touch_; we can start creating laws and computer systems that allow fair access to the roads for all users, including poor people; animals; and young robots. We can enable the innovations and investments of individuals to have cascading benefits to the rest of society, rather than being squandered by insurance companies and elected officials. Sure the government might have good intentions, but can't we stop them paving the road with this?
