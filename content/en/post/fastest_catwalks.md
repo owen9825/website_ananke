@@ -102,7 +102,7 @@ GPS data is also being wasted − moving vehicles will now regularly have access
 
 ![Street View in Google Maps](/images/car_fashion_article/street_view.gif)
 
-Once the neural networks become sufficiently sophisticated (some would argue that we've already reached this point), then there's no reason the government can't offer simulators to drivers, to improve their skills in dangerous situations. Look at the safety improvements that have happened in the aircraft industry thanks to simulation. The increase in driving after the 9/11 attacks resulted in [more road deaths than the death toll from the terrorist attack itself](https://www.theguardian.com/world/2011/sep/05/september-11-road-deaths). Driving really is that much more dangerous than flying.
+Once the neural networks become sufficiently sophisticated ([some would argue that we've already reached this point](https://youtu.be/6hkiTejoyms?t=458)), then there's no reason the government can't offer simulators to drivers, to improve their skills in dangerous situations. Look at the safety improvements that have happened in the aircraft industry thanks to simulation. The increase in driving after the 9/11 attacks resulted in [more road deaths than the death toll from the terrorist attack itself](https://www.theguardian.com/world/2011/sep/05/september-11-road-deaths). Driving really is that much more dangerous than flying.
 
 > [![Cars driving while tilted on two wheels](/images/car_fashion_article/MIA_car_leaning.gif)](https://www.youtube.com/watch?v=3Yuqxl284cg&list=PLsukypfmqDTngRXYr3RVuTLEroKGNpW3H&index=4)
 > How would you safely learn to drive like this?
