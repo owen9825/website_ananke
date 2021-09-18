@@ -174,6 +174,7 @@ For example, if your css files are `assets/ananke/css/custom.css` and `assets/an
 
 __Note on retrocompatibiliy for custom css__: If the files registered through the `custom_css` setting are not found in `assets/ananke/css` the theme will expect them to live at the given path relative to the static directory and load them as <link> requests.
 
+Notice there are classes such as `w-60` and `w-60-ns`. The `ns` version seems to be for desktop, whereas the `w-60` version seems to be for mobile.
 ### Show Reading Time and Word Count
 
 If you add a key of `show_reading_time` true to either the Config Params, a page or section's front matter, articles will show the reading time and word count.

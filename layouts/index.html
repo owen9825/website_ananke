@@ -4,8 +4,10 @@
     {{ partial "oppressed-cockatoo.html" }}
     {{ partial "oppressed-child.html" }}
     {{ partial "oppressed-tamagotchi.html" }}
-    <div class="bg-pink mh3 mb3 ph3 pv1">
-      {{ .Content }}
+    <div class="bg-pink mh3 mb3 ph3 ph0-ns pv1">
+      <div class="ph3-ns">
+        {{ .Content }}
+      </div>
     </div>
     {{ partial "mailchimp.html" }}
     {{ partial "agent-gallery.html" }}
