@@ -1,5 +1,5 @@
 title = "Notre-Dame de Paris"
-baseURL = ""
+baseURL = "https://nonhuman.party"
 languageCode = "en-us"
 theme = "website-ananke"
 themesDir = ".."
