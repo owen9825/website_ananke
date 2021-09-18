@@ -1354,6 +1354,10 @@ blockquote p {
     padding: 0
 }
 
+input {
+    border-radius: 0.25rem;
+}
+
 .h1 {
     height: 1rem;
 }

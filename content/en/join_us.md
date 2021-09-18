@@ -52,6 +52,6 @@ Drinking the Kool-Aid is done on an honour system. We should clarify though, the
 
 ----
 
-When we submit these forms to the state electoral commission, they'll check if these details are correct; and if they're not, then we won't get approved 🙀.
+When we submit these forms to the state electoral commission, they'll check if your details are correct; and if they're not, then we won't get approved 🙀.
 
 The Non-Human Party promises that the information on these forms will never be shared with anyone besides the electoral commission; and with our [Registered Officers](https://www.elections.nsw.gov.au/Political-participants/Political-parties/Register-a-party) in the relevant state.
