@@ -41,11 +41,9 @@ Drinking the Kool-Aid is done on an honour system. We should clarify though, the
 * One of these two rules must apply (as per [🔗](https://www.elections.nsw.gov.au/Political-participants/Political-parties/Register-a-party)):
     * You must be at least 16 years old, an Australian citizen, and have lived at your present address for at least one month (bad luck to anyone without an address!)
     * You must be a British subject who is not an Australian citizen, but who was enrolled to vote on 25 January 1984; and who has lived at their current address for at least one month.
-* Fill out [this form](https://www.elections.nsw.gov.au/getmedia/fbd28996-18a0-4ba3-9c07-1f92f78d6e1c/Declaration-of-party-membership) (source: [FD.2694](https://www.elections.nsw.gov.au/About-us/Forms-and-Fact-sheets/Forms/Registration-forms))
+* Fill out a copy of [this form](https://dochub.com/nonhuman-party-info/275eAYrVo6kg8NEKzXnBNQ/declaration-of-party-membership-pdf?dt=Qaefq5PPzguWMy_qy9X1) (source: [FD.2694](https://www.elections.nsw.gov.au/About-us/Forms-and-Fact-sheets/Forms/Registration-forms))
 
-    > [How to sign PDF documents without printing and scanning them](https://www.howtogeek.com/164668/how-to-electronically-sign-documents-without-printing-and-scanning-them/)
-
-* Upload the form to Google Drive or Dropbox; then share it with <nonhuman.party.info@gmail.com> (so that when we're logged in, we can view it). It's not best to email it directly to us, as it'll have the same security as a postcard while it's being sent.
+> _If you don't wish to create a free DocHub account, please share the completed form with nonhuman.party.info@gmail.com through Google Docs or Dropbox._
 
 ### Victoria
 * Fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLScbl-EKn5Fb4-zaVCDVDMei9D9ZBJm3uB8VFRFfkErcapGcEA/viewform?usp=sf_link)
