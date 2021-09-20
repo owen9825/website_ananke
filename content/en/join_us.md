@@ -33,7 +33,7 @@ In due course, there'll be a way to donate if you like, in a way that satisfies 
 ![Rainbow lorikeets dancing around a bowl of water, in excitement](/images/membership/kool-aid_birds.gif)
 
 Drinking the Kool-Aid is done on an honour system. We should clarify though, the __rules for party membership__:
-* You must have a generally optistic view of computing. Has the Internet been beneficial to society for instance?
+* You must have a generally optimistic view of computing. Has the Internet been beneficial to society for instance?
 * You must have some concern for other forms of life in our solar system, not just homo sapiens. Is it a bad thing if we kill some koalas in a tree, then chop it down and sell it as chipboard for a temporary wall?
 
 ## How do I join?
