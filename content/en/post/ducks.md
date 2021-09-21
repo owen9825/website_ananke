@@ -25,7 +25,7 @@ We've seen ramps steadily increasing in popularity over time, as though populari
 
 Even though building codes now support the existence of ramps for humans on wheels, buildings are sometimes still built in a way where this conformity to standards is mere satisficing − wheeled humans are still treated as second-class citizens. In such scenarios, ducks will also likely be rendered second-class citizens, as they will be unable to understand signs telling them to go to the disabled door or the [poor door](https://nypost.com/2016/01/17/poor-door-tenants-reveal-luxury-towers-financial-apartheid/). Ducks will see the direct, no-nonsense stairway to an appealing location and try to take this.
 
-If humans are going to keep running society and are going to keep claiming that they love ducks, then outdoor paths need to physically and cognitively accessible to ducks.
+If humans are going to keep running society and are going to keep claiming that they love ducks, then outdoor paths need to be physically and cognitively accessible to ducks.
 
 ## Further Reading
 * [Good ramps, bad ramps: Centralized design standards and disability access in urban Russian infrastructure](https://anthrosource.onlinelibrary.wiley.com/doi/abs/10.1111/amet.12422)
