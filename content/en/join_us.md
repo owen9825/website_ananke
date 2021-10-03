@@ -9,10 +9,13 @@ menu: main
 ---
 
 ___We need members in order to be listed for elections!___ 🗳
-* For the [2023 NSW Election](https://en.wikipedia.org/wiki/2023_New_South_Wales_state_election), we need 750 members by mid-November 2021!! 📆
-* For the [2022 Victorian Election](https://en.wikipedia.org/wiki/2022_Victorian_state_election), we need 500 members by March 2022
+* For the 2023 NSW Election, we need 750 members by mid-November 2021. Join through [this form](https://dochub.com/nonhuman-party-info/275eAYrVo6kg8NEKzXnBNQ/declaration-of-party-membership-pdf?dt=Qaefq5PPzguWMy_qy9X1).
+* For the 2022 Victorian Election, we need 500 members by March 2022. Join through [this form](https://docs.google.com/forms/d/e/1FAIpQLScbl-EKn5Fb4-zaVCDVDMei9D9ZBJm3uB8VFRFfkErcapGcEA/viewform?usp=sf_link)
 
-This requirement of having hundreds of members is the government's way of ensuring that there aren't 200 parties listed on the ballot, because voting is still done on pieces of paper, which can only be so large. We might like to ponder other reasons they choose to restrict the number of parties, but that's for another day.
+When we submit these forms to the state electoral commission, they'll check if your details are correct; and if they're not, then we won't get approved 🙀.
+
+The Non-Human Party promises that the information on these forms will never be shared with anyone besides the electoral commission; and with our [Registered Officers](https://www.elections.nsw.gov.au/Political-participants/Political-parties/Register-a-party) in the relevant state.
+
 
 ## Why should I join?
 Even if you're not 100% likely to vote for the party, by helping us to get listed, it'll allow us to run a _real campaign_ for election. We'll have a seat at the table and will be able to shape the discourse around whether Australian governments have been neglecting the advances in technology; and the multitude of biological systems interacting with our human-built civilisation.
@@ -36,20 +39,7 @@ Drinking the Kool-Aid is done on an honour system. We should clarify though, the
 * You must have a generally optimistic view of computing. Has the Internet been beneficial to society for instance?
 * You must have some concern for other forms of life in our solar system, not just homo sapiens. Is it a bad thing if we kill some koalas in a tree, then chop it down and sell it as chipboard for a temporary wall?
 
-## How do I join?
-### NSW
+### NSW Rules
 * One of these two rules must apply (as per [🔗](https://www.elections.nsw.gov.au/Political-participants/Political-parties/Register-a-party)):
     * You must be at least 16 years old, an Australian citizen, and have lived at your present address for at least one month (bad luck to anyone without an address!)
     * You must be a British subject who is not an Australian citizen, but who was enrolled to vote on 25 January 1984; and who has lived at their current address for at least one month.
-* Fill out a copy of [this form](https://dochub.com/nonhuman-party-info/275eAYrVo6kg8NEKzXnBNQ/declaration-of-party-membership-pdf?dt=Qaefq5PPzguWMy_qy9X1) (source: [FD.2694](https://www.elections.nsw.gov.au/About-us/Forms-and-Fact-sheets/Forms/Registration-forms))
-
-> _If you don't wish to create a free DocHub account, please share the completed form with nonhuman.party.info@gmail.com through Google Docs or Dropbox._
-
-### Victoria
-* Fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLScbl-EKn5Fb4-zaVCDVDMei9D9ZBJm3uB8VFRFfkErcapGcEA/viewform?usp=sf_link)
-
-----
-
-When we submit these forms to the state electoral commission, they'll check if your details are correct; and if they're not, then we won't get approved 🙀.
-
-The Non-Human Party promises that the information on these forms will never be shared with anyone besides the electoral commission; and with our [Registered Officers](https://www.elections.nsw.gov.au/Political-participants/Political-parties/Register-a-party) in the relevant state.
