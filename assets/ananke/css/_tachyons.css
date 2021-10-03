@@ -1234,6 +1234,11 @@ blockquote p {
     font-size: 1.35rem;
 }
 
+blockquote > p {
+    font-size: 1.15rem;
+    margin: 0;
+}
+
 .courier {
     font-family: Courier Next, courier, monospace
 }
@@ -3795,7 +3800,8 @@ input {
 .nested-img img {
     width: 100%;
     max-width: 100%;
-    display: block
+    display: block;
+    overflow: hidden;
 }
 
 .nested-links a {
