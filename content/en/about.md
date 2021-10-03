@@ -30,7 +30,7 @@ If society is running on money and on software, then those are the areas where w
 
 The Non-Human party wishes to create [Nationality as a Service](../post/nationality_as_a_service/), where we enable the smooth running of society through beneficial software services that citizens opt into. The services are open-source; and part of being a good citizen is to contribute code to these projects.
 
-With the ability to see the code and contribute to it, we can ultimately create more powerful systems than what's currently available. People don't trust cameras and they don't trust microphones, but if you're the one writing the camera-analysis code; and you can see that it's never sent to any human eyes, then _wow_, we can finally do real computing on this data. We can give robots the power to understand what they're seeing.
+With the ability to see the code and contribute to it, we can ultimately create more powerful systems than what's currently available. People don't trust cameras and they don't trust microphones, but if you're the one writing the camera-analysis code; and you can see that it's never sent to any human eyes, then _wow_, we can finally do real computing on this data. We can give cameras the power to understand what they're seeing.
 
 We can create a civilisation that's smarter and more capable than anything that could be created by private industry alone; or by existing governments. By enabling the full range of intelligent actors to flourish in our society, we'll create unimaginable wealth and harmony.
 
