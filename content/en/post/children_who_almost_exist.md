@@ -4,6 +4,7 @@ description: "👧👦🔮⛏"
 featured_image: "/images/children_article/vintage_children.gif"
 tags: ["children"]
 title: "Children Who Almost Exist"
+author: "Owen Miller"
 ---
 
 {{< youtube 9gP0n4AD8I4 >}}

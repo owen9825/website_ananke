@@ -4,6 +4,7 @@ description: "Physiology and the future of ubiquitous computing"
 featured_image: "/images/robot_butt_article/principle_skinner_butt.gif"
 tags: ["cameras", "robots"]
 title: "Let Robot Overlords Inspect Your Butt"
+author: "Owen Miller"
 ---
 {{< youtube yAae8KKC8kE >}}
 

@@ -5,6 +5,7 @@ featured_image: "/images/naas_article/vaporwave_island.gif"
 tags: ["cameras", "robots", "pets"]
 title: "Nationality as a Service"
 disable_share: false
+author: "Owen Miller"
 ---
 {{< youtube Xp2Bgk9Lf8Y >}}
 

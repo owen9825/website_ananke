@@ -4,6 +4,7 @@ description: "Embracing Evil Technology"
 featured_image: "/images/evil_tech_article/Mr_Burns_hands.gif"
 tags: ["cameras"]
 title: "Embracing Evil Technology"
+author: "Owen Miller"
 ---
 
 {{< youtube K9VZ7615Xtk >}}
