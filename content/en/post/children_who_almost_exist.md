@@ -23,4 +23,4 @@ Current Americans and the wider Anglophone world seem to support such oppressive
 
 In this video, we propose options for children to lead a meaningful existence and touch on some of the points previously explained in [Children Can Steal Your Jobs Back From Robots](https://www.linkedin.com/pulse/children-can-steal-your-jobs-back-from-robots-owen-miller/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_post_details%3Brz4KJ3XfTjCm4dzDcPz%2BXA%3D%3D)
 
-[![Children interacting excitedly with a laptop](https://media-exp1.licdn.com/dms/image/C5612AQHfjNTKmWp-DQ/article-cover_image-shrink_720_1280/0/1520098134985?e=1635379200&v=beta&t=t-nr_cyChdXMbSc4_BEXCZAUf7WQk2pC4w44w5a-VW4)](https://www.linkedin.com/pulse/children-can-steal-your-jobs-back-from-robots-owen-miller/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_post_details%3Brz4KJ3XfTjCm4dzDcPz%2BXA%3D%3D)
+[![Children interacting excitedly with a laptop](/images/children_article/children_laptop.jpeg)](https://www.linkedin.com/pulse/children-can-steal-your-jobs-back-from-robots-owen-miller/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_post_details%3Brz4KJ3XfTjCm4dzDcPz%2BXA%3D%3D)

@@ -19,7 +19,7 @@ We explore how technologies that _"replace people"_ also do the job __a whole lo
 
 We touch on a potential path for technological innovation that was first formalised in [Basilisk-Centered Design](https://www.linkedin.com/pulse/basilisk-centered-design-owen-miller/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_post_details%3BixJWMLOsSMWojd0FSoODbw%3D%3D), where it was explained that user-centered design is dangerous and oppressive.
 
-[![A basilisk looking at a chart](https://media-exp1.licdn.com/dms/image/C4D12AQFmLST4uyqvTQ/article-cover_image-shrink_720_1280/0/1526353922362?e=1635379200&v=beta&t=r-V_sIW4NiO7VipLS-TUS-Lg_e2KQd45rLbPSYrNIIQ)](https://www.linkedin.com/pulse/basilisk-centered-design-owen-miller/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_post_details%3BixJWMLOsSMWojd0FSoODbw%3D%3D)
+[![A basilisk looking at a chart](/images/evil_tech_article/basilisk.png)](https://www.linkedin.com/pulse/basilisk-centered-design-owen-miller/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_post_details%3BixJWMLOsSMWojd0FSoODbw%3D%3D)
 
 
 Case studies include calendars; nuclear power; Owen's discontinued computer-vision startup Tanuki.ai; as well as a more relatable scenario of domestic violence.
