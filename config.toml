@@ -13,9 +13,6 @@ googleAnalytics = "G-74QHXMRCCC"
 enableRobotsTXT = true
 summaryLength = 30
 
-# https://portfolio.peter-baumgartner.net/2017/09/10/how-to-install-disqus-on-hugo/
-DisqusShortname = "nonhuman"
-
 [languages]
   [languages.en]
     title = "🤖💃🦘"
