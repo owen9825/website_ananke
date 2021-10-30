@@ -48,7 +48,6 @@
     </header>
     <div class="nested-copy-line-height lh-copy {{ $.Param "post_content_classes"  | default "serif"}} f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l">
       {{- .Content -}}
-      {{- partial "tags.html" . -}}
       <div class="mt2 instapaper_ignoref">
       {{ if .Site.DisqusShortname }}
         {{ template "_internal/disqus.html" . }}
@@ -61,6 +60,8 @@
 
     <aside class="w-30-l mt6-l">
       {{- partial "menu-contextual.html" . -}}
+      {{ partial "join-us.html" }}
+      {{- partial "tags.html" . -}}
     </aside>
 
   </article>
