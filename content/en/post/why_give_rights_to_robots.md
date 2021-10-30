@@ -1,8 +1,9 @@
 ---
 date: 2021-10-24T10:58:08-04:00
-featured_image: "/images/robot_rights_article/boston_dynamics_push.gif"
+featured_image: "/images/robot_rights_article/robot_with_rights.jpg"
 tags: ["robots"]
 title: "Why Robots Deserve Rights"
+description: "− and how you can make it happen!"
 author: "Owen Miller"
 ---
 
