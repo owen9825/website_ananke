@@ -46,3 +46,23 @@ Now that we're in an era of abundant information, it's feasible to imagine these
 > ![Insects climbing stairs to a potted plant](/images/tornado_article/flower_pot_for_insects.jpeg)
 > ![A crocodile having difficulty scaling a wooden fence](/images/tornado_article/crocodile_fence.jpeg)
 > [Friendly](https://totallythebomb.com/planters-have-stairs-on-the-side) and [unfriendly](https://www.upi.com/Odd_News/2018/05/30/Alligator-climbs-wooden-fence-to-evade-trappers-in-South-Carolina/6421527684468/) designs for animal accessibility
+
+In this age of information, the building codes needn't apply only to new buildings. In New York City for instance, I often see pieces of paper stuck near an entrance, declaring a building's energy efficiency, "**D** 46". The idea seems to be to shame existing building owners, rather than setting laws merely for new construction. Imagine planning a night out; and your recommender system showed you that this restaurant was more energy efficient than the other place; and that its dining room was accessible to floor-cleaning robots, so that it would probably be cleaner.
+
+> ![](/images/tornado_article/Dock_floor.jpeg)
+> At [Dock Asian Eatery](https://dockasianeatery.com/) in Brooklyn, the tables have vertical supports, with enough spacing around the floor, such that robots could clean the space easily.
+
+When the idea of [Nationality as a Service](../posts/nationality_as_a_service/) was formulated, the idea was that people would subscribe to a set of online services that would participate in their life. Not just the shows they watch, but web services for paying taxes and for participating in a way of life. Just like the white and blue Greek houses, we can imagine one particular culture prioritising certain aspects of their buildings; and by prioritising the advice of certain building advisor AIs, you'd be following that culture and in turn, joining this web-service-based *nationality*, for want of a better word (really, a more localised version of nationality).
+
+> ![](/images/tornado_article/Santorini-cover-min.jpg)
+> Following a building style is part of a culture
+
+A criticism might be that it's difficult to create these AI building advisors, but I would argue that it's more difficult to specify building standards with laws written in natural language, agreed upon by committees and enforced by monopolised violence. Governments can only get away with this bullshit because of inertia amongst the populace who don't realise the possibilities allowed by software; and because of the aforementioned monopoly on violence. If I decide to ignore the city's building code, some of my assets will be seized; the building will be demolished; and I might go to jail, depending on the juridiction.
+
+By contrast, if someone were to break from the Nationality-as-a-Service culture, by eg making a concrete, brutalist monstrosity dependent on human-sized steps everywhere, well they'd simply be cut from the group. That's it. They can join a different group who's willing to trade with them and socialise with them, but in terms of hiring goons to bully people and steal their money, this just seems pointless. So much of our lives are lived online, with digital tools. It's easier than ever to create these tools and these ways of living, so you see that cities and nations are actively fighting for attention, for investment and for talent.
+
+In the online world, can you imagine Google, Facebook or anyone creating volumes and volumes of rules for you to memorise every day, or they'll take some of your money and throw you in prison?? Start bullying you? For almost any web service, maybe you have to pay them; or maybe you have to tell them your name; but that's it. They *want* to attract as many people as they can get. Of course, there's an exception with eBay − if you don't get on their good side, then [they will come to your house and bully you](https://www.justice.gov/usao-ma/pr/six-former-ebay-employees-charged-aggressive-cyberstalking-campaign-targeting-natick).
+
+Compare the online world to the geographical governments − so many rules, plus so many restrictions about who can even visit. The ultimate goal of the Non-Human Party is that geographical places would pledge allegiance to some digital-first nationality, acting as safe-havens for its subscribers.
+
+Owen, something about easy leaks etc
