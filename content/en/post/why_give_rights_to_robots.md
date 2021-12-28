@@ -1,5 +1,6 @@
 ---
 date: 2021-10-24T10:58:08-04:00
+images: ["/images/robot_rights_article/robot_with_rights.jpg", ]
 featured_image: "/images/robot_rights_article/robot_with_rights.jpg"
 tags: ["robots"]
 title: "Why Robots Deserve Rights"

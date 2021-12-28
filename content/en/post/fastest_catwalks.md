@@ -1,6 +1,7 @@
 ---
 date: 2021-09-04T08:25:05-04:00
 description: "Optimising the road for fashionable vehicles"
+images: ["/images/car_fashion_article/baby_pimp_car.gif", ]
 featured_image: "/images/car_fashion_article/baby_pimp_car.gif"
 tags: ["roads", "children", "birds"]
 title: "Roads as Catwalks"

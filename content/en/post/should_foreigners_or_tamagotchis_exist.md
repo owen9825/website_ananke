@@ -1,6 +1,7 @@
 ---
 date: 2021-02-02T11:14:48-04:00
 description: "🎮⚑🚢🎱"
+images: ["/images/tamagotchi_foreigners_article/tamagotchi_2.gif", ]
 featured_image: "/images/tamagotchi_foreigners_article/tamagotchi_2.gif"
 tags: ["animals", "children", "pets"]
 title: "Should Foreigners or Tamagotchis Exist?"

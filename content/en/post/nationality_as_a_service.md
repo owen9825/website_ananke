@@ -1,6 +1,7 @@
 ---
 date: 2020-11-03T11:25:05-04:00
 description: "Software for Running the World"
+images: ["/images/naas_article/vaporwave_island.gif", ]
 featured_image: "/images/naas_article/vaporwave_island.gif"
 tags: ["cameras", "robots", "pets"]
 title: "Nationality as a Service"

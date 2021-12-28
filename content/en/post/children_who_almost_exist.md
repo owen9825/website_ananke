@@ -1,6 +1,7 @@
 ---
 date: 2021-01-27T10:58:08-04:00
 description: "👧👦🔮⛏"
+images: ["/images/children_article/vintage_children.gif", ]
 featured_image: "/images/children_article/vintage_children.gif"
 tags: ["children"]
 title: "Children Who Almost Exist"
