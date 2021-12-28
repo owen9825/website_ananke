@@ -1,4 +1,4 @@
-title = "Notre-Dame de Paris"
+title = "Non-Human Party"
 baseURL = "https://nonhuman.party"
 languageCode = "en-us"
 theme = "website-ananke"
@@ -15,11 +15,11 @@ summaryLength = 30
 
 [languages]
   [languages.en]
-    title = "🤖💃🦘"
+    title = "Non-Human Party"
     weight = 1
     contentDir = "content/en"
   [languages.fr]
-    title = "🤖💃🐸"
+    title = "Parti Non-Humain"
     weight = 2
     contentDir = "content/fr"
 
