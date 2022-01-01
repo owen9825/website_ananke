@@ -4,6 +4,7 @@ author: "Owen Miller"
 description: "Ducklings walk around in our civilisation, but our stairs are difficult for these members."
 images: ["/images/ducks_swimming.gif", ]
 featured_image: "/images/ducks_swimming.gif"
+featured_alt_text: "Ducklings having difficulty scaling stairs"
 tags: ["duck", "birds", "animals"]
 title: "Ducklings can't scale stairs"
 ---

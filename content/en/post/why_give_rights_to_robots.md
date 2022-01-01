@@ -2,6 +2,7 @@
 date: 2021-10-24T10:58:08-04:00
 images: ["/images/robot_rights_article/robot_with_rights.jpg", ]
 featured_image: "/images/robot_rights_article/robot_with_rights.jpg"
+featured_alt_text: "A robot with rights, standing amongst Greek ruins"
 tags: ["robots"]
 title: "Why Robots Deserve Rights"
 description: "− and how you can make it happen!"

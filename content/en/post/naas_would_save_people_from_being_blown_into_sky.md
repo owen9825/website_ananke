@@ -3,6 +3,7 @@ date: 2021-12-25T23:59:05-04:00
 description: "🌪"
 images: ["/images/tornado_article/floating_cat.gif", ]
 featured_image: "/images/tornado_article/floating_cat.gif"
+featured_alt_text: "A cat floating into the sky"
 tags: ["animals"]
 title: "Loyal Citizens Being Blown into the Sky"
 disable_share: false

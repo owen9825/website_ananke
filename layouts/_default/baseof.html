@@ -30,6 +30,10 @@
     
     {{/* NOTE: These Hugo Internal Templates can be found starting at https://github.com/gohugoio/hugo/tree/master/tpl/tplimpl/embedded/templates */}}
     {{- template "_internal/opengraph.html" . -}}
+    {{ if .Params.featured_alt_text }}
+    <meta property="og:image:alt" content="{{ .Params.featured_alt_text }}" />
+    <meta property="twitter:image:alt" content="{{ .Params.featured_alt_text }}" />
+    {{ end }}
     {{- template "_internal/schema.html" . -}}
     {{- template "_internal/twitter_cards.html" . -}}
 
