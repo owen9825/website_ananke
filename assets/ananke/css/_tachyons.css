@@ -4299,7 +4299,9 @@ input {
     }
 
     .flex-row-ns {
-        flex-direction: row
+        flex-direction: row;
+        max-height: 15em;
+        overflow: hidden;  /* cropped */
     }
 
     .flex-wrap-ns {
