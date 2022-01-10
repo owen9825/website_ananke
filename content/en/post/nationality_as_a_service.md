@@ -4,7 +4,7 @@ description: "Software for Running the World"
 images: ["/images/naas_article/vaporwave_island.gif", ]
 featured_image: "/images/naas_article/vaporwave_island.gif"
 featured_alt_text: "A vaporwave scene of a neon oasis"
-tags: ["cameras", "robots", "pets"]
+tags: ["cameras", "robots", "pets", "nationality"]
 title: "Nationality as a Service"
 disable_share: false
 author: "Owen Miller"

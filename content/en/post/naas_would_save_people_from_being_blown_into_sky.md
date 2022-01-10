@@ -4,7 +4,7 @@ description: "🌪"
 images: ["/images/tornado_article/floating_cat.gif", ]
 featured_image: "/images/tornado_article/floating_cat.gif"
 featured_alt_text: "A cat floating into the sky"
-tags: ["animals"]
+tags: ["animals", "cameras"]
 title: "Loyal Citizens Being Blown into the Sky"
 disable_share: false
 author: "Owen Miller"
