@@ -95,7 +95,7 @@ Of course, the ability to run this experiment of simultaneous possibilities (an 
 So what have we uncovered in these ideas?
 * Dead citizens no longer belong to the same nations as the living
 * You don't belong to the same nation as when you were born
-* With militaries becoming less relevant and *less capable* of achieving its aims, nationalism will decrease at a time when it's easier than ever to defect.
+* With militaries becoming less relevant and *less capable* of achieving their aims, nationalism will decrease at a time when it's easier than ever to defect.
 * Digital-first nations will have an increased ability to experiment and improve
 
 As soon as Nationality-as-a-Service nations start to emerge and start to become a feasible way of life, we will see an exodus away from militarily backed, geographical governments. They will be vulnerable to having their assets plundered and their debts dismissed by the new, fragmented owners. As bonds from one country go unpaid, it'll inevitably lead to a crisis of confidence in the bonds of *all* geographical governments, further accelerating defection to Nationality-as-a-Service nations, with opt-in, transparent systems for creating harmony amongst intelligent agents.
