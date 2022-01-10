@@ -81,7 +81,7 @@ A notable fork happened in Ethereum when [funds were "stolen" from the DAO](http
 
 As a result, Ethereum split into two:
 * "[Ethereum](https://www.coingecko.com/en/coins/ethereum)", for sympathisers of the victims
-* "[Ethereum Classic](https://www.coingecko.com/en/coins/ethereum-classic)", for sympathisers of the theives
+* "[Ethereum Classic](https://www.coingecko.com/en/coins/ethereum-classic)", for sympathisers of the thieves
 
 It should be noted that with the immense growth in Ethereum since this event, it's now considered unfeasible that any pot of funds could be sufficiently important, that the community would consider repeating this interference in the chain, pretending that valid transactions didn't happen.
 
