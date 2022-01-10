@@ -53,7 +53,8 @@ Disney, the owner of Winnie the Pooh, carried out a similar tactic when it purch
 ## Dual Allegiances
 Amongst the questioning of national values, it's no surprise that there are defectors willing to tear it down. Edward Snowden for instance was granted access to American secrets and has expressed American values such as free speech, yet has also criticised the construction of a panopticon; and "[turnkey tyranny](https://www.wired.com/story/after-six-years-in-exile-edward-snowden-explains-himself/)" as he describes it. His moral cause ultimately proved to be more important to him than the appeal of [McDonald's and fake tits](https://www.youtube.com/watch?v=5uPoDNEn3I0).
 
-![Miss Minnesota, at a beauty pageant](/images/dead_nationality/miss_minnesota.gif)
+> ![Cardi B, reflecting on her fame](/images/dead_nationality/cardi_b.gif)
+> [Cardi B admits to drugging, robbing men](https://www.cnn.com/videos/entertainment/2019/03/27/cardi-b-drugging-robbing-men-statement-mxp-vpx.hln)
 
 > “My life has always been mediated by a screen. What difference does it make whether I’m looking at a screen in New York or Berlin or Moscow?” Snowden says. “It’s all the same internet.”
 
