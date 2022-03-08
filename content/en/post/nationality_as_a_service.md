@@ -54,7 +54,7 @@ This happened with [Heartbleed](https://heartbleed.com/); [Meltdown](https://en.
 Anything other than a software-first society is a society that's vulnerable to having its drones hijacked; its oil pipelines shut down; and its residents tricked into thinking a ballistic missile is about to wipe them off the face of the Earth.
 
 ## Can Nationality be Decoupled from Geography?
-The video covers some nations that already have distontinuous geography, eg Azerbijan and Russia.
+The video covers some nations that already have discontinuous geography, eg Azerbijan and Russia.
 
 We discuss how Australia sometimes foregoes its responsibilities as a global citizen and how it revoked the Australian citizenship of dual citizens involved in ISIS, leaving it up to other nations to sort it out.
 
