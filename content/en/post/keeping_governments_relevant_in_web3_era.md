@@ -35,7 +35,7 @@ The four-part marketplace built on open-source systems solves the common complai
 > {{< youtube slHboKF9PIQ >}}
 > Nations might give very different scores to the same events
 
-Governments can implement modern identity systems that let citizens log into 3rd-party websites with anonymised, proxy identities. If a government can vouch for this citizen, that this is their only account on that site, then it solves a massive problem for online life. The widespread requirements to "*verify*" your phone number and to tick the box, "*I'm not a robot*" [can be framed](https://www.google.com/recaptcha/about/) as efforts to prevent insincere human activity, rather than anything against genuine, autonomous robots per se. Robots are unfairly being blamed; and are ending up as collateral damage.
+Governments can implement modern identity systems that [let citizens log into 3rd-party websites with anonymised, proxy identities](../why_give_rights_to_robots). If a government can vouch for this citizen, that this is their only account on that site, then it solves a massive problem for online life. The widespread requirements to "*verify*" your phone number and to tick the box, "*I'm not a robot*" [can be framed](https://www.google.com/recaptcha/about/) as efforts to prevent insincere human activity, rather than anything against genuine, autonomous robots per se. Robots are unfairly being blamed; and are ending up as collateral damage.
 
 ![A CAPTCHA test](/images/web3_relevance_article/captcha.png)
 
@@ -46,7 +46,7 @@ If governments were to help with open-source farming software, it would resolve 
 > ![A tractor](/images/web3_relevance_article/tractor.jpg)
 > Farmers can't touch this code; and have none of their own
 
-If governments [assisted with open-source security software](https://iotbusinessnews.com/2021/12/08/04177-can-iot-ever-be-trusted-by-civilians/), then end users could play an active role in protecting themselves, rather than being wholly reliant on [laissez-faire practices](https://glog.glennf.com/blog/2015/7/28/that-simpsons-bit-wasnt-a-joke), hidden within proprietary black-boxes.
+If governments [assisted with open-source security software](https://iotbusinessnews.com/2021/12/08/04177-can-iot-ever-be-trusted-by-civilians/), then end-users could play an active role in protecting themselves, rather than being wholly reliant on [laissez-faire practices](https://glog.glennf.com/blog/2015/7/28/that-simpsons-bit-wasnt-a-joke), hidden within proprietary black-boxes.
 
 > {{< youtube eU2Or5rCN_Y >}}
 > Back-doors are a [widespread phenomenon](https://glog.glennf.com/blog/2015/7/28/that-simpsons-bit-wasnt-a-joke) in products where security should have been a priority, like door locks and Wi-Fi routers
