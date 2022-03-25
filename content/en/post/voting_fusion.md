@@ -1,15 +1,126 @@
-# Why I'm voting Fusion
+---
+date: 2022-03-24T20:58:08+16:00
+images: ["/images/robot_rights_article/robot_with_rights.jpg", ]
+featured_image: "/images/robot_rights_article/robot_with_rights.jpg"
+featured_alt_text: "A robot with rights, standing amongst Greek ruins"
+tags: ["robots"]
+title: "Why I'm Voting Fusion"
+description: "− and how you can make it happen!"
+author: "Owen Miller"
+---
 
-* Shady business deals hate having a light shone on them; they hate transparency.
-The Liberals claim to avo
->They are examples of a prime minister making decisions in line with his underlying belief that people should look after themselves and that, as much as possible, the private sector should do what we have traditionally understood governments to do in these circumstances, and that if “the market” fails to step in, then, oh well, individuals, families, communities will just have to take care of themselves." − https://tdunlop.substack.com/p/the-end-of-government-as-we-know?s=r&utm_medium=web
+The Non-Human Party will not be participating in the 2022 Australian Federal Election, so here I'm outlining the reasoning behind aligning with the [Fusion Party](https://www.fusionparty.org.au/). Above all else, the Fusion Party is pursuing a bold and futuristic vision − it is not the ho-hum *incremental* thinking that comes to be expected from career politicians; and neither is it the sort of thinking that would originate from self-serving bureacrats, [setting themselves up for a quid-pro-quo job](https://www.michaelwest.com.au/revolving-doors/) in ***one of the companies they helped to prop up***.
 
-Mostly my point of view, as the market is inherently more democratic, but the government should be guiding us through. It shouldn't be a mob that gets out of control. Governments should be actively facilitating markets to spot gaps and to spot collusion. Governments can guide the flow of capital and can guide their citizens in making life decisions that will pay off. Governments have a different set of incentives to corporations − more than any other entity, it's governments that have an interest in you staying happy, healthy and productive. If they diverge in this alignment, then you can always vote in candidates who will put things back on track. If we look at the vested interests of the Liberal and National Parties, then it's hard to get past "self interest" as the reason for most of their actions.
 
-They talk about creating a strong economy, yet they fundamentally misunderstand how the Internet works. During the ridiculous debates around Google and Facebook paying just to link to news sites, nobody ever mentioned the fact that if these news sites really didn't like what Google was doing, they could just change their robots.txt page to tell Google to stop indexing their content.
-https://www.vox.com/recode/22287971/australia-facebook-news-ban-google-money
+On this point of party incentives, it's worth pointing out the reason that Fusion's constituent parties merged in the first place − it was spurred on by the [Party Integrity Bill](https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r6755), which raised the number of required members from 500 to 1500. This inherently makes it harder to challenge the incumbent parties; and it stifles the introduction of new ideas into political debate.
 
-The fact that DuckDuckGo was immune from the rules hints at the proper solution to the fiasco − wherever Internet services have proliferated to the extent that they become critical parts of modern life, then it's probably the case that the service should have been run as a public commons, without the risk of misaligned incentives.
+Where breakaway factions might have previously decided to splinter into new parties, the onerous registration requirements now mean that incumbent parties are going to stay intact and generate ideas that are more reminiscent of *design by committee*. As Acemoglu & Robinson explain in [*Why Nations Fail*](https://en.wikipedia.org/wiki/Why_Nations_Fail), it's a terrible idea to raise barriers to entry and to kill off challengers − it leads to corrupt dictatorship and ultimately, stagnation.
+
+It's no surprise that the government raising the barrier to entry for new parties is the same government who's [repeatedly undermining any progression towards an anti-corruption body](https://www.theguardian.com/australia-news/2021/may/12/australia-federal-budget-2021-zero-funding-for-commonwealth-integrity-commission-anti-corruption-body-coalition). It's the same party who has been tied up in [repeated](https://www.dailymail.co.uk/news/article-10101945/Gladys-Berejiklian-ICAC-Explosive-tape-played-corruption-probe.html) corruption [scandals](https://www.youtube.com/watch?v=aIGKCkS01EA).
+
+{{< youtube aIGKCkS01EA >}}
+
+I'm against most controls over who can be in charge; and I find controls such as term limits to be disrespectful to voters' intelligence. If a leader has been around too long, voters can sense for themselves that things are becoming stagnant. So too if the candidate has dual citizenship or even if they're not an Australian citizen at all − voters have the Internet − they should be trusted to judge for themselves whether a candidate's ideas are sufficently *Australian* and whether the candidate can be trusted to look after Australia's best interests. If they need to be explicitly prevented from accidentally voting for a foreigner, then how can they be trusted to vote at all?
+
+{{< youtube AuYsZUMuj0M >}}
+
+
+## Liberalism
+Liberalism amounts to a hands-off government, which lets the market *do its thing*. When done as advertised, it very closely approximates the inclusive, democratic institutions advocated by Acemoglu & Robinson. The Liberal Party of Australia [explains their beliefs as](https://www.liberal.org.au/our-beliefs):
+
+> * \[We believe in\] the inalienable rights and freedoms of all peoples; and we work towards a lean government that minimises interference in our daily lives; and maximises individual and private sector initiative
+>  * \[We belive in\] government that nurtures and encourages its citizens through incentive, rather than putting limits on people through the punishing disincentives of burdensome taxes and the stifling structures of Labor's corporate state and bureaucratic red tape.
+
+My main proble with the Liberal Party is that their policies don't really play out as described by these mission statements. From my perspective, it's better characterised by self-serving greed and a continuation of the existing power structures, made up of party donors providing money and kickbacks. Even if they did more closely stick to their mission statement, a *hands-off* approach to regulation is not completely ideal − it's [suggested by Tim Dunlop](https://tdunlop.substack.com/p/the-end-of-government-as-we-know?s=r&utm_medium=web) that Prime Minister Morrison "*\[makes\] decisions in line with his underlying belief that people should look after themselves and that, as much as possible, the private sector should do what we have traditionally understood governments to do in these circumstances, and that if "the market" fails to step in, then, oh well, individuals, families, communities will just have to take care of themselves.*"
+
+I agree that the market is inherently more democratic than any corporate state that the Labor Party would allegedly favour, but I do feel that the government should be guiding us through. Our society shouldn't be a mob that gets out of control. Governments should be actively facilitating markets to spot gaps and to spot collusion. Governments can guide the flow of capital and can guide their citizens in making life decisions that will pay off. Governments have a different set of incentives to corporations − more than any other entity, it's governments that have an interest in keeping citizens happy, healthy and productive. If they diverge in this alignment, then you can always vote in candidates who will put things back on track.
+
+## Unions
+When markets have got out of control, it's often been unions to get things back on track. In this respect, I greatly admire unions. I feel that people very rarely stand up for their rights; and that unions are an effective mechanism for mobilising the vulnerable. Unfortunately though, once a union is established, it never seems to die, even after it has already achieved its initial aims.
+
+In [this interview](https://open.spotify.com/episode/2NsC4KxVpHWJ437RnA0ZNo) (at 34:50), Liz Shuler, the president of the [AFL-CIO](https://en.wikipedia.org/wiki/AFL%E2%80%93CIO#:~:text=The%20American%20Federation%20of%20Labor,million%20active%20and%20retired%20workers.) (a collection of unions) explains her opposition to the "*Green New Deal*", on the grounds that "*it shouldn't be a choice between the environment and good-paying jobs*". It should be noted that Schuler has previously been associated with the Electrical Workers' Union; one of the constituents of the AFL-CIO − this fact becomes clearer when she further elaborates on the apparent trade-off between the environment and "good-paying" jobs:
+>There are so many ways we reduce our carbon footprint; and the emphasis has to be not just on electricity emissions − it has to be on transportation emissions; it has to be on how we manufacture; but also do it in a way that helps working people make that transition and make sure that the jobs we're creating … are **good, union jobs**.
+
+Schuler laments that the "renewable energy jobs" are jobs with "***no benefits***" (to Americans, this means no health insurance). I think that more than ever, we see here the problems in the American vocabulary, where "benefits" of a job don't include such things as satisfaction; a sense of purpose; or sense of morality. You can be an active participant in burning the planet, but that's fine, because the most comparable job for you personally, seems on one measure, like it wouldn't be as good for you.
+
+> ![Sally McManus wearing a shirt reading "secure jobs"](/images/fusion_article/Sally_McManus.jpg)
+> [Sally McManus](https://twitter.com/sallymcmanus) − Secretary of the Australian Council of Trade Unions
+
+I discuss in [Embraving Evil Technology](../embracing_evil_technolgy/) how modern citizens have never in their whole lives shed a tear for the downfall of the horse and carriage industry when it was replaced by automobiles; and that we shouldn't let selfishness amongst a few current coal workers get in the way of the greater good. These people blockading environmental progress have blood on their hands, whenever there is a flood; whenever there is a bushfire; whenever there is a hurricane.
+
+## Universal Basic Income
+By having a more appealing safety net against unemployment, we can make a case that [Universal Basic Income](https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/pubs/rp/rp1617/BasicIncome) (a policy of the Fusion Party) would help to diminish the appeal of morally unjustifiable industries. What if people stopped working in telemarketing; what if they stopped mining coal; and what if more broadly, they stopped propagating any lies on behalf of their employers? UBI ***could create*** an enormous moral shift in our society.
+
+I don't feel that UBI is quite as forward-thinking as it could be though − I prefer the idea of zero-marginal-cost existence, which [I've described previously, in relation to web3](http://localhost:1313/post/keeping_governments_relevant_in_web3_era/). Just like software companies approach a cost of $0 for each new user, governments should target a cost of $0 for keeping a citizen fed, educated and motivated.
+
+By reducing the cost of existence to zero, people wouldn't actually need to apply for any sort of payment; so it'd stamp out the phenomenon of having to wait on hold for 3 hours while dealing with different government departments.
+
+UBI comes with all sorts of complaints / issues like "*what if they just take the money and sit on the couch?*" or "*what if they just take drugs?*". In the model of zero-marginal-cost existence, the government wouldn't be undertaking any explicit efforts to subsidise that sort of lifestyle, so heroin would still be as unaffordable as ever; and we wouldn't need paramilitaries turning up at people's houses for drug use, because living a lifestyle that society deems "honourable" is so much cheaper and harmonious, for existing citizens and for newly assimilating immigrants.
+
+## Innovation
+By lowering the risk of losing your morally bankrupt job, then UBI or zero-marginal-cost existence also minimises the risk of starting your own business (a prospect that would otherwise be deemed too risky for most people).
+
+The desire for job safety leads to large, bloated companies that are anathema to innovation. I recall angel investor [David S. Rose](http://www.davidsrose.com/) making a great point, that it's a perfect time for a startup in this day and age, because if you fail, you can only lose 100%. If your company fails, you're not forced to dip further into your life savings; and you're not going to be indebted for life, paying back millions of dollars to investors who knowingly took a gamble.
+
+What's holding back startups and innovation now (besides a shortage of good software engineers) is mainly cultural − Australia is more risk-averse than the US; and if someone's startup fails to take over the world, then unlike Americans who might see it as an over-eager *life learning*; Australians seem more prone to view it as "serves them right for getting too carried away with themselves." *What did you expect to happen? You think you're Mark Cuban or something?*
+
+> ![Mark Cuban](/images/fusion_article/Mark_Cuban.png)
+> *It doesn’t matter how many times you have failed, you only have to be right once* − [Mark Cuban](https://www.modlingua.com/blogs/1407-mark-cuban-s-success-story.html)
+
+In a large bureaucracy, if I take a risk and lose, I might get fired and the company will hang its head in shame. If the bet works, the company will be praised, but I'm unlikely to have any equity at all in an Australian company, so the upside risk for me is maybe a $10k bonus and a pat on the back.
+
+[Price's Law](https://dariusforoux.com/prices-law/) was discovered in the context of people publishing scientific papers, but it holds in other areas of creative output too. It finds that 50% of the output from a population is produced by the square root of the population. So as a company grows from 25 to 100 staff, the *productive population* has only grown from 5 to 10. Even without any other reason, this principle should be enough to highlight why it's so beneficial for parties such as the Fusion Party to be encouraging tech startups and innovation. From [The Innovator's Dilemma](https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma) to Elon Musk's biography, we've seen that **it's startups, not incumbent companies, where society-changing innovation takes place.**
+
+Australia *can be* a beautiful, harmonious place to live, where new perspectives and multicultural experiences coexist. It can be a perfect place for world-changing startups to be born.
+
+Besides UBI, the Fusion Party supports [education for life](https://www.fusionparty.org.au/policy), [government funding for research](https://www.fusionparty.org.au/future_focused) and [high-speed rail](https://www.fusionparty.org.au/future_focused) − all policies that would promote innovation and collaboration across Australia.
+
+## Enironmentalism
+I feel that a good gauge for the Fusion Party's real concern about the environment is the fact that they support reframing *aging* as a *disease*. They're creating a future that they'd actually be living in, for a long time.
+
+In terms of the environmental policy itself, there are [specific ideas](https://www.fusionparty.org.au/ecological_restoration) including ending the crazy practice of subsidising fossil fuels.
+
+Australia has an obvious potential for exporting clean energy, as evidenced by the 3-GW [Sun Cable](https://suncable.sg/) to Singapore. The Fusion Party is targeting 800% renewable energy in Australia; and has expressed support for nuclear power.
+
+Voters expressing strong concern for the environment have typically been targeted by The Greens, but my opinion is that there's just not enough of a complete world view being formed by the Greens, so their policies don't end up being pragmatic or sensible. They say [they want to get Australia involved in ***manufacturing*** again](https://greens.org.au/platform/economy), in the same sentence where they acknowledge our achievements in cutting-edge technologies like "wi-fi \[sic\]".
+
+> ![GDP vs economic complexity](/images/fusion_article/economic_complexity.png)
+> In 2020, Australia ranked [84th for economic complexity](https://oec.world/en/rankings/eci/hs6/hs96?tab=map) and was an outlier for still managing a high GDP. Apparently a return to *manufacturing* would help our situation.
+
+## The Internet
+{{< youtube Vywf48Dhyns >}}
+In criticising the mainstream parties' understanding of emerging industries and their revenue potential, it's worth focusing on a concrete example of how the Internet works. During the ridiculous debates around [Google and Facebook paying just to link to news sites](https://www.vox.com/recode/22287971/australia-facebook-news-ban-google-money), nobody ever mentioned the fact that if these news sites really didn't like what Google was doing, they could just change their robots.txt page to tell Google to stop indexing their content.
+
+The fact that [DuckDuckGo](https://duckduckgo.com/) was immune from the rules hints at the proper solution to the fiasco − wherever Internet services have proliferated to the extent that they become critical parts of modern life, then it's probably the case that the service should have been run as a public commons, without the misaligned incentives.
+
+Sure the Liberal party probably pursued the policy because [former Treasurer Peter Costello](https://en.wikipedia.org/wiki/Peter_Costello) is chairman for Nine Entertainment; and because the party is closely aligned with News Corp; but [Labor ended up supporting the law](https://www.theguardian.com/australia-news/2021/jan/28/labor-set-to-support-media-code-but-says-pm-faces-serious-questions-after-google-threat) too.
+
+The whole idea that Google gets much value out of people searching for news content presupposes that people are searching for the news ***article*** and not the news itself − the media company wrote an article, then the article created buzz and someone searched for it, bringing a user to Google.
+
+The more sensible perspective though is that people only heard of actual, true events, then they searched Google and clicked a result near the top. If the media company was really so valuable, the user could've gone straight there. Either way, when the user searched on Google, it was in the media company's interest for Google to index their site and for the result to be shown to a potential visitor. This is why the media company ***willingly let them*** index the site in the first place.
+
+If showing a search result is *giving away the story*, how did it get classed as a relevant result in the first place? Wouldn't the keywords already be telling half the story?
+
+If we're talking about a decent chunk of the article being displayed in a dedicated *News* app or *news feed*, that's a different phenomenon to search results and was only ever lumped in together because the underlying agenda was presumably "*Google and Facebook are rich; and our mates are losing money because they don't understand the Internet. How can we fix this?*"
+
+The answer is for governments to become directly relevant to our online lives; spurring on development of digital commons and creating digital-first nationality: [Nationality as a Service](../nationality_as_a_service).
+
+
+One country who was early to realise the connection between the Internet and sovereignty was Denmark, which appointed a [tech ambassador](https://techamb.um.dk/) in 2017. Unfortunately though, this proved far too late; and ambassador Casper Klynge was treated with contempt by the power-brokers of Silicon Valley − after finally organising a meeting with an executive, he was given a headquarters tour, then told that the executive didn't have time for an actual meeting.
+
+> As Mr. Klynge was exiting the building, the executive called his mobile phone to ask him to wait. Mr. Klynge thought there had been a change of heart.
+>
+> Not so.
+>
+> "When I got back to the conference room, he gave me a goody bag with a T-shirt and cap of the particular company," he said. He said Danish officials "laughed about this incident a lot afterward, but it says a lot about the mind-set of some of the companies in Silicon Valley." − *[The World’s First Ambassador to the Tech Industry](https://www.nytimes.com/2019/09/03/technology/denmark-tech-ambassador.html)*, New York Times
+
+
+## Foreign Policy
+Are Australian ambassadors similarly going to be laughed out of conference rooms? …
+The debacle that almost ended Australia's access to Google and Facebook has been one of many missteps in Australia's
+
+
+* Insurance against cyber attacks is growing in cost exponentially: https://twitter.com/stephsmithio/status/1500990229699698689 − this would indicate that every cost event adds to the pool of further cost events (seems pretty reasonable) − society is woefully backward
 
 > 
 ## Why Unions are Suboptimal
@@ -20,25 +131,7 @@ The fact that DuckDuckGo was immune from the rules hints at the proper solution 
 
 Complaining about executive salaries − why don't you become an executive yourself?
 
-* In [this interview](https://open.spotify.com/episode/2NsC4KxVpHWJ437RnA0ZNo) (at 34:50), Liz Shuler, the president of the AFLCIO (a collection of unions) explains her opposition to the "Green New Deal", on the grounds that "it shouldn't be a choice between the economy and good-paying jobs". She's been associated with the electrical workers' union. "There are so many ways we reduce our carbon footprint; and the emphasis has to be not just on electricity emissions − it has to be on transportation emissions; it has to be on how we manufacture; but also do it in a way that helps working people make that transition and make sure that the jobs we're creating … are **good, union jobs**" She laments that the "renewable energy jobs" are jobs with "no benefits" (to Americans, this means no health insurance). I think that more than ever, we see here the problems in the American vocabulary, where "benefits" of a job don't include such things as satisfaction; a sense of purpose; or sense of morality. You can be an active participant in burning the planet, but that's fine, because the most comparable job for you personally, seems on one measure, like it wouldn't be as good for you.
-
-I discuss in [Embraving Evil Technology]() how modern citizens have never in their whole lives shed a tear for the downfall of the horse and carriage industry when it was replaced by automobiles; and that we shouldn't let selfishness amongst a few current people get in the way of the greater good. These people blockading environmental progress have blood on their hands, whenever there is a flood; whenever there is a bushfire; whenever there is a hurricane.
-
-Unions getting in the way of firing incompetent or lazy workers
-
-Job safety leads to large, bloated companies that are anathema to innovation. I recall angel investor [David S. Rose](http://www.davidsrose.com/) making a great point, that it's a perfect time for a startup in this day and age, because if you fail, you can only lose 100%. If your company fails, you're not forced to dip further into your life savings; and you're not going to be indebted for life, paying back millions of dollars to investors who knowingly took a gamble.
-
-What's holding back startups and innovation now is mainly cultural − Australia is more risk-averse than the US; and if someone's startup fails to take over the world, then unlike Americans who might see it as an over-eager life-learning; Australians seem more prone to view it as "serves them right for getting too carried away with themselves."
-
-In a large bureaucracy, if I take a risk and lose, I might get fired and the company will hang its head in shame. If the bet works, the company will be praised, but I'm unlikely to have any equity at all in an Australian company, so the upside risk for me is maybe a $10k bonus and a pat on the back.
-
-[Price's Law](https://dariusforoux.com/prices-law/) was discovered in the context of people publishing scientific papers, but it holds in other areas of creative output too. It finds that 50% of the output from a population is produced by the square root of the population. So as a company grows from 25 to 100 staff, the *productive population* has only grown from 5 to 10. Even without any other reason, this principle should be enough to highlight why it's so beneficial for parties such as the Fusion Party to be encouraging tech startups and innovation. From [The Innovator's Dilemma](https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma) to Elon Musk's biography, we've seen that **it's startups, not incumbent companies, where society-changing innovation takes place.**
-
-Australia *can be* a beautiful, harmonious place to live, where new perspectives and multicultural experiences coexist. It can be a perfect place for world-changing startups to be born. The Fusion Party 
-
-## Environmentalism
-
-I said that the unions have misaligned incentives; and I feel that the alignment of incentives for the Fusion Party are most clearly demonstrated by the facts that they support reframing *aging* as a *disease*; and that the candidates already skew younger than their incumbent counterparts. The Fusion Party candidates want to create a future that they can live in.
+* 
 
 ## High-Speed Rail
 Killing airline industry. Don't yet mention Unabomber. Does Corey Doctorow discuss it at all?
@@ -92,12 +185,11 @@ I'm against most controls over who can be in charge; and I find controls such as
 
 Australian politics has suffered [corruption scandal](https://www.dailymail.co.uk/news/article-10101945/Gladys-Berejiklian-ICAC-Explosive-tape-played-corruption-probe.html) after [corruption scandal](https://www.youtube.com/watch?v=aIGKCkS01EA); and anything that allows a faster replacement of incumbent politicians is a way to protect against corruption from spreading. It's a massive disappointment that the party registration requirements were recently changed so that instead of needing 500 members, [parties now need 1,500 members to run in federal elections](https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r6755). Notice btw that the parliament website provides no list of who voted to support this bill. Why would they try to be transparent?
 
-* Insurance against cyber attacks is growing in cost exponentially: https://twitter.com/stephsmithio/status/1500990229699698689 − this would indicate that every cost event adds to the pool of further cost events (seems pretty reasonable) − society is woefully backward
 
-* [Sally McManus](https://twitter.com/sallymcmanus) − Secretary of the Australian Council of Trade Unions
+* 
 * Secure job by having sex with the boss. Labor in general seems to glorify the notion of having a job, perpetuating the stigma that if you're unemployed, you're a loser. Zero marginal cost existence is so much better. Ho-hum risk avoidance. Public service.
 
-"Secure, well paid jobs" − Greens values. https://greens.org.au/platform.
+
 
 ### Human Rights
 The Greens have typicaly presented themselves as the party most concerned with human rights; so it's not surprising for them to list as one of their policies, "An end to all forms of discrimination." − not possible. Being woke is not a policy.
