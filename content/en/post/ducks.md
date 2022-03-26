@@ -6,7 +6,7 @@ images: ["/images/ducks_swimming.gif", ]
 featured_image: "/images/ducks_swimming.gif"
 featured_alt_text: "Ducklings having difficulty scaling stairs"
 tags: ["duck", "birds", "animals"]
-title: "Ducklings can't scale stairs"
+title: "Ducklings Can't Scale Stairs"
 ---
 
 Ducklings are often seen walking through our civilisation, eagerly following a leader who might not have sufficient understanding of their followers, but they might also be following their mother duck.
