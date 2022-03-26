@@ -1,5 +1,5 @@
 ---
-date: 2022-03-23T08:25:05+16:00
+date: 2022-03-23T08:25:05+11:00
 description: "⛓🗳👥"
 images: ["/images/web3_relevance_article/digital_ruins.png", ]
 featured_image: "/images/web3_relevance_article/digital_ruins.png"

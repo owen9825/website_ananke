@@ -1,5 +1,5 @@
 ---
-date: 2022-03-24T20:58:08+16:00
+date: 2022-03-26T14:58:08+16:00
 images: ["/images/fusion_article/fusion_robot_with_rights.png", ]
 featured_image: "/images/fusion_article/fusion_robot_with_rights.png"
 featured_alt_text: "The Fusion logo in front of a robot with rights, standing amongst Greek ruins"
