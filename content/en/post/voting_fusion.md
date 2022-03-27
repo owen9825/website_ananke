@@ -1,5 +1,5 @@
 ---
-date: 2022-03-26T14:58:08+16:00
+date: 2022-03-26T14:58:08+11:00
 images: ["/images/fusion_article/fusion_robot_with_rights.png", ]
 featured_image: "/images/fusion_article/fusion_robot_with_rights.png"
 featured_alt_text: "The Fusion logo in front of a robot with rights, standing amongst Greek ruins"
@@ -9,7 +9,7 @@ description: "Reasons for voting Fusion for the 2022 Federal Election"
 author: "Owen Miller"
 ---
 
-The Non-Human Party will not be participating in the 2022 Australian Federal Election, so here I'm outlining the reasoning behind aligning with the [Fusion Party](https://www.fusionparty.org.au/). Above all else, the Fusion Party is pursuing a bold and futuristic vision − it is not the ho-hum *incremental* thinking that comes to be expected from career politicians; and neither is it the sort of thinking that would originate from self-serving bureacrats, [setting themselves up for a quid-pro-quo job](https://www.michaelwest.com.au/revolving-doors/) in *one of the companies they helped to prop up*.
+The Non-Human Party will not be participating in the 2022 Australian Federal Election, so here I'm outlining the reasoning behind aligning with the [Fusion Party](https://www.fusionparty.org.au/). Above all else, the Fusion Party is pursuing a bold and futuristic vision − it is not the ho-hum *incremental* thinking that comes to be expected from career politicians; and neither is it the sort of thinking that would originate from self-serving bureaucrats, [setting themselves up for a quid-pro-quo job](https://www.michaelwest.com.au/revolving-doors/) in *one of the companies they helped to prop up*.
 
 
 On this point of party incentives, it's worth pointing out the reason that Fusion's constituent parties fused together in the first place − it was spurred on by the [Party Integrity Bill](https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r6755), which raised the number of required members from 500 to 1500. This inherently makes it harder to challenge the incumbent parties; and it stifles the introduction of new ideas into political debate.
