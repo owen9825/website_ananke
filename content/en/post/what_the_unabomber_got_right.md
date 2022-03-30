@@ -19,7 +19,9 @@ The essay makes some compelling points about the meaning of life and the structu
 
 ![Kool Aid mascot](/images/unabomber_article/Kool_aid.gif)
 
-After reading the essay recently, it was puzzling to me why it didn't attract more followers − why we haven't seen anyone else joining the Freedom Club and bringing down airlines for instance. It's not like airlines do a great job at keeping their passengers happy or even treating them like human beings. I suspect that the vast majority of people just never read the essay, then the next largest group is the aforementioned "*people who read the essay, but dismissed it as crazy and not worthy of debate*". *The theories are wrong because I want them to be wrong*.
+After reading the essay recently, it was puzzling to me why it didn't attract more followers − why we haven't seen anyone else joining the Freedom Club and bringing down airlines for instance. It's not like airlines do a great job at keeping their passengers happy or even treating them like human beings. I suspect that the vast majority of people just never read the essay, then the next largest group is the aforementioned "*people who read the essay, but dismissed it as crazy and not worthy of debate*". *The Unabomber is a terrorist, therefore he's wrong*.
+> ![Paul Graham's ranking]()
+> Paul Graham's ranking of compelling strategies for arguments
 
 ## Surrogate Activities
 The central argument of Kaczynski / FC is that modern life is meaningless; and people must adopt "*surrogate activities*" to avoid depression and hopelessness. Such a theme is echoed by psychologist Eric Fromm in his 1941 work, *[Escape from Freedom](https://en.wikipedia.org/wiki/Escape_from_Freedom)*, where he argues that since it's no longer a challenge to stay alive, our natural threshold of fear goes unsatisfied and drives us insane, unless we become alcoholics; workaholics; or generally distract ourselves in some way from the overwhelming amount of freedom we have.
