@@ -4,7 +4,7 @@ description: "🎮⚑🚢🎱"
 images: ["/images/tamagotchi_foreigners_article/tamagotchi_2.gif", ]
 featured_image: "/images/tamagotchi_foreigners_article/tamagotchi_2.gif"
 featured_alt_text: "A Tamagotchi"
-tags: ["animals", "children", "pets"]
+tags: ["animals", "children", "pets", "web3"]
 title: "Should Foreigners or Tamagotchis Exist?"
 author: "Owen Miller"
 ---

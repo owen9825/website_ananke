@@ -4,7 +4,7 @@ description: "🎌💀🎌"
 images: ["/images/dead_nationality/haunted_graveyard.gif", ]
 featured_image: "/images/dead_nationality/haunted_graveyard.gif"
 featured_alt_text: "A windy, haunted graveyard"
-tags: ["nationality"]
+tags: ["nationality", "web3"]
 title: "Nationality for the Dead"
 author: "Owen Miller"
 ---

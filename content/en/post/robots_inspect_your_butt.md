@@ -4,7 +4,7 @@ description: "Physiology and the future of ubiquitous computing"
 images: ["/images/robot_butt_article/principle_skinner_butt.gif", ]
 featured_image: "/images/robot_butt_article/principle_skinner_butt.gif"
 featured_alt_text: "Principle Skinner shaking his butt in contempt, towards Springfield Elementary School"
-tags: ["cameras", "robots"]
+tags: ["cameras", "robots", "web3"]
 title: "Let Robot Overlords Inspect Your Butt"
 author: "Owen Miller"
 ---
@@ -41,7 +41,7 @@ Keep in mind this thought of eating anything, because it’s your ___God-given r
 
 So, eating cows and pop-tarts doesn’t cement the superiority of mankind, because we can still be killed by some tiny E. Coli living inside our food. The battle for natural selection goes in a cycle like a game of scissors-paper-rock. For us to make ourselves more immune from predation, we need some extra help, like government-funded cameras to inspect our butts.
 
-![A pop-tart (a rectangular tart with glazing, intended to be cooked in a toaster, as breakfast for an American)](/images/robot_butt_article/pop_tart.jpg)
+![A pop-tart (a rectangular tart with glazing, intended to be cooked in a toaster, as breakfast for an American)](/images/robot_butt_article/pop_tart.jpg)
 
 Getting to this aspect of technology, the key elements of this plan are blockchains and ubiquitous sensing, especially RGB sensors or “spy cameras”, as some might describe them.
 

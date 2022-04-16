@@ -4,7 +4,7 @@ description: "⛓🗳👥"
 images: ["/images/web3_relevance_article/digital_ruins.png", ]
 featured_image: "/images/web3_relevance_article/digital_ruins.png"
 featured_alt_text: "Some sandstone ruins with flowing information"
-tags: ["nationality", "cameras", "robots"]
+tags: ["nationality", "cameras", "robots", "web2", "web3"]
 title: "Keeping Governments Relevant in the Web3 Era"
 draft: false
 disable_share: false
