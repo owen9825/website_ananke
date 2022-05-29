@@ -1,6 +1,6 @@
 title = "Non-Human Party"
 baseURL = "https://nonhuman.party"
-languageCode = "en-us"
+languageCode = "en-au"
 theme = "website-ananke"
 themesDir = ".."
 resourceDir = "resources"
