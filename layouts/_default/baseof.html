@@ -40,6 +40,7 @@
     {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
       {{ partial "google-analytics-async.html" . }}
     {{ end }}
+    {{ partial "google-structure.html" . }}
 	{{ block "head" . }}{{ partial "head-additions.html" . }}{{ end }}
   </head>
 

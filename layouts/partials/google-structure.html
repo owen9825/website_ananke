@@ -1,0 +1,27 @@
+{{- if .Params.date -}}
+	<script type="application/ld+json">
+	    {
+	      "@context": "https://schema.org",
+	      "@type": "NewsArticle",
+	      "headline": "{{ .Params.title }}",
+	      "image": [
+	        "{{ partial "func/GetFeaturedImage.html" . }}",
+	       ],
+	      "datePublished": "{{ .Params.date }}",
+	      "dateModified": "{{ .Params.date }}",
+	      "author": [{
+	          "@type": "Person",
+	          "name": "{{ .Params.author }}",
+	          "url": "/about"
+	        }]
+	    }
+    </script>
+{{- end -}}
+<script type="application/ld+json">
+	{
+	  "@context": "https://schema.org",
+	  "@type": "Organization",
+	  "url": "{{ .Site.BaseURL }}",
+	  "logo": "/images/vaporwave_galah.jpg"
+	}
+</script>
