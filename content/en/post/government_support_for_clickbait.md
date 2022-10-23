@@ -43,13 +43,13 @@ In 2012, there was reportedly a shooting at Sandy Hook Elementary School, result
 
 Alex Jones pushed the theory that the shooting was staged; that nobody actually died; and that the performance was organised by those wanting an excuse for stricter gun control. It would be difficult to pull off such a stunt, but we have seen pretty significant resources thrown behind the moon landing for instance.
 
-In 2022, Jones lost court cases in US multiple states, including one where he's required to pay [at least $965 million](https://www.aljazeera.com/news/2022/10/12/jury-orders-alex-jones-to-pay-families-965m-for-sandy-hook-lies) to families of victims. How the money is connected to an apology, a retraction, or really anything to do with the original incident is unclear. It's not like Jones can even afford this payout: [his company InfoWars has filed for bankruptcy](https://apnews.com/article/alex-jones-infowars-bankruptcy-filing-1a3b51946cb06c5f90c341d3118947cf).
+In 2022, Jones lost court cases in multiple US states, including one where he's required to pay [at least $965 million](https://www.aljazeera.com/news/2022/10/12/jury-orders-alex-jones-to-pay-families-965m-for-sandy-hook-lies) to families of victims. How the money is connected to an apology, a retraction, or really anything to do with the original incident is unclear. It's not like Jones can even afford this payout: [his company InfoWars has filed for bankruptcy](https://apnews.com/article/alex-jones-infowars-bankruptcy-filing-1a3b51946cb06c5f90c341d3118947cf).
 
 ## Reinvention of Culture
-Sure, school shootings are bad and everything, but they're also a great opportunity for survivors to get some attention! At least this was the perspective of CNN, in [reporting the unfairness](https://www.cnn.com/2018/03/29/us/parkland-school-black-students-trnd) in how the coverage of the shooting was skewed towards focusing on the white students, even there were so many black students at the school! 11% in fact.
+Sure, school shootings are bad and everything, but they're also a great opportunity for survivors to get some attention! At least this was the perspective of CNN, in [reporting the unfairness](https://www.cnn.com/2018/03/29/us/parkland-school-black-students-trnd) in how the coverage of the shooting was skewed towards focusing on the white students, even though there were so many black students at the school! 11% in fact.
 
 > ![3 Parkland students at a vigil, all of whom have white skin](/images/crowdsourced_media_article/Parkland_vigil.jpg)
-> Survivors at Parkland, speaking a vigil. What are the chances that ***none*** of the three would be black, even though 11% of the population was black?! Racist.
+> Survivors at Parkland, speaking at a vigil. What are the chances that ***none*** of the three would be black, even though 11% of the population was black?! *Hint: 70%*.
 
 This bizarre tangent of an issue raised by CNN is consistent with America's obsession with race and their regular redefinition of foreign cultures, whether it be African or anything else.
 
@@ -73,7 +73,7 @@ With America producing so much of the content in the zeitgeist, about what it me
 
 **Everybody has a reputation, whether or not they choose to be involved in its curation.** *Do we really want our nation's reputation to be entirely based on what Americans (who rarely visit) happen to remember about us?*
 
-## Funding for Content nCreation
+## Funding for Content Creation
 Government-funded corporations like the [British Broadcasting Corperation](https://www.bbc.com/) (BBC) or the [Australian Broadcasting Corporation](https://www.abc.net.au/) (ABC) have served not just as a way of entertaining the populace, but also as a means of *["soft power"](https://about.abc.net.au/speeches/soft-power-public-diplomacy-and-the-role-of-the-public-broadcasters/)*: as a way of spreading our ideas and values to the world.
 
 Some might see this as imperialistic, but I think there's certainly a difference between *imposing your culture* by force, versus simply offering entertainment and a point of view. If you have a nation and a culture to be proud of, why wouldn't you want to make your way of life accessible to the whole world?
@@ -122,7 +122,7 @@ However the goverment chooses to go about this, there is likely to be an opportu
 
 Maybe the government could pay the creator based on views, but only YouTube knows the real number of views, and besides, if the idea is to generate Australian content, why would the government endorse YouTube as a moderator, capable of de-platforming someone who the government might actually like? YouTube might even choose to  deliberately inflate the prominence of anti-Australian content, just like the New York Times has a vendetta against France.
 
-Such a scenario points to Australia creating its own alternative to YouTube. We've [previously floated the idea](../keeping_governments_relevant_in_web3_era/) of governments funding the development of open-source alternative to the pillars of our online life: Google search, Facebook, LinkedIn and YouTube.
+Such a scenario points to Australia creating its own alternative to YouTube. We've [previously floated the idea](../keeping_governments_relevant_in_web3_era/) of governments funding the development of open-source alternatives to the pillars of our online life: Google search, Facebook, LinkedIn and YouTube.
 
 With a capable, open-source alternative to YouTube, we can imagine it eventually incorporating more and more advanced AI, so that it could answer impartially, *"does this content have a character who is believably Australian?"* or *"is this content discussing Australia, in a truthful way?"*
 
@@ -136,7 +136,7 @@ Sure there'd be less pressure on people to produce good work, but considering ho
 > {{< youtube  nNRoiEPmcZc >}}
 > Dancers in the pursuit of fame
 
-If the government funded agriculture and commissioned content-creation tools, enabling zero-cost existence for content creators, then would it mean that creating the truth is an increasingly crowded space and an inadvisable strategy for standing out? Not necessarily: we saw previously in *[The Virtues of Being a Dole Bludger](../dole_bludgers_with_morals)* that a side-effect of zero-cost existence (or equivalently, [UBI](https://en.wikipedia.org/wiki/Universal_basic_income)) is that it is less tempting to pursue immoral paths, like lying.
+If the government funded agriculture and commissioned content-creation tools, enabling zero-cost existence for content creators, then would it mean that sticking to the truth is an increasingly crowded space and an inadvisable strategy for standing out? Not necessarily: we saw previously in *[The Virtues of Being a Dole Bludger](../dole_bludgers_with_morals)* that a side-effect of zero-cost existence (or equivalently, [UBI](https://en.wikipedia.org/wiki/Universal_basic_income)) is that it is less tempting to pursue immoral paths, like lying.
 
 If people feel that lying is necessary to put food on the table, then there will end up being a lot of liars. With this pressure removed, I predict that there will be increased shame in lying; and that just like the notion of a criminal history, societies will make a permanent record of the fact that Alex Jones for instance made incorrect claims about what happened at Sandy Hook Elementary. The bizarre situation of him having to pay money as *punishment for speaking* is resolved: the shame of having these untruths on his public record is already sufficient punishment, like how our current society treats convicted sex offenders.
 
