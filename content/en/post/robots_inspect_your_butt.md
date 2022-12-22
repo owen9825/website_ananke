@@ -99,7 +99,7 @@ We can continue the blockchain onto the consumer, if we force supermarkets to fi
 
 Wearable sensors can already track the concentrations of Oxygen, sugar and alcohol in our blood. We can track the physiological effects instigated by the food from the supermarket and we can learn how your energy and concentration varies through the day. Maybe you could tie this to your work output too: do you end up writing more code after eating an avocado? Is your post-breakfast code less likely to be rewritten than your code from the end of the day?
 
-Each person's metabolism is different; and for further insight into why food is affecting each person differently, we need data from their gut, which only becomes accessible when they visit the bathroom. When analysing the contents in the toilet bowl though, how do we know who it belongs to? Researchers at Stamford University have made [a smart toilet](https://med.stanford.edu/news/all-news/2020/04/smart-toilet-monitors-for-signs-of-disease.html) that analyses the contents and recognises the visitor by their butthole.
+Each person's metabolism is different; and for further insight into why food is affecting each person differently, we need data from their gut, which only becomes accessible when they visit the bathroom. When analysing the contents in the toilet bowl though, how do we know who it belongs to? Researchers at Stanford University have made [a smart toilet](https://med.stanford.edu/news/all-news/2020/04/smart-toilet-monitors-for-signs-of-disease.html) that analyses the contents and recognises the visitor by their butthole.
 
 ![A diagram for a toilet-mounted sensor](/images/robot_butt_article/toilet.png)
 
