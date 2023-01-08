@@ -89,7 +89,7 @@ After physically visiting each property and seeing the same thing as the picture
 
 The Australian system of phone-call references proliferates the idea of a land-owning class pressuring commoners to put up with poor conditions, because if they complain, then they'll miss out on a glowing reference later. Land-owners want assurance that they aren't going to be risking their property with some uppity renter who expects the lights to work. The US practice is to get a background check: government-endorsed reports about my criminal history; and reports from credit agencies about my financial history. No messing around with the interrogation of strangers.
 
-> ![John Voigt instructs a woman, "blink twice if you're here against your will"](/images//housing_article/blinking.gif)
+> ![John Voigt instructs a woman, "blink twice if you're here against your will"](/images/housing_article/blinking.gif)
 
 Besides being terrified of defamation lawsuits, another reason that references are less important in the US seems to be because they just don't trust strangers as much as these Australian landlords and employers − they know that this stranger has no vested interest in helping them, and in fact, they might lie in favour of the tenant/employee, in order to get them off their hands. Such was the case when "*Dr Death*", [Jayant Patel](https://en.wikipedia.org/wiki/Jayant_Patel), was [given glowing letters of endorsement by the Oregon Board of Medical Examiners](https://bioethicstoday.org/blog/dr-death-down-under/), who had actually restricted his practice, months earlier.
 
