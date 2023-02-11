@@ -43,14 +43,17 @@ other = "Send"
 [taxonomyPageList]
 other = "Here are the posts tagged with {{ .Title }}"
 
-[robot_alt_text]
-other = "A friendly robot"
+[cyborg_brolga_alt_text]
+other = "A cyborg brolga"
 
-[drag_queen_alt_text]
-other = "A drag queen"
+[cyborg_mouse_alt_text]
+other = "A cyborg mouse"
 
-[kangaroo]
-other = "kangaroo"
+[cyborg_kookaburra_alt_text]
+other = "A cyborg kookaburra"
+
+[cyborg_galah_alt_text]
+other = "A cyborg galah"
 
 [cockatoo_image_alt]
 other = "A cockatoo"
