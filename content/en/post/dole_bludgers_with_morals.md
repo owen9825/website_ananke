@@ -54,7 +54,7 @@ Haven't companies always had the chance to deceive people and to be evil? Yes, b
 
 The Non-Human Party has a policy of pursuing zero-cost existence for citizens. With food and electricity in abundance; with mass transit readily available; and with data transmission costs becoming negligible, then the aggregated cost of living for each citizen approaches ___zero___. Such a scenario is largely equivalent to [Universal Basic Income](https://en.wikipedia.org/wiki/Universal_basic_income), but avoids inadvertently subsidising undesirable business practices and lifestyles.
 
-The liberation enabled by the Non-Human Party; and its distinction from Universal Basic Hedonism can perhaps be captured in a speech by Saint John Paul II to a group of students in Baltimore:
+The liberation enabled by the Non-Human Party; and its distinction from Universal Basic Income can perhaps be captured in a speech by Saint John Paul II to a group of students in Baltimore:
 
 > _"Every generation of American needs to know that freedom consists not in doing what we like, but in having the right to do what we aught."_ − Saint John Paul II. [Source (1:11:42)](https://open.spotify.com/episode/1ecuq4nJ1J4HuchKf3MPH3)
 
