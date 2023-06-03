@@ -1,0 +1,28 @@
+/** 
+  * Rather than calling for Google Fonts, we're hosting them ourselves, 
+  * thanks to https://gwfh.mranftl.com/fonts/sedgwick-ave?subsets=latin
+**/
+/* baloo-chettan-2-regular - latin */
+@font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Baloo Chettan 2';
+    font-style: normal;
+    font-weight: 400;
+    src: url('/fonts/baloo-chettan-2-v16-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  }
+/* gowun-dodum-regular - latin */
+@font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Gowun Dodum';
+    font-style: normal;
+    font-weight: 400;
+    src: url('/fonts/gowun-dodum-v7-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  }
+  /* sedgwick-ave-regular - latin */
+@font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Sedgwick Ave';
+    font-style: normal;
+    font-weight: 400;
+    src: url('/fonts/sedgwick-ave-v12-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  }
