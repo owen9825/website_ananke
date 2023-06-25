@@ -4,7 +4,7 @@ description: "🤑🤐💀"
 images: ["/images/capitalism_article/homer.gif", ]
 featured_image: "/images/capitalism_article/homer.gif"
 featured_alt_text: "Homer Simpson sneakily backing into a hedge, to hide."
-tags: ["nationality", "web3"]
+tags: ["robots", "web2"]
 title: "Replacing Capitalism and Yourself"
 author: "Owen Miller"
 ---
