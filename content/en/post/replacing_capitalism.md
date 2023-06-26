@@ -87,6 +87,7 @@ So, how can we ensure this liberation does take place?
 * Most open-source projects should be treated as charities. Sure, we'd need to be worried about "open-source projects" that really only help one company, but for projects like [Git](https://git-scm.com/) that are genuinely useful to the entire population, it's easy to make the argument that they do more good than eg a food bank for one neighbourhood.
     * Financial contributions to the project should be tax-free.
     * Time spent writing code for the project should count towards community service, for criminal convictions and social credit scores.
+* Organisations must be ineligible to portray themselves as non-profits, unless all their software is open-source. If they're creating moats around their business, their motives are not altruistic.
 * Governments and any other community institutions should refuse to partake in deals with confidential terms.
 * As much as possible, governments should move to using open-source software. The public can directly contribute to the smooth running of their society.
 * Except for military secrets, any code commissioned as a government project should be released open-source to constituents.
