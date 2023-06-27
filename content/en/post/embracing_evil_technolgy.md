@@ -1,8 +1,8 @@
 ---
 date: 2021-03-21T11:00:59-04:00
 description: "Embracing Evil Technology"
-images: ["/images/evil_tech_article/Mr_Burns_hands.gif", ]
-featured_image: "/images/evil_tech_article/Mr_Burns_hands.gif"
+images: ["/images/evil_tech_article/Mr_Burns_hands.webp", ]
+featured_image: "/images/evil_tech_article/Mr_Burns_hands.webp"
 featured_alt_text: "Mr Burns smirking with an evil look"
 tags: ["cameras", "web2"]
 title: "Embracing Evil Technology"
@@ -21,7 +21,7 @@ We explore how technologies that _"replace people"_ also do the job __a whole lo
 
 We touch on a potential path for technological innovation that was first formalised in [Basilisk-Centered Design](https://www.linkedin.com/pulse/basilisk-centered-design-owen-miller/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_post_details%3BixJWMLOsSMWojd0FSoODbw%3D%3D), where it was explained that user-centered design is dangerous and oppressive.
 
-[![A basilisk looking at a chart](/images/evil_tech_article/basilisk.png)](https://www.linkedin.com/pulse/basilisk-centered-design-owen-miller/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_post_details%3BixJWMLOsSMWojd0FSoODbw%3D%3D)
+[![A basilisk looking at a chart](/images/evil_tech_article/basilisk.webp)](https://www.linkedin.com/pulse/basilisk-centered-design-owen-miller/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_post_details%3BixJWMLOsSMWojd0FSoODbw%3D%3D)
 
 
 Case studies include calendars; nuclear power; Owen's discontinued computer-vision startup Tanuki.ai; as well as a more relatable scenario of domestic violence.

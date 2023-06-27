@@ -1,8 +1,8 @@
 ---
 date: 2022-03-23T08:25:05+11:00
 description: "⛓🗳👥"
-images: ["/images/web3_relevance_article/digital_ruins.png", ]
-featured_image: "/images/web3_relevance_article/digital_ruins.png"
+images: ["/images/web3_relevance_article/digital_ruins.webp", ]
+featured_image: "/images/web3_relevance_article/digital_ruins.webp"
 featured_alt_text: "Some sandstone ruins with flowing information"
 tags: ["nationality", "cameras", "robots", "web2", "web3"]
 title: "Keeping Governments Relevant in the Web3 Era"
@@ -19,7 +19,7 @@ Who's really contributing more to our current society now? Is it the computing c
 
 Besides the economic progress attributable to governments; democratic governments in particular can also foster inclusive decision-making to deal with communal needs that might not be best handled by private industry, with its inherently selfish, often short-term interests.
 
-> ![Sunset over some desert plants and a mobile phone tower](/images/web3_relevance_article/sunset.gif)
+> ![Sunset over some desert plants and a mobile phone tower](/images/web3_relevance_article/sunset.webp)
 > Our world is more dependent on technology than governments. Image: [Jaime Martínez](https://giphy.com/channel/jaimemartinez) via [Giphy](https://giphy.com/gifs/l0MYNyaMsSjSSd5Nm)
 
 As we've transitioned online, our lives have been increasingly influenced by tech giants who don't answer to us or to our governments. They make their own decisions around how we communicate; how we transact; and ultimately, how our society runs. Governments have tried to regain control with various fines for "uncompetitive" behaviours like [Amazon operating on its marketplace that it created by itself](https://www.forbes.com/sites/enriquedans/2020/06/13/if-amazon-is-guilty-of-anti-competitive-practices-who-did-it-learn-themfrom/); plus there have even been fines for competitive behaviour, if they're competing with governments − [France punished Google](https://techcrunch.com/2021/02/15/google-slapped-in-france-over-misleading-hotel-star-ratings/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAJbMfNc2Cga1iGpSbwZ7wym9KcX60eLUzDPGfRsveMyibeMfCSgQgo5oKhyXWNA9aMwWe1JSrTbYgoiTAJ-r-5Sqt4HNidnsmyQZ7F4Ovhp97yC4Qt8tALuIdJRALzWVc0HIK-ackeGy6eEKnut0J7tkYQcznL40nv8Gsqxnms1a#:~:text=Google%20has%20agreed%20to%20pay,engine%20and%20on%20Google%20Maps.) for instance, forcing it to rate hotels based on the decisions of Atout France (the public tourist board), rather than the submissions of Google's own users.
@@ -37,13 +37,13 @@ The four-part marketplace built on open-source systems solves the common complai
 
 Governments can implement modern identity systems that [let citizens log into 3rd-party websites with anonymised, proxy identities](../why_give_rights_to_robots). If a government can vouch for this citizen, that this is their only account on that site, then it solves a massive problem for online life. The widespread requirements to "*verify*" your phone number and to tick the box, "*I'm not a robot*" [can be framed](https://www.google.com/recaptcha/about/) as efforts to prevent insincere human activity, rather than anything against genuine, autonomous robots per se. Robots are unfairly being blamed; and are ending up as collateral damage.
 
-![A CAPTCHA test](/images/web3_relevance_article/captcha.png)
+![A CAPTCHA test](/images/web3_relevance_article/captcha.webp)
 
 Instead of punishing big tech and undermining innovation, governments can create software systems that allow for easier ways of doing business and harmonious ways of living. Such opt-in, open-source systems can ultimately offer wider-reaching capabilities − since users can contribute their own code; they can view the way the system is operating; and they can trust it more than eg a private camera system that is sharing its footage with unknown parties.
 
 If governments were to help with open-source farming software, it would resolve the *[Right to Repair](https://pluralistic.net/2022/01/29/planned-obsolescence/#r2r)* debates, where John Deere wants to keep its software as a black box that self-sufficient, eager farmers are prevented from modifying.
 
-> ![A tractor](/images/web3_relevance_article/tractor.jpg)
+> ![A tractor](/images/web3_relevance_article/tractor.webp)
 > Farmers can't touch this code; and have none of their own
 
 If governments [assisted with open-source security software](https://iotbusinessnews.com/2021/12/08/04177-can-iot-ever-be-trusted-by-civilians/), then end-users could play an active role in protecting themselves, rather than being wholly reliant on [laissez-faire practices](https://glog.glennf.com/blog/2015/7/28/that-simpsons-bit-wasnt-a-joke), hidden within proprietary black-boxes.

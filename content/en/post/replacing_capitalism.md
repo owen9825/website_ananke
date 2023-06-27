@@ -1,8 +1,8 @@
 ---
 date: 2023-06-24T10:58:08+16:00
 description: "🤑🤐💀"
-images: ["/images/capitalism_article/homer.gif", ]
-featured_image: "/images/capitalism_article/homer.gif"
+images: ["/images/capitalism_article/homer.webp", ]
+featured_image: "/images/capitalism_article/homer.webp"
 featured_alt_text: "Homer Simpson sneakily backing into a hedge, to hide."
 tags: ["robots", "web2"]
 title: "Replacing Capitalism and Yourself"
@@ -16,7 +16,7 @@ This process where the market adjusts to serve bourgeois whims and provide enoug
 
 This ability to extract necessary money from rich people through bullshit products and services, has led to the idea that everyone needs a job and that a job has some sort of inherent moral value − *it's keeping people fed!* So there's no need to really keep track of which jobs are useful and which are just a way of propping up the ability to extract money out of rich people. If our pursuit of milking the bourgeoisie involves creating a few extra jobs in one company, well it seems pointless to try differentiating between the useful vs useless people, at a company that itself is useless. Companies can become bloated because such little thought is applied to this distinction, and because there are employees who are *actively trying to ensure the existence of such bloated jobs*.
 
-> ![Homer eating donuts, as seen through a CCTV camera](/images/capitalism_article/donuts.gif)
+> ![Homer eating donuts, as seen through a CCTV camera](/images/capitalism_article/donuts.webp)
 
 Employees are actively deceiving the rest of the company (and maybe themselves!), that what they're doing really is somehow important. Maintaining this gaslighting means they'll continue to have their essential needs met.
 
@@ -71,7 +71,7 @@ Community projects would be incentivised to have better documentation than comme
 
 In terms of writing content for a project, it's also worth pointing out that there is inherently going to be little chatter, about any open-source project. There is no advertising budget, and there are no sales calls. If you were to search for eg "best collaborative document editing software", then you might get ads right there in the search results, or you might be directed to a blog that superficially compares a few solutions. The author there might be paid to refer you to some particular choice, and they're almost certainly being paid to serve ads on the page. In fact, it's probably in their interests to sell you on a sub-optimal solution, so that your colleagues will ask you, "***really?***" and you'll be sending your colleagues to the blog post, for them to read too.
 
-> ![Tom Hanks asking, "really?"](/images/capitalism_article/really.gif)
+> ![Tom Hanks asking, "really?"](/images/capitalism_article/really.webp)
 
 The profit-driven companies have the budget and incentive to ensure that people hear about them, so no wonder you don't hear about open-source alternatives.
 

@@ -1,8 +1,8 @@
 ---
 date: 2022-05-30T19:55:08-04:00
 description: "The causal relationship between unappealing environments and harm"
-images: ["/images/shooting_article/falling.gif", ]
-featured_image: "/images/shooting_article/falling.gif"
+images: ["/images/shooting_article/falling.webp", ]
+featured_image: "/images/shooting_article/falling.webp"
 featured_alt_text: "A man slowly falls through vaporwave skyscrapers as they're illuminated by lightning strikes"
 tags: ["children", "guns", "animals", "pets", "birds"]
 title: "Guns Don't Kill People; Urban Design Does"
@@ -15,12 +15,12 @@ Sure, the Non-Human Party doesn't believe that mentally ill children should have
 
 Upon visiting Google Maps and having a look at Uvalde, the first thing that came to mind was, "what a depressing, car-dependent, concrete dystopia. No wonder the shooter was happy to die."
 
-> ![A satellite image showing concrete, bare trees, and urban sprawl](/images/shooting_article/Uvalde_Google.png)
+> ![A satellite image showing concrete, bare trees, and urban sprawl](/images/shooting_article/Uvalde_Google.webp)
 > Uvalde from above. Image: [Google Maps](https://www.google.com/maps/place/Newtown,+CT/@41.3952896,-73.3162215,13z/data=!3m1!4b1!4m5!3m4!1s0x89e7fcabc0566e89:0xc2a900405c7b3604!8m2!3d41.4141116!4d-73.3035656).
 
 To confirm the theory, I similarly looked at Newtown (Conneticut, USA), where the [Sandy Hook](https://en.wikipedia.org/wiki/Sandy_Hook_Elementary_School_shooting) shooting occurred, in which 28 people died, including the perpetrator.
 
-> ![A satellite image of concrete; parking lots; and bare trees in Winter](/images/shooting_article/Newtown_CT_near_Sandy_Hook.png)
+> ![A satellite image of concrete; parking lots; and bare trees in Winter](/images/shooting_article/Newtown_CT_near_Sandy_Hook.webp)
 > Sandy Hook from above. Image: [Google Maps](https://www.google.com/maps/place/Sandy+Hook,+Newtown,+CT/@41.4186469,-73.2885376,2984m/data=!3m1!1e3!4m5!3m4!1s0x89e7fb35dbd5930f:0x612332f253cbee6!8m2!3d41.4218208!4d-73.2833176?hl=en).
 
 If you have by chance also read through this [list of school massacres](https://en.wikipedia.org/wiki/List_of_school_massacres_by_death_toll), maybe you'll notice the same pattern that I'm proposing: most of the places where school massacres occur are not appealing places to live. In fact, there seems to be a correlation whereby the perpetrators in the nicer places are more likely to have more obvious issues with their mental health, whereas for the less appealing neighbourhoods, the shooter might not have really stood out from the norm.
@@ -41,14 +41,14 @@ Gun fans might concede that this effect is staggering, but they might perhaps fa
 
 Upon meeting a man on the bus in New York recently, we happened to be chatting about gun control and I mentioned the lack of *any* mass shootings in Australia since 1996, let alone school shootings. *"Yeah, but what about stabbings?"*
 
-> ![A police officer sits atop a mountain of guns](/images/shooting_article/gun_buyback.png)
+> ![A police officer sits atop a mountain of guns](/images/shooting_article/gun_buyback.webp)
 > The Australian gun buyback − did it do anything for stabbings? [Image source](https://www.vox.com/2015/8/27/9212725/australia-buyback)
 
 We might like to write off this man as the sort of gun fan who would clutch at any excuse, no matter how absurd; but it's a road to ruin if we just write off any political rivals as *idiots*, whose opinions should be ignored. For this man, it's part of his reality that life is miserable and that there will always be a motivation for people to lash out against society. This depression and disenfranchisement are ingrained in him more deeply than what others might regard as the *"common sense"* that children probably aren't going to have the physical strength, nor the emotional stamina to stab multiple people and see the sight of blood everywhere.
 
 When people feel anxious and unsafe, they'll be biologically incapable of focusing on anything else until the feeling of calmness is satisfied. It's this ingrained desire for safety that explains why the surge of COVID-19 in the US led to increased sales of not just bread-makers and toilet paper, but also [a 64% surge in gun sales](https://www.theguardian.com/us-news/2021/may/31/us-gun-sales-rise-pandemic). First-time buyers made up more than one fifth of these purchases, resulting in [39% of American households now owning a gun](https://gss.norc.org/).
 
-> ![A police car is seen driving along a wide highway, viewed from a nearby dirt-covered bus window, with the skyline of Dallas in the background, on a cloudy, miserable day.](/images/shooting_article/Dallas.jpeg)
+> ![A police car is seen driving along a wide highway, viewed from a nearby dirt-covered bus window, with the skyline of Dallas in the background, on a cloudy, miserable day.](/images/shooting_article/Dallas.webp)
 > [Dallas, as seen from a bus](https://www.instagram.com/p/CbGGf9Gu7FE/). A typical American city, where people are expected to feel at ease.
 
 
@@ -57,13 +57,13 @@ In previous articles such as *[Keeping Governments Relevant in the Web3 Era](../
 We don't have to keep building concrete sprawl that's inhospitable; dangerous to pedestrians; and devoid of nature. We can build enjoyable, harmonious places to live; places that spark joy for humans, robots, and [animals alike](../ducks). In the aftermath of the 2012 Sandy Hook shooting, the town decided to demolish the old building and hire architecture firm [Svigals + Partners](https://www.svigals.com/work/sandy-hook-school) to design a new one. There was a long list of safety regulations, perhaps including a lock for the back door; so the building could've ended up feeling like a fortress. Instead, in her book *[Joyful](https://www.amazon.com/Joyful-Ingrid-Fetell-Lee-audiobook/dp/B07G9KVB31/ref=sr_1_1)*, Ingrid Fetell Lee praises the building as a success story; a place that's playful and joyful:
 > A wavy line of two-tone wood cladding runs the length of the façade, and the staggered windows seem almost to bounce softly up and down with it. Squiggly canopies cover the entrances to the school. The curves were mostly inspired by the site's rolling hills and nearby rivers, but Barry Svigals, the founder of Svigals + Partners, also admits a more intuitive inspiration. "Some elements are squiggly because, well, squiggly is fun!" − excerpt from [Joyful](https://www.amazon.com/Joyful-Ingrid-Fetell-Lee-audiobook/dp/B07G9KVB31/ref=sr_1_1).
 >
-> ![A view of the entranceway, revealing its resemblance to a moat, with rocks and long grass to the side](/images/shooting_article/Sandy_Hook_redesign_4.jpg)
+> ![A view of the entranceway, revealing its resemblance to a moat, with rocks and long grass to the side](/images/shooting_article/Sandy_Hook_redesign_4.webp)
 >
-> ![A curved hallway with scattered colourful squares continues past some some concrete steps with bare steel hand-rails](/images/shooting_article/Sandy_Hook_redesign_2.jpg)
+> ![A curved hallway with scattered colourful squares continues past some some concrete steps with bare steel hand-rails](/images/shooting_article/Sandy_Hook_redesign_2.webp)
 >
-> ![Sunlight shines into a furnished foyer through a wall of windows featuring intermittent stained-glass panels](/images/shooting_article/Sandy_Hook_redesign_1.jpg)
+> ![Sunlight shines into a furnished foyer through a wall of windows featuring intermittent stained-glass panels](/images/shooting_article/Sandy_Hook_redesign_1.webp)
 >
-> ![An exterior view of the school, with concrete pylons visible, as well as a wavy, rigid awning over the entrance. The façade of the building features darker wood, with a wavy boundary above the lower, lighter-coloured wood](/images/shooting_article/Sandy_Hook_redesign_3.jpg)
+> ![An exterior view of the school, with concrete pylons visible, as well as a wavy, rigid awning over the entrance. The façade of the building features darker wood, with a wavy boundary above the lower, lighter-coloured wood](/images/shooting_article/Sandy_Hook_redesign_3.webp)
 
 Fetell-Lee's book also includes a success story of a female prison, where colour specialist [Hilary Dalke's](https://hilarydalke.com/about-2/) choice of visually appealing tiling resulted in an end to the prisoners breaking tiles off the walls to commit suicide.
 

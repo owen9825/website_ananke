@@ -2,8 +2,8 @@
 date: 2022-09-11T15:26:00+04:00
 author: "Owen Miller"
 description: "Those who don't work might be morally superior to those who do."
-images: ["/images/dole_article/barney_launch.gif", ]
-featured_image: "/images/dole_article/barney_launch.gif"
+images: ["/images/dole_article/barney_launch.webp", ]
+featured_image: "/images/dole_article/barney_launch.webp"
 featured_alt_text: "Ducklings having difficulty scaling stairs"
 tags: ["robots"]
 title: "The Virtues of Being a Dole-Bludger"
@@ -19,7 +19,7 @@ In light of this absurdity, we can step back further and ask if the Australian i
 
 In considering the futility of work and our unquestioning adherence to it, perhaps we should reflect on the cold irony of the motto [_Work will set you free_](https://en.wikipedia.org/wiki/Arbeit_macht_frei) (Arbeit macht frei), famously displayed above the gates to Nazi concentration camps. We can see that the Nazis lied and that the work didn't actually set the prisoners free, so why do we think that our own work is any different? Sure we don't have guns pointed to our heads, but there is very much a societal expectation that we need to work, or else we're deemed to be lazy scoundrels, undateable and undeserving of any sympathy. In fact, the idea that we don't have guns pointed to our heads is not entirely true − in [a study of the 1991 New Zealand census](https://jech.bmj.com/content/57/8/594), with millions of participants, it was found that ___"being unemployed was associated with a twofold to threefold increased relative risk of death by suicide, compared with being employed."___
 
-![An archway, adorned with barbed wire and bearing the phrase in an Art Deco font, "Arbeit macht frei"](/images/dole_article/Arbeit_Macht_Frei_(detail).jpg)
+![An archway, adorned with barbed wire and bearing the phrase in an Art Deco font, "Arbeit macht frei"](/images/dole_article/Arbeit_Macht_Frei_(detail).webp)
 
 Sure, we didn't have Nazis setting this agenda for us, about work being important, but _why do_ we have such faith in work being important? It has been acknowledged by psychologists such as [Jordan Peterson](https://en.wikipedia.org/wiki/Jordan_Peterson) that work is beneficial for mental health and helps people avoid depression. Psychologist [Eric Fromm](https://en.wikipedia.org/wiki/Erich_Fromm) warned though that becoming a workaholic was an easy way of avoiding anxiety; and that it was essentially an "[escape from freedom](https://en.wikipedia.org/wiki/Escape_from_Freedom)". Ted Kazynski later elaborated on Fromm's notion of modern life being too easy and thereby, pointless and depressing − the core argument we previously explored in [_What The Unabomber Got Right_](../what_the_unabomber_got_right).
 
@@ -30,7 +30,7 @@ We are biologically wired to strive for something and to achieve it. Work is an 
 
 Technology is not going away though, so the only options are to destroy it (Ted Kaczynski's plan); or to embrace it (the plan of the Non-Human Party). Since technology is making your life easier, you can't get especially annoyed about your own situation, so in choosing to avoid thinking about the most important societal changes going on, it will inevitably mean that your ___most pressing issues in the world___ will curiously be issues that affect _someone else_. You getting offended on their behalf is _obviously helpful_, especially if society has forgotten about these victims − maybe because they haven't actually existed for centuries; or maybe because they've _never existed_.
 
-> ![A tram is approaching a fork in the tracks and a human stands near the lever to choose which path will be taken. A caption reads, 'Nobody is in any danger. You are a professor for moral philosophy. Do you tie people to the rails to save your job?'](/images/dole_article/trolley_problem.jpg)
+> ![A tram is approaching a fork in the tracks and a human stands near the lever to choose which path will be taken. A caption reads, 'Nobody is in any danger. You are a professor for moral philosophy. Do you tie people to the rails to save your job?'](/images/dole_article/trolley_problem.webp)
 > The issues of our times. [Image source](https://www.reddit.com/r/funny/comments/gbi869/trolley_problem_philosopher_edition/).
 
 ## Tilting the Scales

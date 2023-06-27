@@ -1,8 +1,8 @@
 ---
 date: 2020-11-03T11:25:05-04:00
 description: "Software for Running the World"
-images: ["/images/naas_article/vaporwave_island.gif", ]
-featured_image: "/images/naas_article/vaporwave_island.gif"
+images: ["/images/naas_article/vaporwave_island.webp", ]
+featured_image: "/images/naas_article/vaporwave_island.webp"
 featured_alt_text: "A vaporwave scene of a neon oasis"
 tags: ["cameras", "robots", "pets", "nationality", "web3"]
 title: "Nationality as a Service"
@@ -21,7 +21,7 @@ If your mother goes missing, who do you turn to? The government. But then they�
 
 Even if it doesn’t infringe your rights though, why aren’t governments providing the best software? If we think back to the earliest businesses and the earliest professions in civilisation, we can think of selling salt; selling sex; and governing the tribe. You’ll notice that the user experience for ordering food or for watching pornography is often _pushing the limits_ of what’s technologically possible.
 
-![A sex doll](/images/naas_article/sex_doll.jpg)
+![A sex doll](/images/naas_article/sex_doll.webp)
 
 
 ![Realistic-looking plastic food on display in a restaurant window](/images/naas_article/Plastic_food.bmp)
@@ -32,7 +32,7 @@ In this video, we discuss how we can have open-source software that ___you can w
 
 Imagine hiring someone as your assistant, to work on your behalf − who would you trust? What if you could clone yourself and hire that person as your assistant? With open-source software, you can see what it’s doing and even write changes to it yourself. It’s the best way to enable trust, such that people can opt into being part of a society run by this software.
 
-![A robot pouring wine for an impressed housewife](/images/naas_article/wine_robot.gif)
+![A robot pouring wine for an impressed housewife](/images/naas_article/wine_robot.webp)
 
 This idea of voluntarily joining a software-based society is what I’m calling _Nationality as a Service_ (NaaS).
 
@@ -62,7 +62,7 @@ We also cover media laws and how the Australian government prevents _"media"_(�
 
 Foreign media can similarly defame Australians with impunity. A vagabond AI like [Microsoft Tay](https://en.wikipedia.org/wiki/Tay_(bot)) could start rumours about someone; and the current defamation laws would be useless, as the AI would likely have no funds to be seized in a defamation lawsuit.
 
-![An artificial intelligence arguing with people on Twitter](/images/naas_article/Tay.png)
+![An artificial intelligence arguing with people on Twitter](/images/naas_article/Tay.webp)
 
 ## Scale & Funding Benefits
 Nationality as a Service is one of the only ways to afford the smartest AI. It costs [millions of dollars](https://info.deeplearning.ai/e2t/tc/VWny252P7NsJN7Lms47hfGdhW4PtzZh4hKPM1N8Qx56_3p_8SV1-WJV7CgVVgW8M6CQT3GfcHDMcCn8LNz5TlW6BW7CX3fhc02N1DtTn2CzHm8W5XJ5yd5tKJWFW4jc7F72dccsxW1Zk5hp73YBK5V3JlS71kpYtDW3g274-2C9htwW4vwrNX4qntWJW8G-3tK24QCGxW5XkSYg5dy7vRW8VNw0-8mZqRwVgk5hN8DZZldVL_KYs12W83HW9ltVwy12jm1BW2K4fvN6K8HndW1YPrVp382K_9W30hQhz2f0txGW5Q5tSn2MhYJlW6HlddG8xZLphW2CPFxJ2Xs5ss36Gx1) to train a top image classifier. Smaller companies, as well as developing nations cannot afford to keep up with the intelligence being used by the likes of IBM or [Clearview](https://en.wikipedia.org/wiki/Clearview_AI).
@@ -79,14 +79,14 @@ What are you going to do when someone asks you this question? Show them a piece 
 
 If you don't want to be one of the 3 billion known faces because of _"privacy"_, then ___be careful what you wish for___. Governments are the ones best-placed to provide an identity service, vouching that you exist. Having been keeping track of births, deaths and marriages, we've always relied on governments for this sort of thing. If governments don't step up and provide this service, then we're going to end up in the spam folder, tapping to get out and unable to have anyone believe us that we're real.
 
-![A cockatoo stuck behind a fence](/images/naas_article/kira-auf-der-heide-PLvoQuFQK84-unsplash.jpg)
+![A cockatoo stuck behind a fence](/images/naas_article/kira-auf-der-heide-PLvoQuFQK84-unsplash.webp)
 
 ### Policing
 The incoming power of machine learning also undermines the ability of existing police forces to go undercover. The police won't know which criminal organisations actually have real human beings (who can suffer a punishment for their crimes); and if they get close, the criminals can identify them from photos taken before they even finished their police training and decided to start hiding themselves.
 
 Police will only be able to enforce laws with buy-in − no more false identities and trickery.
 
-![Some unconvincingly undercover police, from the movie White Chicks](/images/naas_article/white_chicks_undercover.jpg)
+![Some unconvincingly undercover police, from the movie White Chicks](/images/naas_article/white_chicks_undercover.webp)
 
 Governments will no longer be able to continue with the model of _"I'm the government and I'm going to tell you what to do"_. Governments can ___only survive___ if we move to an opt-in model, with people _wanting_ to join the society.
 
@@ -97,12 +97,12 @@ Once our society can afford the smartest AI, we can start getting some of the be
 
 A lack of data is leading to furniture that's uncomfortable for Australians; architecture that's sub-optimal; and __military uniforms that don't fit__, as discussed in the [ADF Report on Anthropometry](https://www.dst.defence.gov.au/sites/default/files/publications/documents/DST-Group-GD-0968.pdf).
 
-> ![A stormtrooper hitting his head on a low door](/images/naas_article/stormtrooper_hitting_head.gif)
+> ![A stormtrooper hitting his head on a low door](/images/naas_article/stormtrooper_hitting_head.webp)
 Militaries with insufficient ergonomic data
 
 What if your nation didn't just know population-level trends in anthropometry? − what if we had 3D body scanners everywhere? It would usher in a new age of tailored fashion and in turn, global influence and relevance.
 
-![A woman wearing a form-fitting gown with actuated cllaws](/images/naas_article/robot_fashion.gif)
+![A woman wearing a form-fitting gown with actuated cllaws](/images/naas_article/robot_fashion.webp)
 
 Is it bad for a nation to have global influence? If citizens were to be embarassed or _ashamed_ of their nation's ideas spreading, then why does the nation exist in the first place? Why is _anyone_ part of it?
 
@@ -111,7 +111,7 @@ What does a nation provide for its citizens anyway? The services for having a ha
 
 Airlines are often subsidised by nations; and they're necessary for the world to keep going. They have economic benefits beyond just the people on the aeroplane − between 1995 and 2004, [Air Jamaica had an economic benefit to Jamaica of $5.491 billion](https://dspace.mit.edu/handle/1721.1/34911). With Nationality-as-a-Service being comparable to a subscription model, we might also imagine an airline subscription where you keep the airline alive for its flow-on effects to you. Maybe you don't even end up taking a flight yourself.
 
-![Blimps flying past the Empire State Building](/images/naas_article/blimps_New_York.gif)
+![Blimps flying past the Empire State Building](/images/naas_article/blimps_New_York.webp)
 
 Just like governments ensure access to water and electricity, in South Korea, Internet is treated as equally essential. Governments and landlords aren't doing their job unless residents have Internet access. By comparison, Australia has Internet speeds that aren't even _average_ − they're [__less than half of the world average__](https://www.sbs.com.au/language/english/australia-s-internet-speed-ranks-below-india-kazakhstan-or-latvia).
 

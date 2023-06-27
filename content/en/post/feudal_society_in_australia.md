@@ -1,8 +1,8 @@
 ---
 date: 2023-01-08T20:45:08+11:00
 description: "Do peasants deserve to own a home?"
-images: ["/images/housing_article/castle_in_billabong.png", ]
-featured_image: "/images/housing_article/castle_in_billabong.png"
+images: ["/images/housing_article/castle_in_billabong.webp", ]
+featured_image: "/images/housing_article/castle_in_billabong.webp"
 featured_alt_text: "A European castle in a billabong"
 tags: ["nationality"]
 title: "Is it Time for a Feudal Society in Australia?"
@@ -21,20 +21,20 @@ In Australia, the most talked-about issue for housing is the price: everyone wan
 
 Besides *pricing*, readers might also be familiar with how governments have been able to affect the *architecture* of housing:
 
-> ![A charming Mansard roof](/images/housing_article/Mansard_roof.png)
+> ![A charming Mansard roof](/images/housing_article/Mansard_roof.webp)
 > Living in the roof in Paris, where taxes [were based on the height of the base of the roof](https://en.wikipedia.org/wiki/Mansard_roof).
 
-> ![Some thing homes in the Netherlands](/images/housing_article/Dutch_houses.png)
+> ![Some thing homes in the Netherlands](/images/housing_article/Dutch_houses.webp)
 > Houses in the Netherlands, where taxes were [based on building width](https://www.quora.com/Why-are-the-houses-in-Amsterdam-so-tall-and-thin).
 
 Governments are tasked with enabling functional markets and providing a harmonious existence to citizens. From this perspective, the housing market is a critically important area of concern. In this article, we'll explore how the short-sighted focus on the housing *market* has actually been stealing away the future from younger generations; and how it has been ***recreating a feudal society*** where a land-owning class amasses wealth and power as everyone else is left to suffer.
 
 Governments have, for years, endorsed the notion that prices must go up. And up they went:
 
-> ![Housing prices from 1980 to 2016 in New Zealand, Australia, Britain, Canada and the United States](/images/housing_article/housing_prices_to_2016.png)
+> ![Housing prices from 1980 to 2016 in New Zealand, Australia, Britain, Canada and the United States](/images/housing_article/housing_prices_to_2016.webp)
 > [Global house prices: The Economist](https://www.economist.com/graphic-detail/2017/03/09/global-house-prices)
 
-> ![Housing prices from 2015 to 2022 in a variety of Western nations](/images/housing_article/housing_prices_2022.jpg)
+> ![Housing prices from 2015 to 2022 in a variety of Western nations](/images/housing_article/housing_prices_2022.webp)
 > ["Astronomic" house price increases in New Zealand: stuff.co.nz](https://www.stuff.co.nz/business/128396590/world-watching-nz-housing-market-as-auckland-labelled-canary-in-coal-mine)
 
 A sad reality of the crisis is that few people seem to desire its end: looking at these astronomical charts, a common sentiment seems to be, "if only I'd got in early", not "this is insane that *a place to live* has been turned into just another financial asset class, for speculation. The rich get richer and the poor get poorer." As soon as anyone gets a mortgage, it seems that they're keen for the trend to continue, now that they've got on board.
@@ -49,16 +49,16 @@ The price can only get so crazy though, or people will just buy elsewhere. This 
 
 The trees get cut down, everything gets covered with concrete, no public transport gets built, and now all of these people can live in their *own home*, in a community afflicted by loneliness. The days are characterised by glaring heat, beaming down on Colorbond fences and perfectly-manicured lawns. The hum of crickets is sporadically drowned out by dogs wailing for the return of their owners after the end of their work-day and a 2-hour drive along [monopolised toll roads](https://www.afr.com/companies/infrastructure/accc-laments-bad-transurban-monopoly-20210813-p58ifd). ***Is this what the Australian dream was supposed to be?***
 
-> ![Some houses on the outskirts of Melbourne](/images/housing_article/melbourne_outskirts.jpg)
+> ![Some houses on the outskirts of Melbourne](/images/housing_article/melbourne_outskirts.webp)
 >
-> ![A highway on the outskirts of Melbourne](/images/housing_article/highway.jpg)
+> ![A highway on the outskirts of Melbourne](/images/housing_article/highway.webp)
 >
-> ![A sign saying "Yarra Bend. The World's Most Liveable Suburb"](/images/housing_article/yarra_bend.jpg)
+> ![A sign saying "Yarra Bend. The World's Most Liveable Suburb"](/images/housing_article/yarra_bend.webp)
 > Exlporing the outskirts of Melbourne
 
 Fundamentally, these suburban estates lack the same way of life as the rest of the city. The idea of walkable neighbourhoods, good schools and convenient transport just doesn't exist there. A home is more than a roof: it is meant to be a *sanctuary*. It's part of [Maslow's hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs):
 
-> ![Maslow's hierarchy](/images/housing_article/MaslowHierarchy.png)
+> ![Maslow's hierarchy](/images/housing_article/MaslowHierarchy.webp)
 > [Maslow's hierarchy of human needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs): each layer must be resolved before humans are able to focus on the next layer
 
 ## Cause and Effect
@@ -71,7 +71,7 @@ Studies have shown that [an environment can affect the learning speed of student
 In cities such as San Francisco and New York, where housing is notoriously expensive, it's commonplace for people to live with strangers; and for couples to move in together [after only a few months of dating](https://www.brickunderground.com/live/nyc-real-estate-couples-move-in-quickly). Are New-Yorkers just better able to judge each others' character? Has cupid put something in the water?
 
 
-> ![Fire emanating from a stormwater drain in Manhattan](/images/housing_article/sewer.jpg)
+> ![Fire emanating from a stormwater drain in Manhattan](/images/housing_article/sewer.webp)
 > [*Something* is in the water, in New York](https://www.instagram.com/p/Clj5zVYp4xW/)
 
 There is evidence showing that couples who live together before marriage are actually [more likely to divorce](https://helloprenup.com/cohabitation/living-together-before-marriage-more-likely-to-divorce/), than are couples who marry first. When housing is too expensive for singles, then logically, people will find themselves stuck living in an unsuitable relationship longer than they wish. Domestic violence is rampant in Australia, especially in Aboriginal communities, where women are [35 times more likely to be hospitalised for domestic violence](https://www.abc.net.au/news/2018-12-20/womens-prisons-full-of-domestic-violence-victims/10599232), than are women from the broader population of Australia.
@@ -89,7 +89,7 @@ After physically visiting each property and seeing the same thing as the picture
 
 The Australian system of phone-call references proliferates the idea of a land-owning class pressuring commoners to put up with poor conditions, because if they complain, then they'll miss out on a glowing reference later. Land-owners want assurance that they aren't going to be risking their property with some uppity renter who expects the lights to work. The US practice is to get a background check: government-endorsed reports about my criminal history; and reports from credit agencies about my financial history. No messing around with the interrogation of strangers.
 
-> ![John Voigt instructs a woman, "blink twice if you're here against your will"](/images/housing_article/blinking.gif)
+> ![John Voigt instructs a woman, "blink twice if you're here against your will"](/images/housing_article/blinking.webp)
 
 Besides being terrified of defamation lawsuits, another reason that references are less important in the US seems to be because they just don't trust strangers as much as these Australian landlords and employers − they know that this stranger has no vested interest in helping them, and in fact, they might lie in favour of the tenant/employee, in order to get them off their hands. Such was the case when "*Dr Death*", [Jayant Patel](https://en.wikipedia.org/wiki/Jayant_Patel), was [given glowing letters of endorsement by the Oregon Board of Medical Examiners](https://bioethicstoday.org/blog/dr-death-down-under/), who had actually restricted his practice, months earlier.
 
@@ -99,7 +99,7 @@ Another shock upon moving to Melbourne was the expectation that in many places, 
 
 We hypothesised earlier that property owners are incentivised to look after their property like it was their traditional land, but that's only plausible if they're going to live there themselves. If they aren't even prepared to ensure that their rental property has a ***fridge***, then what more proof do we need that housing in Australia is increasingly becoming less of a sanctuary and more just a physical existence?
 
-> ![A shipping container that has been partially converted into a living space](/images/housing_article/shipping_container_home.jpg)
+> ![A shipping container that has been partially converted into a living space](/images/housing_article/shipping_container_home.webp)
 > Have you thought of living in a shipping container? Image: [Häuslein Tiny House Co.](https://www.hauslein.com.au/guides/shipping-container-homes-vs-tiny-houses)
 
 ## Fighting Back
@@ -107,7 +107,7 @@ If a landlord gets carried away in their greed, and fails to provide liveable ho
 
 In the US, tenancy disputes are conducted through the Small Claims Court, where cases cost around $25; and where parties are required to represent themselves, rather than outsourcing the job to lawyers. If the landlord (defendant) loses, then not only do they have to pay for the filing costs; the fact that they lost is reported publicly, then it's read by credit agencies, and their financial reputation will be severely damaged.
 
-> ![Judge Judy shouting, "It's over! Over!"](/images/housing_article/Judge_Judy_over.gif)
+> ![Judge Judy shouting, "It's over! Over!"](/images/housing_article/Judge_Judy_over.webp)
 
 The decisions for VCAT are published [here](http://www8.austlii.edu.au/cgi-bin/viewdb/au/cases/vic/VCAT/), but without an SSL certificate, so it's possible for anyone between you and the VCAT server (eg your landlord's Wi-Fi router) to change the contents of the page without you knowing. Furthermore, if you were to search for a potential landlord, then if zero results show up, does that mean that your landlord is actually an honest person? What if you just made a spelling mistake? What if VCAT's search engine had a bug? What if your landlord has changed their name? Ideally, you'd be able to look up an ABN free of charge and see definitively, "no, this business has never lost a case, since their founding in 2008".
 
@@ -126,7 +126,7 @@ Oh and if you buy one property, the government helps you to buy a subsequent one
 
 How could this possibly be *any more skewed towards land-owners*? Sometimes I hear landlords complain, "oh the laws are too lenient for tenants to break their lease". In some European nations though, it is not a crime to escape from *prison*:
 
-> ![A map of countries in Europe, highlighting Iceland, Sweden, Denmark, the Netherlands, Belgium, Germany, Switzerland and Austria](/images/housing_article/escaping.jpg)
+> ![A map of countries in Europe, highlighting Iceland, Sweden, Denmark, the Netherlands, Belgium, Germany, Switzerland and Austria](/images/housing_article/escaping.webp)
 > [Countries in Europe where escaping from prison is not a crime](https://www.reddit.com/r/MapPorn/comments/xwqq4p/countries_in_europe_where_escaping_from_prison_is/)
 
 Wanting to escape from prison [is just human nature](https://www.quora.com/In-Germany-escaping-from-prison-is-not-a-crime-because-it-is-believed-that-seeking-freedom-is-human-nature-What-are-some-strange-laws-like-this-in-other-countries); it's not viewed to be a trait of *criminals*; it's not something malicious or *evil*.
@@ -146,7 +146,7 @@ No discussion of housing policy would be complete without discussing the option 
 
 In Australia, [4.2% of housing stock is public housing](https://en.wikipedia.org/wiki/Public_housing_in_Australia), but for some reason (💉), [applicants often reject offers to live in public housing estates; or apply for transfers](https://www.tandfonline.com/doi/figure/10.1080/0267303032000168612?scroll=top&needAccess=true&role=tab).
 
-> ![An imagined housing estate in Britain](/images/housing_article/public_housing.png)
+> ![An imagined housing estate in Britain](/images/housing_article/public_housing.webp)
 > ["Some of these estates have become established centres of heroin dealing and drug use."](https://www.tandfonline.com/doi/figure/10.1080/0267303032000168612?scroll=top&needAccess=true&role=tab)
 
 ## Resolving the Crisis

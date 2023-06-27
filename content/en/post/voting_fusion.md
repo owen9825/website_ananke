@@ -1,7 +1,7 @@
 ---
 date: 2022-03-26T14:58:08+11:00
-images: ["/images/fusion_article/fusion_robot_with_rights.png", ]
-featured_image: "/images/fusion_article/fusion_robot_with_rights.png"
+images: ["/images/fusion_article/fusion_robot_with_rights.webp", ]
+featured_image: "/images/fusion_article/fusion_robot_with_rights.webp"
 featured_alt_text: "The Fusion logo in front of a robot with rights, standing amongst Greek ruins"
 tags: ["nationality", "diplomacy"]
 title: "Why I'm Voting Fusion"
@@ -43,7 +43,7 @@ In [this interview](https://open.spotify.com/episode/2NsC4KxVpHWJ437RnA0ZNo) (at
 
 Schuler laments that the "renewable energy jobs" are jobs with "***no benefits***" (to Americans, this means no health insurance). I think that more than ever, we see here the problems in the American vocabulary, where "benefits" of a job don't include such things as satisfaction; a sense of purpose; or even a sense of morality. You can be an active participant in burning the planet, but that's fine, because the most comparable job for you personally, seems on one measure, like it wouldn't be as good for you. 🤷🌏🔥
 
-> ![Sally McManus wearing a shirt reading "secure jobs"](/images/fusion_article/Sally_McManus.jpg)
+> ![Sally McManus wearing a shirt reading "secure jobs"](/images/fusion_article/Sally_McManus.webp)
 > [Sally McManus](https://twitter.com/sallymcmanus), Secretary of the Australian Council of Trade Unions, in an uninspiring fight for ***secure*** jobs
 
 I discuss in [*Embraving Evil Technology*](../embracing_evil_technolgy/) how modern citizens have never in their whole lives shed a tear for the downfall of the horse and carriage industry when it was replaced by automobiles; and that we shouldn't let selfishness amongst a few current coal workers get in the way of the greater good. These people blockading environmental progress have blood on their hands, whenever there is a flood; whenever there is a bushfire; whenever there is a hurricane.
@@ -64,7 +64,7 @@ The desire for job safety leads to large, bloated companies that are anathema to
 
 What's holding back startups and innovation now (besides a shortage of good software engineers) is mainly cultural − Australia is more risk-averse than the US; and if someone's startup fails to take over the world, then unlike Americans who might see it as an over-eager *life learning*; Australians seem more prone to view it as "serves them right for getting too carried away with themselves." *What did you expect to happen? You think you're Mark Cuban or something?*
 
-> ![Mark Cuban](/images/fusion_article/Mark_Cuban.png)
+> ![Mark Cuban](/images/fusion_article/Mark_Cuban.webp)
 > *It doesn't matter how many times you have failed, you only have to be right once* − [Mark Cuban](https://www.modlingua.com/blogs/1407-mark-cuban-s-success-story.html)
 
 In a large bureaucracy, if I take a risk and lose, I might get fired and the company will be characterised as chumps. If the bet works, the company will be praised, but I'm unlikely to have any equity at all in an Australian company, so the upside risk for me is maybe a $10k bonus and a pat on the back.
@@ -86,7 +86,7 @@ Australia has an obvious potential for exporting clean energy, as evidenced by t
 
 Voters expressing strong concern for the environment have typically been targeted by The Greens, but my opinion is that there's just not enough of a complete worldview being formed by the Greens, so their policies don't end up being pragmatic or sensible. They say [they want to get Australia involved in ***manufacturing*** again](https://greens.org.au/platform/economy), in the same sentence where they acknowledge our achievements in cutting-edge technologies like "wi-fi \[sic\]".
 
-> ![GDP vs economic complexity](/images/fusion_article/economic_complexity.png)
+> ![GDP vs economic complexity](/images/fusion_article/economic_complexity.webp)
 > In 2020, Australia ranked [84th for economic complexity](https://oec.world/en/rankings/eci/hs6/hs96?tab=map) and was an outlier for still managing a high GDP. Apparently a return to *manufacturing* would help our situation.
 
 ## The Internet
@@ -95,12 +95,12 @@ In criticising the mainstream parties' bizarre understanding of emerging industr
 
 The fact that [DuckDuckGo](https://duckduckgo.com/) was immune from the rules hints at the proper solution to the fiasco − wherever Internet services have proliferated to the extent that they become critical parts of modern life, then it's probably the case that the service should have been run as a public commons, without the misaligned incentives of the [attention economy](https://boingboing.net/2019/04/09/resisting-attention-economy.html).
 
-> ![Book cover for How to Do Nothing: Resisting the Attention Economy](/images/fusion_article/attention_economy.png)
+> ![Book cover for How to Do Nothing: Resisting the Attention Economy](/images/fusion_article/attention_economy.webp)
 > Inspiration for Scott Morrison?
 
 Sure the Liberal party probably pursued the Google policy because [former Treasurer Peter Costello](https://en.wikipedia.org/wiki/Peter_Costello) is chairman for Nine Entertainment; and because the party is closely aligned with News Corp; but [Labor ended up supporting the law too](https://www.theguardian.com/australia-news/2021/jan/28/labor-set-to-support-media-code-but-says-pm-faces-serious-questions-after-google-threat) 🤷
 
-![Kevin Rudd Has Launched A Petition Calling For A Royal Commission Into Murdoch Media](/images/fusion_article/kevin_rudd_murdoch.png)
+![Kevin Rudd Has Launched A Petition Calling For A Royal Commission Into Murdoch Media](/images/fusion_article/kevin_rudd_murdoch.webp)
 
 The whole idea that Google gets much value out of people searching for news content presupposes that people are searching for the news ***article*** and not the news itself − the media company wrote an article, then the article created buzz and someone searched for it, bringing a user to Google.
 
@@ -138,7 +138,7 @@ Although the United States did express agreement with the idea, [China responded
 
 Even if Chinese scientists did concoct COVID-19 in a lab, before accidentally / deliberately leaking it, would the investigation have uncovered it? If the investigation did uncover it, then was that even necessary, for justice to be done? China suffered in the same magnitude as any other nation did, so they would presumably already be motivated to punish those responsible. Even the colleagues of these theoretical lab workers would be motivated to carry out justice − for all we know, those responsible could've encoutered poison in their coffee, in a plot with no involvement from the CIA, the KGB or Spectre.
 
-![Inspector Gadget, scratching his chin](/images/fusion_article/inspector_gadget.gif)
+![Inspector Gadget, scratching his chin](/images/fusion_article/inspector_gadget.webp)
 
 Of course, carrying out jutice against an individual rather than the entire nation of China frames it as though China as a nation is not responsible − I feel that such a characterisation ("China is responsible") would be unfair; and I feel that there is still insufficient acknowledgement that the disease could've arisen anywhere where humans interact with animals. In [this article in the New York Times for instance](https://www.nytimes.com/2022/02/07/health/omicron-deer-staten-island-covid.html), it's discussed how 15% of deer have caught COVID-19 from humans, but of course, with the rampant speciesism in our world today, there's no mention of whether the disease causes suffering for the deer; nor any possibility of humans making reparations to the deer, like China should apparently be making to various humans. The concern of the article is that the deer might act as hosts for mutations of COVID-19 that could spread back to humans.
 
@@ -148,7 +148,7 @@ Bill Gates has been warning of pandemics for years; and gave [this talk in 2015]
 
 But back to the COVID origin investigation − for this disease that might as well have arisen anywhere in a culpably underprepared world, Australia was hoping to curry favour with the US and get access to nuclear submarines − a move that, [as pointed out by President Macron](https://www.cnbc.com/2021/09/16/france-rebukes-australia-after-it-ditches-submarine-deal-.html), will make Australia entirely dependent on the US; and depleted in its own sovereignty.
 
-![Homer Simpson saying in front of a submarine movie, "it's pretty obvious if you think about it"](/images/fusion_article/obvious_submarine.gif)
+![Homer Simpson saying in front of a submarine movie, "it's pretty obvious if you think about it"](/images/fusion_article/obvious_submarine.webp)
 
 Sure, the submarines would be useful in a military conflict; but we would still need the support of the US in a conflict; and this is a dangerous bet. The US has repeatedly shown itself to be **an unreliable partner**. When Ukraine gave up its nuclear weapons in 1991, [it had assurances from the US and Great Britain](https://www.npr.org/2022/02/21/1082124528/ukraine-russia-putin-invasion), that they would not be left to stand alone, should they come under threat. Now they're being invaded and the best that the US can offer is some sanctions − zero troops actually fighting in Ukraine, to protect it. Sure, such a move would risk nuclear war, but that doesn't change the fact that a promise was made and the promise has been broken. The US sees Ukraine less as a sovereign nation that deserves to exist in its own right; and more as a battleground for other people's wars:
 
@@ -166,7 +166,7 @@ Sure, the submarines would be useful in a military conflict; but we would still 
 
 In keeping promises about the defence of Ukraine or anything else, let's not forget that every time the US gets a new president, [they want to refresh relations with Iran](https://en.wikipedia.org/wiki/United_States_withdrawal_from_the_Joint_Comprehensive_Plan_of_Action), China, North Korea and Russia. I think this occurrence is symptomatic of the US political structure − by appointing such a central figurehead who's subjected to term limits, they are put in a paradoxical position of being encouraged to leave a legacy, while not having enough time to ensure that the legacy actually lasts. There's also the fact that the [members of US congress have massive conflicts of interest](https://en.wikipedia.org/wiki/List_of_current_members_of_the_United_States_Congress_by_wealth#:~:text=As%20of%202020%2C%20over%20half,members%20was%20approximately%20%241%20million.) that coincidentally make them **very** wealthy.
 
-> ![Nancy Pelosi giddy with delight, under a heading, "When you know you have stock in the companies supplying the coming World War"](/images/fusion_article/pelosi_meme.png)
+> ![Nancy Pelosi giddy with delight, under a heading, "When you know you have stock in the companies supplying the coming World War"](/images/fusion_article/pelosi_meme.webp)
 > [Wealthiest Members of 116th Congress](https://www.opensecrets.org/news/2020/04/majority-of-lawmakers-millionaires/)
 
 Regardless of how closely we stay aligned with the US, it's the position of the Fusion Party that Australia doesn't overcommit to *[fighting the last war](https://history.stackexchange.com/questions/60422/who-said-armies-prepare-to-fight-their-last-war-rather-than-their-next-war)*:
@@ -198,7 +198,7 @@ In this area, The Greens unfortunately fail to live up to their self-appointed p
 
 Isn't racism dangerous to white people too? The Greens want to fight fire with fire; ending racism while still labelling everyone by their skin colour. Even if this American approach works in the US, "*white people*" do not make up the majority of the world; and there must logically be an approach to resolving racism that isn't predicated on lumping everyone into distinct binary groups, "*white*" and "*non-white*". Fun fact: someone who's labelled as "*black*" in the US might be labelled as "*white*" elsewhere.
 
-> ![The French football team, celebrating their 2018 victory](/images/fusion_article/French_world_cup_2018.jpg)
+> ![The French football team, celebrating their 2018 victory](/images/fusion_article/French_world_cup_2018.webp)
 > *Unlike the United States of America, France does not refer to their citizens based on their race, religion or origin. To us, there is no hyphenated identity, roots are an individual reality. By calling them an African team, it seems you are denying their Frenchness. This, even in jest, legitimizes the ideology which claims whiteness as the only definition of being French.* − Gérard Araud (French envoy to the US), [speaking about Trevor Noah's remark that the 2018 World Cup victory by France was really a win for Africa](https://qz.com/1331734/trevor-noahs-world-cup-joke-shows-how-the-world-misunderstands-the-french/) 
 
 The Greens also come out with the utterly disconnected claim that they're seeking "*An end to all forms of discrimination.*" − nations themselves are discriminatory. They have a monopoly on violence; and anyone who doesn't conform is *discriminated against*. If I tell a kid that I don't like what he's doing; and my classmates help corrall him into the corner, then that's *bullying*; but if the Australian government puts him into a prison cell, *that's not comparable, that's the law. That's just the way it is. That's not bullying*.
@@ -218,7 +218,7 @@ If we can define our culture more definitively; and if we can run our institutio
 
 Creating a harmonious way of life *can be* scalable. Imagine if some other nation wanted to join Australia − maybe Papua New Guinea would ask to rejoin. Such a thought experiment seems crazy, with the medieval mindset of running a country by physical force; but now with the immense flow of information and cultural influence, it's totally plausible that just as we consume so much American media, maybe some other nation might *want* to be *more Australian*. If someone consumes American TV, eats American food and speaks in an American accent, the cultural values of the US inevitably seep in locally. Should we treat our waitstaff as beggars? Should we stigmatise the use of public busses and [glorify shiny cars as status symbols](../fastest_catwalks)?
 
-![Criminal and musician Cardi B accepting an award and exclaiming, "Oh my God, I'm so famous"](/images/dead_nationality/cardi_b.gif)
+![Criminal and musician Cardi B accepting an award and exclaiming, "Oh my God, I'm so famous"](/images/dead_nationality/cardi_b.webp)
 
 Australians want a way of life; not just a physical spot on the earth. I think we have a duty to Australia's existing residents and perhaps to [dead, former Australians](../nationality_for_the_dead), to create a society that people are proud to be part of; a society that people would willingly choose to join, even if they lived elsewhere. To create such a society, in the face of global influences, this necessarily means that our own way of life must similarly be globally accessible − it must become ***a society that people can join from anywhere in the world***. This isn't the *militarised imposition* of "democracy"; this is a mindset of sharing and collaborating. By creating a nation that others would ***willingly*** like to join; by treating foreigners as *potential collaborators* and *potential citizens*, it's easy to imagine it making us better global citizens.
 
@@ -226,5 +226,5 @@ When nations descend into chaos and its citizens abandon it, coming to eg Austra
 
 With an increased move towards scalable, digital-first societies, we can offer a dignified and harmonious existence to anyone in the world, starting with Australia. This is my goal; and I feel that the [Fusion Party](https://www.fusionparty.org.au/) is the best positioned for the daunting but inspiring tasks ahead.
 
-> ![An emu gazing philosophically](/images/fusion_article/emu.jpg)
+> ![An emu gazing philosophically](/images/fusion_article/emu.webp)
 > Only moving forwards

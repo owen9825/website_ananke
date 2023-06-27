@@ -1,8 +1,8 @@
 ---
 date: 2022-04-16T18:55:08-04:00
 description: "💃📸📺🤯📉"
-images: ["/images/attention_article/homer_tv.gif", ]
-featured_image: "/images/attention_article/homer_tv.gif"
+images: ["/images/attention_article/homer_tv.webp", ]
+featured_image: "/images/attention_article/homer_tv.webp"
 featured_alt_text: "Homer Simpson lying on the floor, kicking his feet back and forth in delight, as he watches TV"
 tags: ["children", "media", "web2"]
 title: "The Attention Economy is Producing Treacherous Morons"
@@ -27,7 +27,7 @@ The mention of unexpected connections is reminiscent of the [*focused* and *diff
 
 For experimental evidence, Hari points to [a study run for Hewlett Packard](http://news.bbc.co.uk/2/hi/uk_news/4471607.stm), involving two groups performing various office tasks, followed by an IQ test. One group experienced texts and emails during their office tasks; and scored ***10 IQ points lower*** than the uninterrupted group! This is twice the effect they would've suffered if they'd smoked weed instead!
 
-> ![Snoop Dogg pulling away from some steam, as he exclaims "damn" in surprise](/images/attention_article/Snoop_Dogg_damn.gif)
+> ![Snoop Dogg pulling away from some steam, as he exclaims "damn" in surprise](/images/attention_article/Snoop_Dogg_damn.webp)
 > A surprising result
 
 [Carnegie Mellon University did a similar study](https://www.nytimes.com/2013/05/05/opinion/sunday/a-focus-on-distraction.html), giving students a cognitive test and telling some of them that they should be on the lookout for a text with extra test instructions. The interrupted group scored 20% lower. Oddly enough, after splitting the interrupted students for round two, those who didn't end up receiving another interruption scored 43% higher than the control group, who had never been interrupted, nor warned of any interruptions.
@@ -60,7 +60,7 @@ As part of a review of Facebook's advertising standards and content moderation, 
 * ***"The current killing of the [slur] is not enough, we need to kill more!"***
 * *"They are very dirty. The Bengali/Rohingya women have a very low standard of living and poor hygiene. They are not attractive"*
 
-> ![A crowd of South-East Asian women and children, mostly wearing Muslim attire](/images/attention_article/Rohingya_refugees.jpg)
+> ![A crowd of South-East Asian women and children, mostly wearing Muslim attire](/images/attention_article/Rohingya_refugees.webp)
 > Rohingya refugees in Bangladesh. Image: [UNHCR/Andrew McConnell](https://www.unhcr.org/news/briefing/2018/8/5b7fc7174/rohingya-emergency-year-asias-recent-refugee-crisis-warrants-international.html)
 
 There's a difference between *free speech* and speech that's being deliberately promoted for a fee. I'd lean towards allowing people to say anything, but not *promote* anything. Some nations would want their own rules about speech though, and who is Facebook to impose its culture on this other nation? People in the West initially seemed infatuated with the idea of Myanmar accepting Western ideas like Facebook and democracy, when [Aung San Suu Kyi](https://en.wikipedia.org/wiki/Aung_San_Suu_Kyi) was released from house arrest, then was elected as the State Consellor in 2016. Western audiences quickly lost interest though, before Suu Kyi turned a blind eye to the genocide of Rohingya Muslims in 2017 − an incident that included military involvement.
@@ -69,7 +69,7 @@ There was [a petition to revoke the 1991 Nobel Peace Prize](https://web.archive.
 
 In 2020, after Suu Kyi's party won an allegedly fraudulent election, the military took control and locked her up again. So at a glance, it would seem like no matter which party was in power, the pro-genocide ads are adhering to Burmese culture. Facebook isn't saying that it's their choice to adhere to Burmese culture though − they are pretending that they don't allow genocide commercials and yet here they are allowing genocide commercials.
 
-> ![Profile photos of the two leaders](/images/attention_article/Burmese_leaders.jpg)
+> ![Profile photos of the two leaders](/images/attention_article/Burmese_leaders.webp)
 > [Aung San Suu Kyi](https://en.wikipedia.org/wiki/Aung_San_Suu_Kyi) and her successor, [Min Aung Hlaing](https://en.wikipedia.org/wiki/Min_Aung_Hlaing)
 
 In [documents leaked by Frances Haugen in 2021](https://techcrunch.com/2021/10/05/facebook-whistleblower-frances-haugen-testifies-before-the-senate/), it was revealed that there were also genocide concerns in Ethiopia. Part of the issue with the moderation tools was that although only 9% of Facebook users speak English, 87% of the misinformation spending was devoted to English speakers.
@@ -90,17 +90,17 @@ When Western audiences lost interest in Myanmar, a genocide took place, then it 
 If US audiences had a more complete knowledge of the decades-long issues in Myanmar, who knows if US involvement would've played out in the same way, with the same timeline. Either way, if your position can be described as "pro-US"; "pro-democracy"; anti-genocide"; or "pro-interventionism", then it's easy to see that attention is necessary in getting your way.
 
 ### Kidnapping
-> ![A Boko Haram soldier with an AK-47, speaking in front of young female hostages dressed in Muslim attire](/images/attention_article/Boko_Haram_hostages.png)
+> ![A Boko Haram soldier with an AK-47, speaking in front of young female hostages dressed in Muslim attire](/images/attention_article/Boko_Haram_hostages.webp)
 > Nigerian girls kidnapped by Boko Haram. [Image source](https://www.theguardian.com/world/2017/mar/04/nigeria-declined-uk-offer-to-rescue-chibok-girls).
 
 In April 2014, while the US was being led by Barack Obama ([another recipient of the Nobel Peace Prize](https://en.wikipedia.org/wiki/2009_Nobel_Peace_Prize#:~:text=The%202009%20Nobel%20Peace%20Prize%20was%20awarded%20to%20United%20States,diplomacy%20and%20cooperation%20between%20peoples%22.)), 279 Nigerian girls were abducted from a Nigerian boarding school by [Boko Haram](https://en.wikipedia.org/wiki/Boko_Haram), an Islamic group with AK-47s in its insignia. Since the US had been dropping [tens of thousands](https://www.independent.co.uk/news/world/americas/us-president-barack-obama-bomb-map-drone-wars-strikes-20000-pakistan-middle-east-afghanistan-a7534851.html) of bombs from drones in [Afghanistan](https://csis-website-prod.s3.amazonaws.com/s3fs-public/legacy_files/files/publication/TWQ_13Summer_Bergen-Rowland.pdf), [Iraq](https://english.alaraby.co.uk/analysis/obamas-drone-war-ten-times-more-strikes-bush), [Libya](https://airwars.org/libya-airstrike-reports-and-alleged-civilian-casualties/), [Pakistan](https://www.dohainstitute.org/en/lists/ACRPS-PDFDocumentLibrary/US_Drone_Attacks_A_New_War_on_the_Muslim_World.pdf), [Somalia](https://www.thebureauinvestigates.com/stories/2017-01-17/obamas-covert-drone-war-in-numbers-ten-times-more-strikes-than-bush), [Syria](https://www.france24.com/en/live-news/20211208-pool-of-blood-us-drone-strike-hits-syria-family), and [Yemen](https://www.newamerica.org/international-security/reports/americas-counterterrorism-wars/the-drone-war-in-yemen/); the logical consensus in the zeitgeist was that Team America, World Police, would similarly deploy its military to the latest problematic part of the world.
 
-> ![Aung San Suu Kyi and Barack Obama, seated in the White House](/images/attention_article/Peaceful_leaders.jpg)
+> ![Aung San Suu Kyi and Barack Obama, seated in the White House](/images/attention_article/Peaceful_leaders.webp)
 > Aung San Suu Kyi and Barack Obama, presumably chatting about their love of peace.
 
 This was not the start of Boko Haram's local operations − it just happened to be a more attention-grabbing headline that [caught the eye of pop-culture celebrities](https://www.wired.com/story/bring-back-our-girls-international-rallying-cry/). [Immediate Future](https://immediatefuture.co.uk/blog/bringbackourgirls-how-social-sparked-mainstream-action/) charts the media journey of the incident over a month, with the highlight for them being US First Lady Michelle Obama getting in on the hashtag *#BringBackOurGirls* on 7 May. It's worth mentioning that since this is a "social digital consultancy", they omit the fact that Boko Haram was still killing people during this time; and that [on the 4th of May](https://en.wikipedia.org/wiki/Operation_Turus), Nigerian President Goodluck Jonathan made his first public comments about the abduction, announcing that it was seeking assistance from the US and other world powers.
 
-> ![Michelle Obama, in the White House, with a look of disappointment, holding a sign #BringBackOurGirls](/images/attention_article/Michelle_Obama.jpeg)
+> ![Michelle Obama, in the White House, with a look of disappointment, holding a sign #BringBackOurGirls](/images/attention_article/Michelle_Obama.webp)
 > Michelle Obama [getting in on trending topics](https://twitter.com/flotus44/status/464148654354628608) on 7 May 2014.
 
 On the 9th of May, the British Royal Air Force launched [Operation Turus](https://en.wikipedia.org/wiki/Operation_Turus). Why did it take almost a month for this sort of response? All explanations point to Goodluck Jonathan being uninterested in doing anything; and in that light, it's no wonder the US played along with framing it merely as a social media topic. No military action could occur without the buy-in of the Nigerian government, who had framed *#BringBackOurGirls* as a *["manipulation"](https://www.theguardian.com/world/2017/mar/04/nigeria-declined-uk-offer-to-rescue-chibok-girls)* of the victims of the attack.

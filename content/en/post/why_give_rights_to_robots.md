@@ -1,7 +1,7 @@
 ---
 date: 2021-10-24T10:58:08-04:00
-images: ["/images/robot_rights_article/robot_with_rights.jpg", ]
-featured_image: "/images/robot_rights_article/robot_with_rights.jpg"
+images: ["/images/robot_rights_article/robot_with_rights.webp", ]
+featured_image: "/images/robot_rights_article/robot_with_rights.webp"
 featured_alt_text: "A robot with rights, standing amongst Greek ruins"
 tags: ["robots", "web2"]
 title: "Why Robots Deserve Rights"
@@ -13,7 +13,7 @@ Upon introducing the Non-Human Party to excited fans of democracy, a common ques
 
 It's a very cynical view to conclude that if someone can't stand up for themselves in the same capacity as you (through voting, for instance), well, we can just step on them. I think it's something to be proud of, that in Australia for instance, people are typically treated with dignity even if they require some assistance to get by in life. On this point, it's also worth mentioning that we'll be giving more rights to animals, especially pets. The Non-Human party's mission is to identify intelligent actors that could benefit our society; and to bring about an optimised, dignified existence for such actors.
 
-![A cute robot](/images/robot_rights_article/cute_robot.gif)
+![A cute robot](/images/robot_rights_article/cute_robot.webp)
 
 Such a mission is not so different to what governments are currently meant to do for humans. In [Ducklings Can't Scale Stairs](../ducks/), we see how a more dignified existence can be achieved for ducks; and that society is currently insincere in claiming to like ducks, because it fails to walk the walk (the talking-the-talk walk, not the duck walk).
 
@@ -21,13 +21,13 @@ For robots, admittedly there's a greater barrier than for ducklings − they sha
 
 Those who make the best arguments have typically been lawyers or philosophers; and they've written the laws for society. Laws can turn out terribly, with unintended consequences or unfairness, brought on by impatience; incompetence; or corruption. When laws or nations don't pan out, we don't say _"these laws are terrible, let's stop having governments"_. We don't want to throw out the baby with the bathwater, yet for some reason the same logic doesn't get applied to code − you hear people saying for instance, _"facial recognition isn't doing a very good job with black faces, so let's ban computer vision"_.
 
-![A robot losing hope](/images/robot_rights_article/hopes_deleted.gif)
+![A robot losing hope](/images/robot_rights_article/hopes_deleted.webp)
 
 As a software engineer, I see first-hand just how much power there is in software; and how we can encode our decision-making process in a way far beyond what's possible by lawyers, encoding their decision-making processes with human words. They lack the vocabulary; they lack the focus; and they lack the repeatability of code. How many times have you heard of trials where lawyers are arguing about the meaning of a word or the placement of a comma? How many times have you heard of wildly different punishments for pretty similar crimes? We can create circuits that run exactly the same process again and again, with the minimal amount of power possible. They can understand human desires at a deeper level than _humans understand themselves_!
 
 I used to work on the recommender systems at Amazon; and I'm sure you have experiences where a recommender system has chosen for you exactly what you want to watch next; or exactly what shirt would suit you. There aren't enough words to describe your taste − there are always new terms being generated to describe music genres and visual styles; but recommender systems can see past that. They can understand you better than a good friend; and yet they keep being kept at a distance, with complaints along the lines of _"that's creepy"_ − creepy to have a close friend? Creepy to have exactly what you said you wanted?
 
-> ![Spotify telling Owen that he's in the top 1% of Kylie Minogue fans](/images/robot_rights_article/Kylie_1%.jpg)
+> ![Spotify telling Owen that he's in the top 1% of Kylie Minogue fans](/images/robot_rights_article/Kylie_1%.webp)
 > Sometimes recommendations aren't so difficult
 
 Robots (and more generally, software systems) have the opportunity to improve our lives; to make us happier, ___smarter___ and more productive. Yes, people worry about being replaced, but [as we've seen previously](../embracing_evil_technolgy/), the people being replaced are ___dangerously incompetent___ and you'll quickly have as little sympathy for them as for whoever was replaced when the stagecoach industry hit a pothole. If we end up with robots inadvertently replacing good people, then [children will be able to steal those jobs back from robots](https://www.linkedin.com/pulse/children-can-steal-your-jobs-back-from-robots-owen-miller/).

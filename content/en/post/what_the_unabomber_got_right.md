@@ -1,7 +1,7 @@
 ---
 date: 2022-04-04T22:48:08-04:00
-images: ["/images/unabomber_article/unabomber_hero.png", ]
-featured_image: "/images/unabomber_article/unabomber_hero.png"
+images: ["/images/unabomber_article/unabomber_hero.webp", ]
+featured_image: "/images/unabomber_article/unabomber_hero.webp"
 featured_alt_text: "An FBI sketch of Theodore Kaczynski"
 tags: ["children", "roads", "robots"]
 title: "What the Unabomber Got Right"
@@ -17,7 +17,7 @@ The goal of [Theodore Kaczynski](https://en.wikipedia.org/wiki/Ted_Kaczynski) an
 
 The essay makes some compelling points about the meaning of life and the structure of our society; and was clearly formulated over many years of thought, by a man with a strong academic background − Kaczynski was an assistant professor of mathematics. I think it's intellectually dishonest that the common response to Kaczynski is simply that the essay is a "*manifesto*" of a crazy person; and therefore it doesn't justify debate. It's logically coherent and free of any contradictions (at least, in my interpretation) − *something that cannot be said for every current, popular world-view being followed*.
 
-> ![Kool Aid mascot](/images/unabomber_article/Kool_aid.gif)
+> ![Kool Aid mascot](/images/unabomber_article/Kool_aid.webp)
 
 After reading the essay recently, it was puzzling to me why it didn't attract more followers − why haven't we seen anyone else joining the Freedom Club and bringing down airlines for instance? It's not like airlines do a great job at keeping their passengers happy or even treating them like human beings. Upon trawling the Internet and speaking to people, all I could find was *"the Unabomber is a terrorist, so he's wrong."*
 > ![Paul Graham's ranking](/images/unabomber_article/Graham's_Hierarchy_of_Disagreement.svg)
@@ -28,7 +28,7 @@ The central argument of Kaczynski / FC is that modern life is meaningless; and p
 
 Kaczynski's response to the overbearing freedom is to purge technology so that we'll again have a challenging life where it's difficult to stay alive and where we'll be able to fulfill our psychological "*power struggle*" reminiscent of Nietzsche's *[will to power](https://en.wikipedia.org/wiki/Will_to_power#:~:text=Nietzsche%20writes%2C,simply%20is%20will%20to%20power.)* − Kacyznski himself moved to a cabin without electricity or water.
 
-> ![Ted Kaczynski stands outside his cabin near Lincoln, Montana, in June 1972](/images/unabomber_article/cabin.png)
+> ![Ted Kaczynski stands outside his cabin near Lincoln, Montana, in June 1972](/images/unabomber_article/cabin.webp)
 > Ted Kaczynski stands outside his cabin near Lincoln, Montana, in June 1972.
 
 > Even if most people in industrial-technological society were well satisfied, we (FC) would still be opposed to that form of society, because (among other reasons) we consider it demeaning to fulfill one's need for the power process through surrogate activities or through identification with an organization, rather than through pursuit of real goals.
@@ -39,7 +39,7 @@ If we consider "useful jobs", then that's still no safe-haven from criticism −
 
 > Imagine a society that subjects people to conditions that make them terribly unhappy, then gives them drugs to take away their unhappiness. Science fiction? It is already happening to some extent in our own society.
 
-> ![A chart showing the opiod epidemic in the US](/images/unabomber_article/opiod_waves.png)
+> ![A chart showing the opiod epidemic in the US](/images/unabomber_article/opiod_waves.webp)
 > [Opiod overdoses](https://www.cdc.gov/drugoverdose/epidemic/index.html) in the US are on the same scale as COVID deaths.
 
 It is hard to argue against Kaczynski's claim that many modern humans live meaningless lives, but I disagree with how he classifies *real goals* vs *surrogate activities*. His most debatable classification is when he discusses why scientists are motivated in their work:
@@ -49,7 +49,7 @@ It's really two claims he's making here:
 ### 1. Curiosity Isn't Really Fulfilling
 In his 1943 paper, *[A Theory of Human Motivation](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)*, psychologist Abraham Maslow identified a ranking of psychological desires that humans feel compelled to conquer:
 
-![Maslow's Hierarchy of Needs](/images/unabomber_article/Maslow.png)
+![Maslow's Hierarchy of Needs](/images/unabomber_article/Maslow.webp)
 
 If we were to return to frontier society with nothing more advanced than a blacksmith, then we'd arguably be stuck in the *deficiency needs* section of the pyramid. Kaczynski agrees that later goals are happening, but that they just don't count as ***real*** goals. On this distinction, I don't feel that he provides adequate justification; and I have the view that self-actualisation is indeed a real goal. Kaczynski talks about evolution and natural selection; that academic pursuits are not biologically ingrained in us, but I feel that such goals were always there and that we just haven't been able to satisfy the earlier needs, so few people ever got to the stage of thinking much about transcendence.
 
@@ -71,18 +71,18 @@ By Lovelock's hypothesis, our progression towards superintelligent AI is a goal 
 Here, Kaczynski makes a compelling prediction of the future that has similarities in [Cloud Atlas](https://www.imdb.com/title/tt1371111/) and perhaps [Black Mirror](https://www.imdb.com/title/tt2085059/?ref_=fn_al_tt_1). For me, it's a much more convincing scenario than the idea of killer robots getting out of control; a theory [being pushed in the UN](https://theconversation.com/un-fails-to-agree-on-killer-robot-ban-as-nations-pour-billions-into-autonomous-weapons-research-173616).
 
 Although I see it as plausible, I also think that it's avoidable: it has been described in [*Keeping Governments Relevant in the Web3 Era*](../keeping_governments_relevant_in_web3_era/), how open-source software can allow end users to collaborate in the wide-reaching systems powering society. If they wanted less involvement in the system, then the advances in software and robotics are allowing greater self-suffciency, through the use of robotic assistants. I have a broad interpretation of what it means to be a *cyborg* and I would see exoskeletons and brain implants to be not too different to the use of a wristwatch; a calendar; or even a pair of socks. I'd be surprised if Kaczynski wasn't wearing socks, in his isolated cabin.
-> ![Children teleoperating a battle walker](/images/unabomber_article/at_st.jpeg)
+> ![Children teleoperating a battle walker](/images/unabomber_article/at_st.webp)
 > Image: © Simon Stålenhag http://www.simonstalenhag.se/
 
 If the advancement of humanity was not a *real goal* and did not exist in my proposed spot within Maslow's Hierarchy, then it would imply that someone could reach the top of the pyramid, to [Übermensch](https://en.wikipedia.org/wiki/%C3%9Cbermensch) status, while holding a desire to destroy the world, like [The Joker](https://en.wikipedia.org/wiki/Joker_(character)) perhaps. But where is such a character? The evil geniuses we see in Batman or the Powerpuff Girls just don't exist in the real world.
 
 By contrast, improving the world; and even building new worlds, is a phenomenally popular activity − Sim City; The Sims; Spore; and Eve Online were all [sensationally popular games](https://en.wikipedia.org/wiki/List_of_best-selling_PC_games), paving the way for more modern titles like Second Life and Animal Crossing.
 
-> ![Charlie XCX and Troye Sivan dancing in a house resembling one from the original Sims game, released in 2000](/images/unabomber_article/Sims.gif)
+> ![Charlie XCX and Troye Sivan dancing in a house resembling one from the original Sims game, released in 2000](/images/unabomber_article/Sims.webp)
 
 By playing world-building games, does it inspire people and move them towards self-actualisation; or is it a downward-spiral depression mechanism, like sleeping all day? Sure some people die during a video-game addiction, but [that's Starcraft](https://starcraft.fandom.com/wiki/Lee_Seung_Seop). Nobody was getting anxiety, stressing about the cost of rent for their Sims family − those people owned their home!
 
-> ![A headline reading, "Scott Morrison says renters should buy a house if they want rent relief"](/images/unabomber_article/renting.png)
+> ![A headline reading, "Scott Morrison says renters should buy a house if they want rent relief"](/images/unabomber_article/renting.webp)
 > [*Life hack right here!*](https://www.news.com.au/finance/economy/federal-budget/scott-morrison-and-ally-langdon-clash-over-rent-relief-after-federal-budget-delivered/news-story/2e8208699dddcdfd9dc383d38e5055e7)
 
 ## Industrial Society is Not Serving Human Needs
@@ -92,7 +92,7 @@ Kaczynski disparages economic growth as a pointless goal that diverges from huma
 Not only is the system disrespectful to human rights, it's disrespectful to the environment:
 > It is not at all certain that survival of the system will lead to less suffering than breakdown of the system would. The system has already caused, and is continuing to cause, immense suffering all over the world. Ancient cultures, that for hundreds of years gave people a satisfactory relationship with each other and with their environment, have been shattered by contact with industrial society, and the result has been a whole catalogue of economic, environmental, social and psychological problems.
 
-> ![A protest flag with Aboriginal symbols and a message, "Stop death in custody now!"](/images/unabomber_article/deaths_in_custody.jpg)
+> ![A protest flag with Aboriginal symbols and a message, "Stop death in custody now!"](/images/unabomber_article/deaths_in_custody.webp)
 > People campaigning to end Aboriginal deaths in custody. Image: [David Jackmanson](https://www.eternitynews.com.au/australia/thirty-years-ago-the-royal-commission-handed-down-a-blueprint-to-prevent-indigenous-deaths-in-custody/)
 
 When nations aggressively pursue GDP growth without accounting for environmental damage, or even thinking about the mental health of their citizens, then it becomes easier to agree with Kaczynski's claim that the system is causing worldwide suffering. It's hopeful to see that Bhutan, Iceland and New Zealand are [explicitly integrating a Happiness Index](https://www.forbes.com/sites/jamesellsmoor/2019/07/11/new-zealand-ditches-gdp-for-happiness-and-wellbeing/?sh=293b112d1942), alongside GDP.
@@ -103,7 +103,7 @@ It's already sufficiently difficult to measure the suffering being imposed by th
 
 The market is rife for abuse and inherently when we pay for someone to plant a tree, it's land that someone else in the past must have cleared − whether it was the current owner or even someone as far back as the indigenous owners.
 
-> ![An orange sun shining through smoke haze, with a gum tree appearing to the left of the image](/images/unabomber_article/smoky_sky.jpg)
+> ![An orange sun shining through smoke haze, with a gum tree appearing to the left of the image](/images/unabomber_article/smoky_sky.webp)
 > *"Even when carbon offsets are real – when an actual forest slated for logging was spared thanks to offsets – they are apt to fail, as [when that forest is destroyed in climate-change-created wildfires](https://pluralistic.net/2021/07/26/aggregate-demand/#murder-offsets).*" − Cory Doctorow
 
 Where Doctorow stops short of Kaczynski's methods for change, Kim Stanley Robinson is prepared to edge a bit closer, in *[The Ministry for the Future](https://www.hachettebookgroup.com/titles/kim-stanley-robinson/the-ministry-for-the-future/9780316300162/)*, where he writes about fictional characters taking matters into their own hands: launching sulphur into the atmosphere or carrying out terrorist attacks against those perceived to be guilty of climate destruction.
@@ -137,7 +137,7 @@ Perhaps we can agree with Kaczynski that technological *change* is inevitable; a
 
 Perhaps the most relatable example of technology enabling a breakdown of values is when it comes to reproductive biology. By giving women the power to readily avoid pregnancy, the contraceptive pill allowed women to have multiple sexual partners without being caught; and even if they stayed faithful, they could delay their decision to "fully commit" (by having a child). Email allows women to easily tell their friends that they're in an abusive relationship and that they're having trouble escaping; and computer vision could take it one step further, detecting people in abusive relationships without them explicitly having to emit messages from a potentially compromised computing device.
 
-> ![Musician M.I.A. on the top of a BMW driving on its side, in Saudi Arabia](/images/unabomber_article/mia.gif)
+> ![Musician M.I.A. on the top of a BMW driving on its side, in Saudi Arabia](/images/unabomber_article/mia.webp)
 > [How Uber secretly lobbied for women to drive in Saudi Arabia](https://qz.com/1091102/before-saudi-arabia-let-women-drive-uber-and-careem-were-breaking-social-taboos-about-transportation/)
 
 ## The System Gradually Removes Freedoms
@@ -152,7 +152,7 @@ In terms of forcing children into a constrained way of life, we've previously ex
 
 Kaczynski's example of people being encouraged to study science is evidently true, although he didn't explicitly predict the latest trend, where it's only females being encouraged into the field − searching for variations of `STEM` or `study STEM` ([Science, Technology, Engineering, Mathematics]((https://en.wikipedia.org/wiki/Science,_technology,_engineering,_and_mathematics))), you'll see countless images of female engineers or female students, noticeably outweighing the number of males. This is despite the fact that in reality, [women make up 13% of the US engineering workforce](https://hbr.org/2016/08/why-do-so-many-women-who-study-engineering-leave-the-field). For those unaware of the backstory, the justification for the skewed advertising is that women *should represent 50%* of the engineering population; and that showing more female engineers will encourage girls into the field.
 
-> ![Ada Twist, manifested as a float in the Macy's Thanksgiving Day Parade](/images/unabomber_article/Ada.jpg)
+> ![Ada Twist, manifested as a float in the Macy's Thanksgiving Day Parade](/images/unabomber_article/Ada.webp)
 > ***Ada Twist, Scientist*** is a 2016 children's picture book written by Andrea Beaty and illustrated by David Roberts. The story was well received and praised for encouraging children, especially girls, to develop an interest in STEM. The book also received a [television series adaptation](https://www.netflix.com/title/80198673) in 2021 − [Wikipedia](https://en.wikipedia.org/wiki/Ada_Twist,_Scientist)
 
 The point about removing freedoms and forcing conformity is further elaborated and leads to an ultimate prediction of most humans being subjugated:
@@ -166,7 +166,7 @@ The point about removing freedoms and forcing conformity is further elaborated a
 
 While considering these arguments, readers might be thinking of Google; Jeff Bezos; or Bill Gates, but it's important to point out that Kaczynski is relying on his assertion discussed earlier, that technology necessarily falls into the hands of some sort of global mega-corp like IBM or [Tyrell Corporation](https://bladerunner.fandom.com/wiki/Tyrell_Corporation).
 
-> ![The headquarters of Tyrell Corp, as pictured in the film Blade Runner](/images/unabomber_article/Tyrell_Corp.png)
+> ![The headquarters of Tyrell Corp, as pictured in the film Blade Runner](/images/unabomber_article/Tyrell_Corp.webp)
 > Image: [James Gilleard](https://nineteeneightyeight.com/products/james-gilleard-tyrell-corp-print?variant=442248495123)
 
 We earlier refuted Kaczynski's claim, by pointing to the the autonomy enabled by robotic assistants and open-source software. We've also seen that in the last few decades, a big & powerful megacorp has less of a guaranteed fate. Clayton Christensen's 1997 work, [*The Innovator's Dilemma*](https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma) has been ["one of the most − if not the most − important books chronicling how innovation takes place"](https://www.wired.com/insights/2014/12/understanding-the-innovators-dilemma/). It describes how large, incumbent companies become stale in their thinking; and that their employees are incentivised to play it safe rather than to innovate. Large corporations inevitably have internal gatekeepers; the employees have little vested interest in a world-changing idea generated internally; plus there's the fact that the organisation will be governed by Price's Law, such that most of the employees are doing useless busy-work.
@@ -209,8 +209,8 @@ The argument about purging people for their views is still a topic of conversati
 
 The *cancel culture* debate has been covered pretty widely and there isn't really anything new to say here − Paul Graham [points out](http://www.paulgraham.com/orth.html) that most people don't even think cancel culture is a thing, because they're incapable of forming an opinion that might get someone cancelled. Let's instead focus on a more compelling confluence of Kacyznski's ideas − **affordable housing**.
 
-> ![The "Painted Ladies" (some colourful houses) in San Francisco](/images/unabomber_article/painted_ladies.jpg)
-> Image: [King of Hearts](https://commons.wikimedia.org/wiki/File:Painted_Ladies_San_Francisco_January_2013_002.jpg)
+> ![The "Painted Ladies" (some colourful houses) in San Francisco](/images/unabomber_article/painted_ladies.webp)
+> Image: [King of Hearts](https://commons.wikimedia.org/wiki/File:Painted_Ladies_San_Francisco_January_2013_002.webp)
 
 Especially in left-leaning San Francisco, there have [long been complaints](https://sf.curbed.com/2019/8/12/20802296/housing-affordability-compass-carlisle-san-francisco-q2-2019) that poor people can't afford to live in convenient places; and that something has to be done about it. The government is an obvious agent to be petitioned for change, especially since they often force landowners to build short houses, as opposed to anything more dense. Rather than just *allowing* affordable housing though, the government has been roped into actually building the housing itself, through eg [this $200 million of funding](https://sfmayor.org/article/san-francisco-secures-over-200-million-state-funding-affordable-housing). This money will create 400 units. This is the sort of pointlessly small, virtue-signalling gesture that has let the housing crisis last for so long. San Francisco and the wider state of California are both governed by the [Democratic Party](https://democrats.org/), which typically aligns itself with left-leaning issues like housing affordability, but as discussed in [this video by the New York Times](https://www.youtube.com/watch?v=hNDgcjVGHIw), they're not prepared to change zoning laws and let the market take care of things, because then *their own homes* would be surrounded by high-density apartments rather than long driveways and golf courses:
 

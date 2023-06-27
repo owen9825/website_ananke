@@ -1,8 +1,8 @@
 ---
 date: 2022-10-15T18:12:08-04:00
 description: "The two strategies you won't believe!"
-images: ["/images/crowdsourced_media_article/kyle.gif", ]
-featured_image: "/images/crowdsourced_media_article/kyle.gif"
+images: ["/images/crowdsourced_media_article/kyle.webp", ]
+featured_image: "/images/crowdsourced_media_article/kyle.webp"
 featured_alt_text: "Kyle Broflovski at a computer, saying to himself, 'hey, what the hell is …'"
 tags: ["media", "web2"]
 title: "How Can the Government Support Clickbait?"
@@ -19,7 +19,7 @@ Wider society needs to be informed about what's going on; and they also need co
  In this article, we'll see why it's necessary for the government to generate clicks; and how it can happen!
 
 ## Erectile Dysfunction is Cured!
-> ![John Brinkley](/images/crowdsourced_media_article/Brinkley.jpeg)
+> ![John Brinkley](/images/crowdsourced_media_article/Brinkley.webp)
 
 In 1918, [John Brinkely](https://en.wikipedia.org/wiki/John_R._Brinkley) was putting his diploma-mill qualifications to good use, by devising a procedure to transplant goat glands into the testicles of human men. This *unorthodox* procedure aimed to cure any men who were "sexually weak"; and soon an equivalent procedure was devised for women too. Building upon the medical prowess of Dr Frankenstein from 100 years earlier, Brinkley's operation seemingly proved effective, with some patients going on to produce offspring.
 
@@ -36,8 +36,8 @@ In terms of patients failing to be informed about the dire outcomes for previous
 When the medical board eventually got involved, Brinkely was shielded by his state government, since he was bringing in so much revenue for them. The solution then is so obviously that the government shouldn't be relying on legal stouches − they should be getting facts directly to the potential patients. This medical chaos is 100% a breakdown of society; and the whole raison d'être of governments is to ensure social harmony and prosperity.
 
 ## Pseudonymous Victims
-> ![Alex Jones at a press conference in Washington DC](/images/crowdsourced_media_article/Alex_Jones_2.jpg)
-> Alex Jones at a press conference in 2018. 📸 [Jared Holt](https://commons.wikimedia.org/wiki/File:Alex_Jones_DC_Press_Conference_2018.jpg)
+> ![Alex Jones at a press conference in Washington DC](/images/crowdsourced_media_article/Alex_Jones_2.webp)
+> Alex Jones at a press conference in 2018. 📸 [Jared Holt](https://commons.wikimedia.org/wiki/File:Alex_Jones_DC_Press_Conference_2018.webp)
 
 In 2012, there was reportedly a shooting at Sandy Hook Elementary School, resulting in the deaths of 26 students and staff. We've discussed this incident previously in relation to the [depressing neighbourhood that set the stage for such a tragedy](../guns_dont_kill_people/), but the focus now is whether the incident was real, or just staged.
 
@@ -48,7 +48,7 @@ In 2022, Jones lost court cases in multiple US states, including one where he's 
 ## Reinvention of Culture
 Sure, school shootings are bad and everything, but they're also a great opportunity for survivors to get some attention! At least this was the perspective of CNN, in [reporting the unfairness](https://www.cnn.com/2018/03/29/us/parkland-school-black-students-trnd) in how the coverage of the shooting was skewed towards focusing on the white students, even though there were so many black students at the school! 11% in fact.
 
-> ![3 Parkland students at a vigil, all of whom have white skin](/images/crowdsourced_media_article/Parkland_vigil.jpg)
+> ![3 Parkland students at a vigil, all of whom have white skin](/images/crowdsourced_media_article/Parkland_vigil.webp)
 > Survivors at Parkland, speaking at a vigil. What are the chances that ***none*** of the three would be black, even though 11% of the population was black?! *Hint: 70%*.
 
 This bizarre tangent of an issue raised by CNN is consistent with America's obsession with race and their regular redefinition of foreign cultures, whether it be African or anything else.
@@ -66,7 +66,7 @@ Some might say that there's an unstated disclaimer, "my ancestry is Asian, but I
 
 Despite being a strained and misrepresented connection, at least the American entertainers do actually have some Asian or African ancestry. Compare this to the iconic "crying Indian": an American of *Italian* descent, wearing Native American attire and crying about uncaring consumers throwing litter onto his cherished land. It wasn't the manufacturers' fault that so much litter was being produced − it only becomes waste once the *consumer chooses so*. The advertisement was sponsored by [Keep America Beautiful](https://en.wikipedia.org/wiki/Keep_America_Beautiful), a group funded by glass and can manufacturers.
 
-> ![An American man pretending to be Native American, and crying about consumers choosing to turn the can-manufacturers products into waste](/images/crowdsourced_media_article/crying_indian.jpeg)
+> ![An American man pretending to be Native American, and crying about consumers choosing to turn the can-manufacturers products into waste](/images/crowdsourced_media_article/crying_indian.webp)
 > A man pretending to be Native American, crying about the fate of glass bottles and cans.
 
 With America producing so much of the content in the zeitgeist, about what it means to be Italian (passionate, with silly accents) or Native American (eradicated), then the reputation of these groups gets completely reinvented. Don't think that good friends like Australians are immune: Australia is portrayed as Crocodile Dundee and Steve Irwin. Americans have no interest in our potential cultural contributions, whether it's ranked voting, liveable wages, or reconciliation: they're satisfied just thinking that Australians wrestle crocodiles.
@@ -92,14 +92,14 @@ Should the government really fund newspapers? Can't we cut out the middleman and
 > The New York Times reporting the ***beheading of a teacher*** by a Muslim terrorist.
 
 
-> ![A tumbleweed blowing across a road](/images/crowdsourced_media_article/tumbleweed.gif)
+> ![A tumbleweed blowing across a road](/images/crowdsourced_media_article/tumbleweed.webp)
 > The New York Times [reporting](https://www.google.com/search?q=New+York+Times+%22Nawar+Al-Awlaki%22&ei=cBJMY_3CMtKbptQPh7GAyAc&start=0&sa=N&ved=2ahUKEwj9uoij-OT6AhXSjYkEHYcYAHk4FBDy0wN6BAgdEAQ&biw=1610&bih=1177&dpr=1) on a US commando raid to kill [an 8-year old American girl](https://en.wikipedia.org/wiki/Killing_of_Nawar_al-Awlaki) in Yemen.
 
 > {{< twitter 1538939167912218624 >}}
 > The New York Times reporting on Israeli troops fatally shooting an Al Jazeera reporter in the face while she was wearing a press vest.
 
 
-> ![A Guardian article talking about the New York Times' admission of being wrong about Iraq, but not going as far as an apology](/images/crowdsourced_media_article/nyt_apology.png)
+> ![A Guardian article talking about the New York Times' admission of being wrong about Iraq, but not going as far as an apology](/images/crowdsourced_media_article/nyt_apology.webp)
 > The New York Times [admitting](https://www.theguardian.com/media/2004/may/26/pressandpublishing.usnews) to publishing unverified *lies* about there ever being "weapons of mass destruction" in Iraq − the whole basis of the Western invasion.
 
 These issues arise because the existence of the New York Times is predicated on civilians paying for a stream of ***juicy articles***. When governments provide guaranteed funding to a news organisation such as Al Jazeera, it grants a bit more freedom to spend time actually investigating the facts; and reporting on it *impartially*; not having to toe the line to appease biased readers or patrons, like the [Democratic war hawks of New York](https://thenetworkstate.com/nyt-ccp-btc).

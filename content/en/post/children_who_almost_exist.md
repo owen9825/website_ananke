@@ -1,8 +1,8 @@
 ---
 date: 2021-01-27T10:58:08-04:00
 description: "👧👦🔮⛏"
-images: ["/images/children_article/vintage_children.gif", ]
-featured_image: "/images/children_article/vintage_children.gif"
+images: ["/images/children_article/vintage_children.webp", ]
+featured_image: "/images/children_article/vintage_children.webp"
 featured_alt_text: "Children from circa 1900, sitting in a garden with some dolls"
 tags: ["children"]
 title: "Children Who Almost Exist"
@@ -25,4 +25,4 @@ Current Americans and the wider Anglophone world seem to support such oppressive
 
 In this video, we propose options for children to lead a meaningful existence and touch on some of the points previously explained in [Children Can Steal Your Jobs Back From Robots](https://www.linkedin.com/pulse/children-can-steal-your-jobs-back-from-robots-owen-miller/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_post_details%3Brz4KJ3XfTjCm4dzDcPz%2BXA%3D%3D)
 
-[![Children interacting excitedly with a laptop](/images/children_article/children_laptop.jpeg)](https://www.linkedin.com/pulse/children-can-steal-your-jobs-back-from-robots-owen-miller/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_post_details%3Brz4KJ3XfTjCm4dzDcPz%2BXA%3D%3D)
+[![Children interacting excitedly with a laptop](/images/children_article/children_laptop.webp)](https://www.linkedin.com/pulse/children-can-steal-your-jobs-back-from-robots-owen-miller/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_post_details%3Brz4KJ3XfTjCm4dzDcPz%2BXA%3D%3D)

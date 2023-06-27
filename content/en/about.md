@@ -1,6 +1,6 @@
 ---
 title: About Us
-featured_image: "/images/vaporwave_galah.jpg"
+featured_image: "/images/vaporwave_galah.webp"
 omit_header_text: true
 description: Our Backstory
 type: page
@@ -10,7 +10,7 @@ menu: main
 
 Hi, I'm [Owen Miller](https://owen.engineer), founder of the Non-Human Party.
 
-![Owen in Madison Square Park, looking expectedly towards the camera](/images/about_us/DSC_0066.jpg)
+![Owen in Madison Square Park, looking expectedly towards the camera](/images/about_us/DSC_0066.webp)
 
 I believe that our civilisation is sub-optimal; and that it's especially sub-optimal for those who aren't being explicitly included − they are, broadly speaking, ___Non-Humans___.
 
@@ -34,5 +34,5 @@ With the ability to see the code and contribute to it, we can ultimately create 
 
 We can create a civilisation that's smarter and more capable than anything that could be created by private industry alone; or by existing governments. By enabling the full range of intelligent actors to flourish in our society, we'll create unimaginable wealth and harmony.
 
-![A tree-covered castle floating in the clouds](/images/about_us/laputa.jpg)
+![A tree-covered castle floating in the clouds](/images/about_us/laputa.webp)
 > Image: [Laputa, Castle in the Sky](https://en.wikipedia.org/wiki/Castle_in_the_Sky)
