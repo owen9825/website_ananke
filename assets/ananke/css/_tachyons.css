@@ -58,7 +58,7 @@ h1 {
 }
 
 header h1 {
-    font-family: UniNeueHeavy-Italic;
+    font-family: UniNeueHeavy-Italic, Arial, sans-serif;
 }
 
 h1.bird-quote {
@@ -1201,7 +1201,7 @@ img {
 }
 
 .sans-serif {
-    font-family: "Gowun Dodum", avenir next, avenir, ubuntu, noto, segoe ui, arial, sans-serif
+    font-family: "Gowun Dodum", ubuntu, arial, sans-serif
 }
 
 .serif {
@@ -1252,11 +1252,11 @@ blockquote > p {
 }
 
 .gowun {
-    font-family: 'Gowun Dodum', sans-serif;
+    font-family: 'Gowun Dodum', Arial, sans-serif;
 }
 
 .baloo {
-    font-family: 'Baloo Chettan 2', cursive;
+    font-family: 'Baloo Chettan 2', Arial, cursive;
 }
 
 .athelas {
@@ -1288,12 +1288,13 @@ blockquote > p {
 }
 
 @font-face {
+    font-display: swap;
     font-family: "UniNeueHeavy-Italic";
     src: url('/fonts/UniNeueHeavyItalic/font.woff2') format('woff2'), url('/fonts/UniNeueHeavyItalic/font.woff') format('woff');
   }
 
 .uni-neue {
-    font-family: UniNeueHeavy-Italic;
+    font-family: UniNeueHeavy-Italic, Arial, sans-serif;
 }
 
 .i {
