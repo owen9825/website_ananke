@@ -67,7 +67,7 @@ cloudFrontDistributionID = "E1RKWLIN7W8OEP"
 
 [[deployment.matchers]]
 # Cache static assets for 1 year.
-pattern = "^.+\\.(js|css|svg|ttf|png|jpg|gif|mp4|webp)$"
+pattern = "^.+\\.(js|css|svg|ttf|png|jpg|gif|mp4|webp|woff2?)$"
 cacheControl = "max-age=31536000, no-transform, public"
 gzip = true
 
