@@ -35,7 +35,7 @@
     <meta property="twitter:image:alt" content="{{ .Params.featured_alt_text }}" />
     {{ end }}
     {{- template "_internal/schema.html" . -}}
-    {{- template "_internal/twitter_cards.html" . -}}
+    {{ partial "twitter_cards.html" . }}
 
     {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
       {{ partial "google-analytics-async.html" . }}
