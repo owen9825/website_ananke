@@ -32,7 +32,6 @@
     {{- template "_internal/opengraph.html" . -}}
     {{ if .Params.featured_alt_text }}
     <meta property="og:image:alt" content="{{ .Params.featured_alt_text }}" />
-    <meta property="twitter:image:alt" content="{{ .Params.featured_alt_text }}" />
     {{ end }}
     {{- template "_internal/schema.html" . -}}
     {{ partial "twitter_cards.html" . }}

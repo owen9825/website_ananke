@@ -1,4 +1,10 @@
 <!-- https://github.com/gohugoio/hugo/blob/master/tpl/tplimpl/embedded/templates/twitter_cards.html -->
+<!-- Reference: https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/markup -->
+<!-- Testing: https://cards-dev.twitter.com/validator -->
+{{ if $.Params.featured_alt_text }}
+    {{/* Twitter uses `name` rather than `property`: https://stackoverflow.com/a/66816822/1495729 */}}
+    <meta name="twitter:image:alt" content="{{ .Params.featured_alt_text }}" />
+{{ end }}
 {{- with $.Params.images -}}
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="{{ index . 0 | absURL }}"/>
