@@ -1,7 +1,7 @@
 ---
 date: 2022-10-15T18:12:08-04:00
 description: "The two strategies you won't believe!"
-images: ["/images/crowdsourced_media_article/kyle.webp", ]
+images: ["/images/crowdsourced_media_article/kyle.webp", "/images/crowdsourced_media_article/kyle_thumbnail.webp"]
 featured_image: "/images/crowdsourced_media_article/kyle.webp"
 featured_alt_text: "Kyle Broflovski at a computer, saying to himself, 'hey, what the hell is …'"
 tags: ["media", "web2"]

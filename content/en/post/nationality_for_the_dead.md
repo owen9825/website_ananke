@@ -1,7 +1,7 @@
 ---
 date: 2022-01-09T10:58:08-04:00
 description: "🎌💀🎌"
-images: ["/images/dead_nationality/haunted_graveyard.webp", ]
+images: ["/images/dead_nationality/haunted_graveyard.webp", "/images/dead_nationality/graveyard_thumbnail.webp"]
 featured_image: "/images/dead_nationality/haunted_graveyard.webp"
 featured_alt_text: "A windy, haunted graveyard"
 tags: ["nationality", "web3"]

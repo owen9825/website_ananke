@@ -1,7 +1,7 @@
 ---
 date: 2021-02-02T11:14:48-04:00
 description: "🎮⚑🚢🎱"
-images: ["/images/tamagotchi_foreigners_article/tamagotchi_2.webp", ]
+images: ["/images/tamagotchi_foreigners_article/tamagotchi_2.webp", "/images/tamagotchi_foreigners_article/tamagotchi_thumbnail.webp"]
 featured_image: "/images/tamagotchi_foreigners_article/tamagotchi_2.webp"
 featured_alt_text: "A Tamagotchi"
 tags: ["animals", "children", "pets", "web3"]

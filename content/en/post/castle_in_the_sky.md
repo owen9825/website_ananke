@@ -1,7 +1,7 @@
 ---
 date: 2022-02-25T21:33:08-04:00
 description: "☢🏰☁🌈🚁"
-images: ["/images/castle_article/laputa_side.webp", ]
+images: ["/images/castle_article/laputa_side.webp", "/images/castle_article/laputa_thumbnail.webp"]
 featured_image: "/images/castle_article/laputa_side.webp"
 featured_alt_text: "Clouds flowing by a moss-covered castle, floating in the sky"
 tags: ["diplomacy", "nationality"]

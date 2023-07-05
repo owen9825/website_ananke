@@ -1,7 +1,7 @@
 ---
 date: 2021-09-04T08:25:05-04:00
 description: "Optimising the road for fashionable vehicles"
-images: ["/images/car_fashion_article/baby_pimp_car.webp", ]
+images: ["/images/car_fashion_article/baby_pimp_car.webp", "/images/car_fashion_article/car_thumbnail.webp"]
 featured_image: "/images/car_fashion_article/baby_pimp_car.webp"
 featured_alt_text: "A child, dressed like a rapper, cruising past in a toy car with shiny rims, looking the viewer up and down with contempt"
 tags: ["roads", "children", "birds"]

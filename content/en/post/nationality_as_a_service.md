@@ -1,7 +1,7 @@
 ---
 date: 2020-11-03T11:25:05-04:00
 description: "Software for Running the World"
-images: ["/images/naas_article/vaporwave_island.webp", ]
+images: ["/images/naas_article/vaporwave_island.webp", "/images/naas_article/vaporwave_thumbnail.webp"]
 featured_image: "/images/naas_article/vaporwave_island.webp"
 featured_alt_text: "A vaporwave scene of a neon oasis"
 tags: ["cameras", "robots", "pets", "nationality", "web3"]

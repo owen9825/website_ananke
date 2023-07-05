@@ -2,8 +2,8 @@
 date: 2021-08-07T21:09:00+04:00
 author: "Owen Miller"
 description: "Ducklings walk around in our civilisation, but our stairs are difficult for these members."
-images: ["/images/ducks_swimming.webp", ]
-featured_image: "/images/ducks_swimming.webp"
+images: ["/images/duck_article/ducks_swimming.webp", "/images/duck_article/ducks_thumbnail.webp"]
+featured_image: "/images/duck_article/ducks_swimming.webp"
 featured_alt_text: "Ducklings having difficulty scaling stairs"
 tags: ["duck", "birds", "animals"]
 title: "Ducklings Can't Scale Stairs"

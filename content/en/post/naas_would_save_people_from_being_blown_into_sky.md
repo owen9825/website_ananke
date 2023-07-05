@@ -1,7 +1,7 @@
 ---
 date: 2021-12-25T23:59:05-04:00
 description: "🌪"
-images: ["/images/tornado_article/floating_cat.webp", ]
+images: ["/images/tornado_article/floating_cat.webp", "/images/tornado_article/hover_cat_thumbnail.webp"]
 featured_image: "/images/tornado_article/floating_cat.webp"
 featured_alt_text: "A cat floating into the sky"
 tags: ["animals", "cameras", "web2", "web3"]

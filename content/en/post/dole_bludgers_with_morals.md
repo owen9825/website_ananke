@@ -2,7 +2,7 @@
 date: 2022-09-11T15:26:00+04:00
 author: "Owen Miller"
 description: "Those who don't work might be morally superior to those who do."
-images: ["/images/dole_article/barney_launch.webp", ]
+images: ["/images/dole_article/barney_launch.webp", "/images/dole_article/barney_thumbnail.webp"]
 featured_image: "/images/dole_article/barney_launch.webp"
 featured_alt_text: "Ducklings having difficulty scaling stairs"
 tags: ["robots"]

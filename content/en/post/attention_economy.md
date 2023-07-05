@@ -1,7 +1,7 @@
 ---
 date: 2022-04-16T18:55:08-04:00
 description: "💃📸📺🤯📉"
-images: ["/images/attention_article/homer_tv.webp", ]
+images: ["/images/attention_article/homer_tv.webp", "/images/attention_article/homer_thumbnail.webp"]
 featured_image: "/images/attention_article/homer_tv.webp"
 featured_alt_text: "Homer Simpson lying on the floor, kicking his feet back and forth in delight, as he watches TV"
 tags: ["children", "media", "web2"]

@@ -1,7 +1,7 @@
 ---
 date: 2021-03-21T11:00:59-04:00
 description: "Embracing Evil Technology"
-images: ["/images/evil_tech_article/Mr_Burns_hands.webp", ]
+images: ["/images/evil_tech_article/Mr_Burns_hands.webp", "/images/robot_butt_article/burns_thumbnail.webp"]
 featured_image: "/images/evil_tech_article/Mr_Burns_hands.webp"
 featured_alt_text: "Mr Burns smirking with an evil look"
 tags: ["cameras", "web2"]

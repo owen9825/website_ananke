@@ -1,7 +1,7 @@
 ---
 date: 2021-05-30T11:13:32-04:00
 description: "Physiology and the future of ubiquitous computing"
-images: ["/images/robot_butt_article/principle_skinner_butt.webp", ]
+images: ["/images/robot_butt_article/principle_skinner_butt.webp", "/images/robot_butt_article/skinner_thumbnail.webp"]
 featured_image: "/images/robot_butt_article/principle_skinner_butt.webp"
 featured_alt_text: "Principle Skinner shaking his butt in contempt, towards Springfield Elementary School"
 tags: ["cameras", "robots", "web3"]

@@ -1,7 +1,7 @@
 ---
 date: 2021-01-27T10:58:08-04:00
 description: "👧👦🔮⛏"
-images: ["/images/children_article/vintage_children.webp", ]
+images: ["/images/children_article/vintage_children.webp", "/images/children_article/children_thumbnail.webp"]
 featured_image: "/images/children_article/vintage_children.webp"
 featured_alt_text: "Children from circa 1900, sitting in a garden with some dolls"
 tags: ["children"]

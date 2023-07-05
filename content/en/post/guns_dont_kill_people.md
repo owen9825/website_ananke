@@ -1,7 +1,7 @@
 ---
 date: 2022-05-30T19:55:08-04:00
 description: "The causal relationship between unappealing environments and harm"
-images: ["/images/shooting_article/falling.webp", ]
+images: ["/images/shooting_article/falling.webp", "/images/shooting_article/falling_thumbnail.webp"]
 featured_image: "/images/shooting_article/falling.webp"
 featured_alt_text: "A man slowly falls through vaporwave skyscrapers as they're illuminated by lightning strikes"
 tags: ["children", "guns", "animals", "pets", "birds"]
