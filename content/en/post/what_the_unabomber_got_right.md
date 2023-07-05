@@ -7,6 +7,7 @@ tags: ["children", "roads", "robots"]
 title: "What the Unabomber Got Right"
 description: "Industrial Society is full of surrogate activities"
 author: "Owen Miller"
+creator: "OwenFM_"
 ---
 
 From 1978 to 1995, the [Freedom Club (FC) sent bombs through the mail](https://en.wikipedia.org/wiki/Ted_Kaczynski), to universities and airlines, triggering an FBI investigation named UNABOM.

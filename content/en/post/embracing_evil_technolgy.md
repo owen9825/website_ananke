@@ -7,6 +7,7 @@ featured_alt_text: "Mr Burns smirking with an evil look"
 tags: ["cameras", "web2"]
 title: "Embracing Evil Technology"
 author: "Owen Miller"
+creator: "OwenFM_"
 ---
 
 {{< youtube K9VZ7615Xtk >}}

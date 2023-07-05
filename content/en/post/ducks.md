@@ -1,6 +1,7 @@
 ---
 date: 2021-08-07T21:09:00+04:00
 author: "Owen Miller"
+creator: "OwenFM_"
 description: "Ducklings walk around in our civilisation, but our stairs are difficult for these members."
 images: ["/images/duck_article/ducks_swimming.webp", "/images/duck_article/ducks_thumbnail.webp"]
 featured_image: "/images/duck_article/ducks_swimming.webp"

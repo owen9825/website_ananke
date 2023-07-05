@@ -7,6 +7,7 @@ tags: ["nationality", "diplomacy"]
 title: "Why I'm Voting Fusion"
 description: "Reasons for voting Fusion for the 2022 Federal Election"
 author: "Owen Miller"
+creator: "OwenFM_"
 ---
 
 The Non-Human Party will not be participating in the 2022 Australian Federal Election, so here I'm outlining the reasoning behind aligning with the [Fusion Party](https://www.fusionparty.org.au/). Above all else, the Fusion Party is pursuing a bold and futuristic vision − it is not the ho-hum *incremental* thinking that comes to be expected from career politicians; and neither is it the sort of thinking that would originate from self-serving bureaucrats, [setting themselves up for a quid-pro-quo job](https://www.michaelwest.com.au/revolving-doors/) in *one of the companies they helped to prop up*.

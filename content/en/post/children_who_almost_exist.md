@@ -7,6 +7,7 @@ featured_alt_text: "Children from circa 1900, sitting in a garden with some doll
 tags: ["children"]
 title: "Children Who Almost Exist"
 author: "Owen Miller"
+creator: "OwenFM_"
 ---
 
 {{< youtube 9gP0n4AD8I4 >}}

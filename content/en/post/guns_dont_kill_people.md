@@ -7,6 +7,7 @@ featured_alt_text: "A man slowly falls through vaporwave skyscrapers as they're 
 tags: ["children", "guns", "animals", "pets", "birds"]
 title: "Guns Don't Kill People; Urban Design Does"
 author: "Owen Miller"
+creator: "OwenFM_"
 ---
 Last week's school shooting in Uvalde (Texas, USA) saw a range of people expressing their hot takes on what needs to be done to stop this, ranging from the incessant, *repeatedly ignored* idea of restricting gun sales; to the idea of arming all teachers (watch out if your homework is late!); and even to the idea of [locking the back door](https://www.texastribune.org/2022/05/28/uvalde-shooting-school-doors/).
 

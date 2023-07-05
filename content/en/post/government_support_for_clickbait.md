@@ -7,6 +7,7 @@ featured_alt_text: "Kyle Broflovski at a computer, saying to himself, 'hey, what
 tags: ["media", "web2"]
 title: "How Can the Government Support Clickbait?"
 author: "Owen Miller"
+creator: "OwenFM_"
 ---
 As someone who's a fan of entertainment, have you ever been craving to see less from Instagram influencers and more from your own government? *The 9 simple tricks to get a juicy tax return*?
 

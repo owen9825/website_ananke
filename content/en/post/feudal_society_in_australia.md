@@ -7,6 +7,7 @@ featured_alt_text: "A European castle in a billabong"
 tags: ["nationality"]
 title: "Is it Time for a Feudal Society in Australia?"
 author: "Owen Miller"
+creator: "OwenFM_"
 ---
 Purchasing a property is a significant expense and buyers have worked hard over years to make it happen. Upon receiving the deed though, owners are not able to sleep safe and sound − there are rules and taxes, impeding on the peaceful life that owners had dreamed of. Then there's the upkeep of the property too, but it will protect the house's value, so it's in the owner's interest to take care of things − they don't need councils bossing them around and telling them which trees they're allowed to cut down.
 

@@ -8,6 +8,7 @@ tags: ["cameras", "robots", "pets", "nationality", "web3"]
 title: "Nationality as a Service"
 disable_share: false
 author: "Owen Miller"
+creator: "OwenFM_"
 ---
 {{< youtube Xp2Bgk9Lf8Y >}}
 

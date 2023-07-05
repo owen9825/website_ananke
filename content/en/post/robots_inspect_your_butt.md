@@ -7,6 +7,7 @@ featured_alt_text: "Principle Skinner shaking his butt in contempt, towards Spri
 tags: ["cameras", "robots", "web3"]
 title: "Let Robot Overlords Inspect Your Butt"
 author: "Owen Miller"
+creator: "OwenFM_"
 ---
 {{< youtube yAae8KKC8kE >}}
 

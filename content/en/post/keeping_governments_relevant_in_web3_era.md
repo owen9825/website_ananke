@@ -9,6 +9,7 @@ title: "Keeping Governments Relevant in the Web3 Era"
 draft: false
 disable_share: false
 author: "Owen Miller"
+creator: "OwenFM_"
 ---
 
 Hearts and minds are abandoning governments, because governments are failing to keep themselves relevant to our online lives. While there are certainly a few anarchists and libertarians who are thrilled at the prospect of reduced "interference", this transition really calls for an urgent evaluation of whether we should let our governments die; and what value they could provide us, if we updated them for the *web3* era of user-generated content, with decentralised finance.

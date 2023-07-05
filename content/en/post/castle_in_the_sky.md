@@ -7,6 +7,7 @@ featured_alt_text: "Clouds flowing by a moss-covered castle, floating in the sky
 tags: ["diplomacy", "nationality"]
 title: "A Nuclear Castle In the Sky"
 author: "Owen Miller"
+creator: "OwenFM_"
 ---
 
 For millions of years, it has been a daily obsession for living organisms to seek out safety from the elements and safety from predators, lest that day be their last. Living in the Western world, it's easy to forget that many humans still live this way of life, not having much certainty about how they're supposed to keep themselves alive for the next day or two. This article isn't really about those people though, this is about the Western people, but I wanted to reflect on the fact that we're still at a stage in history where we can ask "what would we create, if we were free from our Earthly constraints? What would we do if we were really free?"

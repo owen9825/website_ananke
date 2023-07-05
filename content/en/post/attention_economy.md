@@ -7,6 +7,7 @@ featured_alt_text: "Homer Simpson lying on the floor, kicking his feet back and 
 tags: ["children", "media", "web2"]
 title: "The Attention Economy is Producing Treacherous Morons"
 author: "Owen Miller"
+creator: "OwenFM_"
 ---
 
 Our modern lives are dependent on what's provided to us by technology companies, who often have no direct incentive to "*look after us*" or even to keep us alive. Their business models are predicated on attention and consumption; and they can never have too much of it.

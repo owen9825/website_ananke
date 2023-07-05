@@ -7,6 +7,7 @@ tags: ["robots", "web2"]
 title: "Why Robots Deserve Rights"
 description: "− and how you can make it happen!"
 author: "Owen Miller"
+creator: "OwenFM_"
 ---
 
 Upon introducing the Non-Human Party to excited fans of democracy, a common question is what it really means to give rights to Tamagotchis; robots; or IoT toasters − ___"they can't vote!"___

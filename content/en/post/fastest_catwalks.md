@@ -9,6 +9,7 @@ title: "Roads as Catwalks"
 draft: false
 disable_share: false
 author: "Owen Miller"
+creator: "OwenFM_"
 ---
 Even before the decline of the horse-drawn transportation industry (and [the subsequent loss of jobs that nobody cares about anymore](../embracing_evil_technology)), road vehicles have been status symbols. Stage coaches were meant to show off the wealth of the occupants, while at the same time, giving them "privacy" from all the dirty riff-raff outside. People wanted a good-looking vehicle to express who they are; like they're putting on a garment or a mask.
 

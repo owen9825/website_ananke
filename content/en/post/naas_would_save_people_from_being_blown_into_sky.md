@@ -8,6 +8,7 @@ tags: ["animals", "cameras", "web2", "web3"]
 title: "Loyal Citizens Being Blown into the Sky"
 disable_share: false
 author: "Owen Miller"
+creator: "OwenFM_"
 ---
 Tornadoes are big and scary; and they’re beyond the control of ordinary civilians, so it’s the perfect scenario for helpful government intervention. It's existential threats like these that remind us why we need governments; but perhaps too it serves as a prompt to consider if we could replace governments with something else.
 

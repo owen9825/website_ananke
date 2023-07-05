@@ -7,6 +7,7 @@ featured_alt_text: "A Tamagotchi"
 tags: ["animals", "children", "pets", "web3"]
 title: "Should Foreigners or Tamagotchis Exist?"
 author: "Owen Miller"
+creator: "OwenFM_"
 ---
 {{< youtube g-A3eySU7EE >}}
 

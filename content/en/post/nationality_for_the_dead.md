@@ -7,6 +7,7 @@ featured_alt_text: "A windy, haunted graveyard"
 tags: ["nationality", "web3"]
 title: "Nationality for the Dead"
 author: "Owen Miller"
+creator: "OwenFM_"
 ---
 > 	Azerbaijan! Azerbaijan!
 >

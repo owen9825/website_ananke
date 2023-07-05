@@ -8,6 +8,7 @@ featured_alt_text: "Homer Simpson sneakily backing into a hedge, to hide."
 tags: ["robots", "web2"]
 title: "Replacing Capitalism and Yourself"
 author: "Owen Miller"
+creator: "OwenFM_"
 ---
 Capitalism (*that is, the accrual of capital as life's purpose*) might get a bad name sometimes, but it has been able to survive because the more exploited individuals still often manage to have their needs met well enough that they don't join a rebellion.
 
