@@ -6,18 +6,28 @@
     <meta name="twitter:image:alt" content="{{ . }}" />
 {{- end -}}
 {{- with $.Params.images -}}
-    <meta name="twitter:card" content="summary_large_image"/>
-    <meta name="twitter:image" content="{{ index . 0 | absURL }}"/>
+    {{- $thumbnail := "" -}}
+    {{- range $index, $image := . -}}
+        {{- if or (isset (findRE "cover" $image) 0) (isset (findRE "thumbnail" $image) 0) -}}
+            {{- $thumbnail = $image -}}
+            {{- break -}}
+        {{- end -}}
+    {{- end -}}
+    {{- if eq $thumbnail "" -}}
+        {{- $thumbnail = index . 0 -}}
+    {{- end -}}
+    <meta name="twitter:card" content="summary"/>
+    <meta name="twitter:image" content="{{ $thumbnail | absURL }}"/>
 {{ else -}}
     {{- $images := $.Resources.ByType "image" -}}
     {{- $featured := $images.GetMatch "*feature*" -}}
     {{- if not $featured }}{{ $featured = $images.GetMatch "{*cover*,*thumbnail*}" }}{{ end -}}
     {{- with $featured -}}
-        <meta name="twitter:card" content="summary_large_image"/>
+        <meta name="twitter:card" content="summary"/>
         <meta name="twitter:image" content="{{ $featured.Permalink }}"/>
     {{- else -}}
         {{- with $.Site.Params.images -}}
-            <meta name="twitter:card" content="summary_large_image"/>
+            <meta name="twitter:card" content="summary"/>
             <meta name="twitter:image" content="{{ index . 0 | absURL }}"/>
         {{ else -}}
             <meta name="twitter:card" content="summary"/>

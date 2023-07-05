@@ -1,8 +1,9 @@
 ---
 date: 2023-06-24T10:58:08+16:00
 description: "🤑🤐💀"
-images: ["/images/capitalism_article/homer.webp", ]
+images: ["/images/capitalism_article/homer.webp", "/images/capitalism_article/thumbnail_homer_hedge.webp"]
 featured_image: "/images/capitalism_article/homer.webp"
+featured_still_image: "/images/capitalism_article/featured_homer_hedge.webp"
 featured_alt_text: "Homer Simpson sneakily backing into a hedge, to hide."
 tags: ["robots", "web2"]
 title: "Replacing Capitalism and Yourself"
