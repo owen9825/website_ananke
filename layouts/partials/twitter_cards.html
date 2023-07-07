@@ -10,7 +10,6 @@
     {{- range $index, $image := . -}}
         {{- if or (isset (findRE "cover" $image) 0) (isset (findRE "thumbnail" $image) 0) -}}
             {{- $thumbnail = $image -}}
-            {{- break -}}
         {{- end -}}
     {{- end -}}
     {{- if eq $thumbnail "" -}}
