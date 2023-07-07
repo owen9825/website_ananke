@@ -1,8 +1,8 @@
 ---
 date: 2023-01-08T20:45:08+11:00
 description: "Do peasants deserve to own a home?"
-images: ["/images/housing_article/castle_in_billabong.webp", ]
-featured_image: "/images/housing_article/castle_in_billabong.webp"
+images: ["/images/housing_article/castle_in_billabong_cropped.webp"]
+featured_image: "/images/housing_article/castle_in_billabong_cropped.webp"
 featured_alt_text: "A European castle in a billabong"
 tags: ["nationality"]
 title: "Is it Time for a Feudal Society in Australia?"
