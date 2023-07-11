@@ -30,7 +30,7 @@ The current understanding of nutrition and of animal rights can still be traced 
 > 
 > This doctrine is unhealthy and smacks of heresy.
 > 
-> Man, of divine right, king of all nature, and for the benefit of whom the earth has been covered and populated, must necessarily be provided with an organ which > can put him in touch with all that is sapid in his subjects.
+> Man, of divine right, king of all nature, and for the benefit of whom the earth has been covered and populated, must necessarily be provided with an organ which can put him in touch with all that is sapid in his subjects.
 > 
 > …
 > 
