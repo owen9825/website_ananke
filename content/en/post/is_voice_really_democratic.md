@@ -129,14 +129,15 @@ Of course, voters could ask such questions to themselves, but unfortunately, it 
 If voters were able to ask sufficiently intelligent questions about an election, then we could see more relaxation of the rules about who's allowed to be a candidate. Foreigners for instance could run for Australian parliament, and voters could decide for themselves how much it really matters that this person is Japanese. Are they going to serve Japan's interests rather than Australia's? Well what's to stop any current member accepting bribes and serving Japanese interests?
 
 Why is it that children can't run for election? It's easy to imagine Greta Thunberg for instance winning enough votes in 2019 to gain a seat in Australia.
-Spokesperson for the Truth
+
+## Spokesperson for the Truth
 In the upcoming Voice referendum, a pamphlet is being mailed to all households, pitching arguments *for* and *against*. Why is such a pamphlet necessary though? We already covered that voters should be able to make wise choices for themselves, and if they don't put in the effort, then they're traitors.
 
 Unfortunately though, we live in the real world, and we sometimes have to compromise. The spokespeople for the *yes* and *no* pitches in the pamphlet were selected as those MPs voting for or against the bill for the referendum to take place. So at least, they have a publicly-stated interest one way or the other. Whether the commitment is sincere or merely a means of sabotaging the pamphlet, we have no way of knowing.
 
 Maybe the MPs don't have the most rigorous logic or the most charisma, but they had enough to be chosen as representatives for their electorates 🤷
 
-If voters do decide to do their own research instead of relying on the MP-only fanclub of each side, then there are fears that voters will encounter *misinformation*. We covered earlier that voters will at least feel they're needed as a wise jury when making choices for the nation.
+If voters do decide to do their own research instead of relying on the MP-only fanclub of each side, then there are fears that voters will encounter *misinformation*. We covered earlier that voters will at least *feel* they're needed as a wise jury when making choices for the nation.
 
 If they're vulnerable to misinformation though; if their wisdom is revealed to be no better than that of a magic 8 ball, how can they continue to tell themselves that they have the mandate to choose the government? They'll withdraw their involvement, ultimately leading to subjugation. By withdrawing, they'll concede that they're powerless and this will logically lead to depression or worse.
 
