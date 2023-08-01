@@ -58,11 +58,11 @@ Let's explore this notion of removing the king though − who would we replace h
 
 > ![An artwork by Banksy, with the quote, "the greatest crimes are not committed by people breaking the rules but by people following the rules](/images/voice_article/Gavroche.webp)
 >
-> There was a time we killed the King
+> There was a time we killed the king
 >
 > We tried to change the world too fast
 >
-> Now we have got another King
+> Now we have got another king
 >
 > He is no better than the last 
 
