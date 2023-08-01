@@ -9,7 +9,7 @@ title: "Is the Voice Really Democratic?"
 author: "Owen Miller"
 creator: "OwenFM_"
 ---
-Anybody in Australia these last few months would have inevitably seen people debating the Aboriginal Voice − well, we say *"debating"*, but unfortunately a tactic that could have easily been anticipated by Labor is that people have resorted to winning arguments by calling each other bad names: one side is racist for making laws that make distinctions based on race, and the other side is racist for not caring about Aboriginal Australians.
+Anybody in Australia these last few months would have inevitably seen people debating the [Aboriginal Voice](https://www.aec.gov.au/referendums/2023-referendum.htm) − well, we say *"debating"*, but unfortunately a tactic that could have easily been anticipated by Labor is that people have resorted to winning arguments by calling each other bad names: one side is racist for making laws that make distinctions based on race, and the other side is racist for not caring about Aboriginal Australians.
 
 Taking a step back though, what's inherently more important than an Aboriginal Voice is our democracy itself, which the Voice would join. Is the Voice referendum being carried out democratically? Can we gain any insights that could be applied to more elections? These are the questions we'll explore here.
 
