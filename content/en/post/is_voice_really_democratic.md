@@ -128,7 +128,7 @@ Of course, voters could ask such questions to themselves, but unfortunately, it 
 
 If voters were able to ask sufficiently intelligent questions about an election, then we could see more relaxation of the rules about who's allowed to be a candidate. Foreigners for instance could run for Australian parliament, and voters could decide for themselves how much it really matters that this person is Japanese. Are they going to serve Japan's interests rather than Australia's? Well what's to stop any current member accepting bribes and serving Japanese interests?
 
-Why is it that children can't run for election? It's easy to imagine Greta Thurnberg for instance winning enough votes in 2019 to gain a seat in Australia.
+Why is it that children can't run for election? It's easy to imagine Greta Thunberg for instance winning enough votes in 2019 to gain a seat in Australia.
 Spokesperson for the Truth
 In the upcoming Voice referendum, a pamphlet is being mailed to all households, pitching arguments *for* and *against*. Why is such a pamphlet necessary though? We already covered that voters should be able to make wise choices for themselves, and if they don't put in the effort, then they're traitors.
 
