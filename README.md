@@ -48,6 +48,7 @@ This theme uses the "Tachyons" CSS library. This will allow you to manipulate th
 
 
 ## Installation
+First, [install Hugo](https://gohugo.io/installation/linux/), then continue to install this project (website-ananke):
 
 ### As a Hugo Module (recommended)
 
