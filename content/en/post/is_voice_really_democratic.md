@@ -156,7 +156,7 @@ Secondly, the pamphlet can cut through the media noise − even if the media dec
 
 To expand on this point, even if a side isn't outright cancelled − even if they're just given *less* airtime, the pamphlet allows things to be balanced out.
 
-It's an unfortunate reality that for elections, the media and [*even Wikipedia*](https://en.wikipedia.org/wiki/Talk:2023_Warrandyte_state_by-election) will essentially pick the winners in advance, then ignore the other candidates. They will say essentially, "*this candidate is not going to win, so let's write as if they don't even exist.*" People looking for information will absorb this bias that they don't need to be considered, then the candidate will receive few votes and the biased reporters will say "*see, we were right that the candidate wouldn't win!*"
+It's an unfortunate reality that for elections, the media and [*even Wikipedia*](https://en.wikipedia.org/wiki/Wikipedia_talk:Candidates_and_elections#Bias_in_summaries_and_infoboxes) will essentially pick the winners in advance, then ignore the other candidates. They will say essentially, "*this candidate is not going to win, so let's write as if they don't even exist.*" People looking for information will absorb this bias that they don't need to be considered, then the candidate will receive few votes and the biased reporters will say "*see, we were right that the candidate wouldn't win!*"
 
 Imagine if the [electoral commission](https://aec.gov.au) were to send out the advertising material for all candidates, in the same way that the yes/no pamphlets are being distributed? What if the advertising material was laminated and stuck to the voting booth too, for easy reference?
 
