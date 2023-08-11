@@ -76,3 +76,5 @@ Our schools should be raising diverse and liberated free-thinkers.
 If social media companies are imposing a clickbait cesspit of distractions, then it's totally within the Australian government's power to fund [alternative, open-source services](../keeping_governments_relevant_in_web3_era/) geared towards social harmony, intellectual flourishing and self-actualisation.
 
 More generally, as citizens become more autonomous and capable in determining their sovereignty, the Australian government needs to relax its monopoly on violence and pivot towards a society that people willingly choose to join.
+
+> ![Lorikeets looking out from a branch, considering their future](/images/censorship_article/lorikeets.webp)
