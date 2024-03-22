@@ -55,7 +55,7 @@ The trees get cut down, everything gets covered with concrete, no public transpo
 > ![A highway on the outskirts of Melbourne](/images/housing_article/highway.webp)
 >
 > ![A sign saying "Yarra Bend. The World's Most Liveable Suburb"](/images/housing_article/yarra_bend.webp)
-> Exlporing the outskirts of Melbourne
+> Exploring the outskirts of Melbourne
 
 Fundamentally, these suburban estates lack the same way of life as the rest of the city. The idea of walkable neighbourhoods, good schools and convenient transport just doesn't exist there. A home is more than a roof: it is meant to be a *sanctuary*. It's part of [Maslow's hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs):
 
