@@ -42,6 +42,8 @@ and it's not like they're going to say out loud “let's keep squeezing shoppers
 Even for shoppers, they might say that the system is unfair and that they're being squeezed, but do they care about the
 supermarkets also squeezing employees, farmers, chickens, or [orangutans](https://orangutan.org/palmoil/)?
 
+> {{< youtube od_PmtmMDV0 >}}
+
 Our entire economy is built on exploiting each other. Much of the supermarket is stocked with products that are _not only_
 unethical in their production, they make us unhealthy and unhappy when we consume them. Coca Cola has
 [more sugar than orange juice](https://foodstruct.com/compare/orange-juice-vs-coca-cola), and even then, the orange
