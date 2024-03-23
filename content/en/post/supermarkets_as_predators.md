@@ -39,7 +39,7 @@ People might publicly say that it's a bad thing, but Woolworths had
 [374,275 shareholders as of November 2022](https://capital.com/woolworths-group-shareholder-who-owns-most-wow-stock#:~:text=According%20to%20Woolworths%2C%20there%20were%20374%2C275%20WOW%20shareholders%2C,for%20seven%20per%20cent%20of%20issued%20share%20capital),
 and it's not like they're going to say out loud “let's keep squeezing shoppers, employees and the environment."
 
-Even for shoppers, they might say that the system is unfair and that they're being squeezed, but do they care about the
+Even for shoppers, although they say that the system is unfair and that they're being squeezed, do they care about the
 supermarkets also squeezing employees, farmers, chickens, or [orangutans](https://orangutan.org/palmoil/)?
 
 > {{< youtube od_PmtmMDV0 >}}
