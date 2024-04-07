@@ -114,7 +114,7 @@ Besides saving time and
 energy, it obviously frees up an enormous expanse of land too − agriculture currently accounts for [50% of the world's
 habitable land](https://ourworldindata.org/environmental-impacts-of-food#:~:text=used%20for%20agriculture.-,Food%20is%20responsible%20for%20one%2Dquarter%20of%20the%20world's%20emissions,of%20global%20greenhouse%20gas%20emissions.&text=This%20includes%20emissions%20from%20land,transport%2C%20packaging%2C%20and%20retail.),
 and [70% of freshwater withdrawal](https://ourworldindata.org/environmental-impacts-of-food#:~:text=used%20for%20agriculture.-,Food%20is%20responsible%20for%20one%2Dquarter%20of%20the%20world's%20emissions,of%20global%20greenhouse%20gas%20emissions.&text=This%20includes%20emissions%20from%20land,transport%2C%20packaging%2C%20and%20retail.).
-Did you know that livestock makes up [62% of global biomass](https://ourworldindata.org/wild-mammals-birds-biomass),
+Did you know that livestock makes up [62% of mammal biomass](https://ourworldindata.org/wild-mammals-birds-biomass),
 with wild
 mammals only making up 4%?
 
