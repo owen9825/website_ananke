@@ -35,11 +35,11 @@ the industry by just two profit-driven companies can't be good, surely?
 > Market share of grocery retailers in Australia in financial year 2022. Picture: Statistica 2023 
 > via [news.com.au](https://www.news.com.au/finance/money/costs/greed-lack-of-competition-blamed-for-rising-supermarket-prices-top-economists-warn/news-story/689f37e7c66c8ded7770be2bb51126ae)
 
-People might publicly say that it's a bad thing, but Woolworths had
-[374,275 shareholders as of November 2022](https://capital.com/woolworths-group-shareholder-who-owns-most-wow-stock#:~:text=According%20to%20Woolworths%2C%20there%20were%20374%2C275%20WOW%20shareholders%2C,for%20seven%20per%20cent%20of%20issued%20share%20capital),
-and it's not like they're going to say out loud “let's keep squeezing shoppers, employees and the environment."
+People might _publicly_ say that it's a bad thing, but they don't speak for as much of Australia as you might think − Woolworths had
+[374,275 shareholders as of November 2022](https://capital.com/woolworths-group-shareholder-who-owns-most-wow-stock#:~:text=According%20to%20Woolworths%2C%20there%20were%20374%2C275%20WOW%20shareholders%2C,for%20seven%20per%20cent%20of%20issued%20share%20capital).
+It's not as though they're going to join the public debate − they need to keep their opinions hidden; they're not going to say out loud "let's keep squeezing shoppers, employees and the environment."
 
-Even for shoppers, although they say that the system is unfair and that they're being squeezed, do they care about the
+But back to the vocal shoppers − although they say that the system is unfair and that they're being squeezed, do they care about the
 supermarkets also squeezing employees, farmers, chickens, or [orangutans](https://orangutan.org/palmoil/)?
 
 > {{< youtube od_PmtmMDV0 >}}
