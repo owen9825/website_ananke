@@ -24,7 +24,7 @@ Despite this popularity of ducks, they still suffer issues:
 
 We've seen ramps steadily increasing in popularity over time, as though popularity could in fact be a function of an object's silhoutte, but anyway, it has been widely attributed to a greater concern for humans in wheelchairs. As usual for inventions motivated by disability, it turns out there are spinoff benefits to others too, such as prams, scooters, or children wearing partially wheeled shoes.
 
-> ![A shoe with a wheel under the heel](/images/duck_article/Heelys.webp) Surprise, someone will be moving in unpredictable ways and expect you to move for them.
+> ![A shoe with a wheel under the heel](/images/duck_article/Heelys.webp)
 
 Even though building codes now support the existence of ramps for humans on wheels, buildings are sometimes still built in a way where this conformity to standards is mere satisficing − wheeled humans are still treated as second-class citizens. In such scenarios, ducks will also likely be rendered second-class citizens, as they will be unable to understand signs telling them to go to the disabled door or the [poor door](https://nypost.com/2016/01/17/poor-door-tenants-reveal-luxury-towers-financial-apartheid/). Ducks will see the direct, no-nonsense stairway to an appealing location and try to take this.
 
